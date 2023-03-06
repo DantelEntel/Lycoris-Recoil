@@ -1,0 +1,1086 @@
+[Script Info]
+Title: Dantel Entel
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Amazon Ember,68,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,180,180,50,0
+Style: Title,Arial,60,&H00FFFFFF,&H00FF0000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,1,60,90,150,0
+Style: Vuatsigns,Arial,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
+Style: OP-ROM,Eurostile Round,60,&H00D9DAF8,&H00A79EE9,&H4B6158BE,&H004F59BA,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,28,1
+Style: OP-ROM9,Eurostile Round,60,&H00D9DAF8,&H00B1B481,&H4B809845,&H00809845,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,32,1
+Style: OP-TR,Eurostile Round,60,&H00D9DAF8,&H00D9DAF8,&H4B6158BE,&H004F59BA,0,0,0,0,100,100,0,0,1,2.5,0,1,30,30,32,1
+Style: OP-TR9,Eurostile Round,60,&H00D9DAF8,&H00D9DAF8,&H4B809845,&H00809845,0,0,0,0,100,100,0,0,1,1.5,0,1,30,30,32,1
+Style: ED,Eurostile Round,57,&H007C56D2,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1.5,2,7,28,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: MaRCa}{Çeviri Editörü: Einherjar}{Redaksiyon: Vuats}{Yazı Dizimi: Vuats}{Başlangıç Şarkısı: Vuats}{Kapanış Şarkısı: Einherjar}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
+Dialogue: 15,0:00:03.06,0:00:03.69,Default,,0,0,0,,Alan Enstitüsü!
+Dialogue: 15,0:00:03.69,0:00:03.86,Default,,0,0,0,,{\move(960,1030,41.24,1030,22,147)}Alan Enstitüsü!
+Dialogue: 15,0:00:04.44,0:00:07.11,Default,,0,0,0,,{\move(960,1030,37.24,1030,2553,2650)}Küresel çapta nam salmış\Ngizemli bir destek kuruluşu!
+Dialogue: 15,0:00:07.61,0:00:10.03,Default,,0,0,0,,{\move(960,1030,-220.24,1030,2270,2400)}İşin aslı, kaç kişi oldukları bile belirsiz!
+Dialogue: 15,0:00:11.11,0:00:12.28,Default,,0,0,0,,Fakat imkansızlıktan mustarip dahileri arayıp...
+Dialogue: 15,0:00:12.28,0:00:12.49,Default,,0,0,0,,{\move(960,1030,-240,1030,27,191)}Fakat imkansızlıktan mustarip dahileri arayıp...
+Dialogue: 15,0:00:12.37,0:00:12.41,Default,,0,0,0,,{\clip(1464,902,1570,1042)}Fakat imkansızlıktan mustarip dahileri arayıp...
+Dialogue: 15,0:00:12.41,0:00:12.45,Default,,0,0,0,,{\clip(1002,920,1570,1042)}Fakat imkansızlıktan mustarip dahileri arayıp...
+Dialogue: 15,0:00:12.45,0:00:12.49,Default,,0,0,0,,{\clip(504,902,1570,1042)}Fakat imkansızlıktan mustarip dahileri arayıp...
+Dialogue: 15,0:00:12.49,0:00:14.08,Default,,0,0,0,,Fakat imkansızlıktan mustarip dahileri arayıp...
+Dialogue: 15,0:00:14.08,0:00:14.29,Default,,0,0,0,,{\move(960,1030,-400,1030,52,181)}Fakat imkansızlıktan mustarip dahileri arayıp...
+Dialogue: 15,0:00:14.49,0:00:15.58,Default,,0,0,0,,...onlara ücretsiz yardım sağlıyorlar!
+Dialogue: 15,0:00:15.58,0:00:15.79,Default,,0,0,0,,{\move(960,1030,-453.33,1030,19,186)}...onlara ücretsiz yardım sağlıyorlar!
+Dialogue: 15,0:00:15.70,0:00:15.75,Default,,0,0,0,,{\clip(1001.38,891.45,1425.6,1035.2)}...onlara ücretsiz yardım sağlıyorlar!
+Dialogue: 15,0:00:15.75,0:00:15.79,Default,,0,0,0,,{\clip(505.38,899.45,1425.6,1035.2)}...onlara ücretsiz yardım sağlıyorlar!
+Dialogue: 15,0:00:15.79,0:00:16.96,Default,,0,0,0,,...onlara ücretsiz yardım sağlıyorlar!
+Dialogue: 15,0:00:16.95,0:00:21.25,Default,,0,0,0,,Spor, edebiyat, eğlence, tıp, teknoloji\N gibi pek çok alanda faaliyet gösteriyorlar!
+Dialogue: 15,0:00:21.25,0:00:24.58,Default,,0,0,0,,Medyada yazanları duymaya gelmedim ben buraya.
+Dialogue: 15,0:00:24.58,0:00:28.00,Default,,0,0,0,,Kısacası, katil değiller diyorum işte.
+Dialogue: 15,0:00:28.00,0:00:30.92,Default,,0,0,0,,Benden kurtulmaya çalıştıkları bir gerçek.
+Dialogue: 15,0:00:30.92,0:00:34.13,Default,,0,0,0,,Asıl soru; yaşadığım yeri nasıl buldular?
+Dialogue: 15,0:00:35.80,0:00:36.02,Default,,0,0,0,,{\move(60,-800,920,1030,10,120)\fnBAZINGA!\fs80\c&H48ACF9&\fad(0,0)}B
+Dialogue: 15,0:00:35.80,0:00:36.02,Default,,0,0,0,,{\move(960,-800,958,1030,10,120)\fnBAZINGA!\fs80\c&H48ACF9&\fad(0,0)}O
+Dialogue: 15,0:00:35.80,0:00:36.02,Default,,0,0,0,,{\move(1960,-800,1007,1030,10,120)\fnBAZINGA!\fs80\c&H48ACF9&\fad(0,0)}M!
+Dialogue: 15,0:00:36.02,0:00:37.43,Default,,0,0,0,,{\move(920,1030,60,-800,1000,1612)\fnBAZINGA!\fs80\c&H48ACF9&\fad(0,0)}B
+Dialogue: 15,0:00:36.02,0:00:37.43,Default,,0,0,0,,{\move(958,1030,960,-800,1000,1612)\fnBAZINGA!\fs80\c&H48ACF9&\fad(0,0)}O
+Dialogue: 15,0:00:36.02,0:00:37.43,Default,,0,0,0,,{\move(1007,1030,1960,-800,1000,1612)\fnBAZINGA!\fs80\c&H48ACF9&\fad(0,0)}M!
+Dialogue: 15,0:00:38.05,0:00:39.64,Default,,0,0,0,,Takdire şayan.
+Dialogue: 15,0:00:39.64,0:00:43.14,Default,,0,0,0,,Değil mi? Sırf bu kayıt için \Nkendime yeni bir dron almıştım.
+Dialogue: 15,0:00:43.56,0:00:47.35,Default,,0,0,0,,Şu anki konumun doğru ama, değil mi Ceviz?
+Dialogue: 15,0:00:48.15,0:00:49.77,Default,,0,0,0,,Demek mesele buydu.
+Dialogue: 15,0:00:51.07,0:00:54.40,Default,,0,0,0,,Beni satan sendin.
+Dialogue: 15,0:00:59.07,0:01:00.16,Default,,0,0,0,,İfşalandın!
+Dialogue: 15,0:01:00.16,0:01:03.08,Default,,0,0,0,,Bu ülkenin en iyi hackerının \Ndeğişme vakti geldi de çattı!
+Dialogue: 15,0:01:03.33,0:01:06.25,Default,,0,0,0,,Elveda de bakalım moruk!
+Dialogue: 15,0:01:11.17,0:01:12.96,Default,,0,0,0,,Ceviz mi?
+Dialogue: 15,0:03:12.21,0:03:14.17,Default,,0,0,0,,Hastır, geç kaldım!
+Dialogue: 15,0:03:17.63,0:03:19.17,Default,,0,0,0,,Bu... bi' de bu!
+Dialogue: 15,0:03:24.14,0:03:26.35,Default,,0,0,0,,Beklettim! Çisato'nuz geldi!
+Dialogue: 15,0:03:26.97,0:03:28.43,Default,,0,0,0,,Ooo, Bay Yoşi gelmişler!
+Dialogue: 15,0:03:28.68,0:03:30.64,Default,,0,0,0,,Bir aydır ortalıkta yoktunuz.
+Dialogue: 15,0:03:30.64,0:03:32.31,Default,,0,0,0,,Beni hatırlıyorsun demek.
+Dialogue: 15,0:03:32.56,0:03:35.36,Default,,0,0,0,,Yani, pek müşterimiz olmadığından...
+Dialogue: 15,0:03:35.36,0:03:36.90,Default,,0,0,0,,Dermişim, şaka şaka.
+Dialogue: 15,0:03:37.27,0:03:40.36,Default,,0,0,0,,Takina'nın ilk müşterisini nasıl unutabilirim?
+Dialogue: 15,0:03:40.90,0:03:44.66,Default,,0,0,0,,Bu sefer nereye gittiniz? \NAmerika? Avrupa?
+Dialogue: 15,0:03:45.07,0:03:47.16,Default,,0,0,0,,Buldum! Çin'deydiniz, di' mi?
+Dialogue: 15,0:03:47.83,0:03:53.00,Default,,0,0,0,,Bilemedin. Rusya'daydım. \NAl bakalım, hediye getirdim.
+Dialogue: 15,0:03:54.01,0:03:55.54,Default,,0,0,0,,Bu da ne?
+Dialogue: 15,0:03:57.75,0:03:59.63,Default,,0,0,0,,Müdürümle de Rusya'da mı tanışmıştınız?
+Dialogue: 15,0:03:59.63,0:04:02.22,Default,,0,0,0,,Çisato, hazırlan artık.
+Dialogue: 15,0:04:02.22,0:04:04.72,Default,,0,0,0,,Öf ya, söylesenize!
+Dialogue: 15,0:04:06.39,0:04:07.89,Default,,0,0,0,,Onu başka bir gün konuşuruz.
+Dialogue: 15,0:04:07.89,0:04:10.18,Default,,0,0,0,,Müsaadenizi isteyeyim o halde.
+Dialogue: 15,0:04:14.27,0:04:16.52,Default,,0,0,0,,Hediye için teşekkürler!
+Dialogue: 15,0:04:19.40,0:04:20.19,Default,,0,0,0,,Çisato.
+Dialogue: 15,0:04:20.65,0:04:22.15,Default,,0,0,0,,Eee? Ne kadar acil?
+Dialogue: 15,0:04:22.15,0:04:24.74,Default,,0,0,0,,Şu anda bir grup silahlı\N saldırgan, hedefi kovalıyor.
+Dialogue: 15,0:04:24.86,0:04:26.53,Default,,0,0,0,,Sıkıntı.
+Dialogue: 15,0:04:26.53,0:04:28.74,Default,,0,0,0,,Takina, detayları duydun mu?
+Dialogue: 15,0:04:28.74,0:04:30.08,Default,,0,0,0,,Evet, kabaca.
+Dialogue: 15,0:04:30.29,0:04:31.37,Default,,0,0,0,,Tamam.
+Dialogue: 15,0:04:31.37,0:04:33.50,Default,,0,0,0,,Sahi ya! Dün bahsettiğim film vardı ya.
+Dialogue: 15,0:04:33.50,0:04:36.63,Default,,0,0,0,,Oraya bıraktım, dönüşte alırsın.
+Dialogue: 15,0:04:39.13,0:04:40.38,Default,,0,0,0,,Bu arada, Mizuki nerede?
+Dialogue: 15,0:04:40.55,0:04:43.09,Default,,0,0,0,,Kaçış yolunu güvenceye alıyor.
+Dialogue: 15,0:04:43.22,0:04:45.80,Default,,0,0,0,,Epey hevesli, ilginç.
+Dialogue: 15,0:04:46.26,0:04:49.97,Default,,0,0,0,,Sonuçta ödül piyasanın üç katı ve peşin.
+Dialogue: 15,0:04:49.97,0:04:50.97,Default,,0,0,0,,Normalmiş.
+Dialogue: 15,0:04:51.31,0:04:53.93,Default,,0,0,0,,Durum o kadar kritik işte.
+Dialogue: 15,0:04:53.93,0:04:55.69,Default,,0,0,0,,Sayıları beş ila on arasında.
+Dialogue: 15,0:04:55.90,0:04:57.56,Default,,0,0,0,,Amatör olduklarına bakmayın.
+Dialogue: 15,0:04:57.56,0:05:00.19,Default,,0,0,0,,Tüfekleri olduğu doğrulandı. Dikkatli olun.
+Dialogue: 15,0:05:00.27,0:05:02.07,Default,,0,0,0,,Anlaşıldı. Gidelim!
+Dialogue: 15,0:05:04.24,0:05:06.53,Default,,0,0,0,,Bu arada, karnım acıktı benim.
+Dialogue: 15,0:05:06.70,0:05:08.45,Default,,0,0,0,,Zamanımız yok.
+Dialogue: 15,0:05:15.21,0:05:16.62,Default,,0,0,0,,Bu, kaçış rotamızdı.
+Dialogue: 15,0:05:17.25,0:05:21.09,Default,,0,0,0,,Haneda kapılarını geçtikten sonra\N Mizuki hanımla yer değiştireceğiz.
+Dialogue: 15,0:05:21.09,0:05:21.22,Default,,0,0,0,,{\pos(631.2,637.6)\fs48\bord1}Dinliyor musun?
+Dialogue: 15,0:05:21.22,0:05:21.34,Default,,0,0,0,,{\pos(654.8,720.2)\fs48\bord1}Dinliyor musun?
+Dialogue: 15,0:05:21.34,0:05:21.47,Default,,0,0,0,,{\pos(658.4,801.4)\fs48\bord1}Dinliyor musun?
+Dialogue: 15,0:05:21.47,0:05:21.59,Default,,0,0,0,,{\pos(644,880.4)\fs48\bord1}Dinliyor musun?
+Dialogue: 15,0:05:21.59,0:05:21.72,Default,,0,0,0,,{\pos(628,916.4)\fs48\bord1}Dinliyor musun?
+Dialogue: 15,0:05:21.72,0:05:22.34,Default,,0,0,0,,{\pos(612.8,949.6)\fs48\bord1\fad(0,100)}Dinliyor musun?
+Dialogue: 16,0:05:22.30,0:05:26.97,Default,,0,0,0,,{\fad(100,0)}Aynen aynen. Müvekkilimiz harika\Nbir hacker. Nasıl biridir acaba?
+Dialogue: 15,0:05:26.97,0:05:30.30,Default,,0,0,0,,Şöyle gözlüklü, zayıf ve kısa boyludur kesin.
+Dialogue: 15,0:05:33.93,0:05:35.60,Default,,0,0,0,,Çok fazla film izliyorsun.
+Dialogue: 15,0:05:37.73,0:05:39.48,Default,,0,0,0,,Takina, o ne?
+Dialogue: 15,0:05:39.48,0:05:40.94,Default,,0,0,0,,Tüp jöle.
+Dialogue: 15,0:05:40.94,0:05:42.65,Default,,0,0,0,,Orada dur bakalım, Takina hanım.
+Dialogue: 15,0:05:42.65,0:05:44.57,Default,,0,0,0,,Şu anki durumun farkında mısın acaba?
+Dialogue: 15,0:05:45.03,0:05:47.32,Default,,0,0,0,,Müvekkilimizle buluşmaya gidiyoruz.
+Dialogue: 15,0:05:47.53,0:05:49.99,Default,,0,0,0,,Aynen! Buluşmadan önce de\N düzgün bir şeyler yememiz lazım.
+Dialogue: 15,0:05:50.37,0:05:51.66,Default,,0,0,0,,Şu an yiyorum ya.
+Dialogue: 15,0:05:51.66,0:05:53.41,Default,,0,0,0,,Ne? Düzgün dediğin o mu?
+Dialogue: 15,0:05:53.41,0:05:55.70,Default,,0,0,0,,Hazır istasyona gelmişken kendime bi' yolluk aldıydım.
+Dialogue: 15,0:05:56.58,0:05:57.83,Default,,0,0,0,,Azıcık ister misin?
+Dialogue: 15,0:05:57.92,0:05:59.00,Default,,0,0,0,,Hayır, teşekkürler.
+Dialogue: 15,0:05:59.71,0:06:02.92,Default,,0,0,0,,Aaa, deme öyle! Haşlanmış yumurta çok güzel.
+Dialogue: 15,0:06:03.38,0:06:05.38,Default,,0,0,0,,Hadi, "aaa" de baki'm!
+Dialogue: 15,0:06:09.39,0:06:10.34,Default,,0,0,0,,Güzel mi?
+Dialogue: 15,0:06:10.34,0:06:11.26,Default,,0,0,0,,Güzel.
+Dialogue: 15,0:06:11.43,0:06:13.14,Default,,0,0,0,,Tabii güzel!
+Dialogue: 15,0:06:13.39,0:06:15.43,Default,,0,0,0,,{\an8\i1}Bizi tercih ettiğiniz için teşekkür ederiz.
+Dialogue: 15,0:06:15.43,0:06:18.35,Default,,0,0,0,,{\an8\i1}Birazdan Kitasenju'ya varacağız.\NSonraki durak, Kitasenju.
+Dialogue: 15,0:06:16.64,0:06:17.81,Default,,0,0,0,,İniyoruz.
+Dialogue: 15,0:06:18.48,0:06:21.98,Default,,0,0,0,,On dakika içinde tren değişecektik,\N bu yüzden jöleyi seçmiştim.
+Dialogue: 15,0:06:21.98,0:06:23.77,Default,,0,0,0,,Öyle miymiş ya?
+Dialogue: 15,0:06:23.77,0:06:25.82,Default,,0,0,0,,{\an8\i1}Ueno, Ginza ve Nakameguro için—
+Dialogue: 15,0:06:23.77,0:06:25.82,Default,,0,0,0,,Dinlememişsin işte.
+Dialogue: 15,0:06:28.90,0:06:30.91,Default,,0,0,0,,Ceviz öldü mü?
+Dialogue: 15,0:06:31.53,0:06:33.33,Default,,0,0,0,,Dark Web'deki söylenti bu.
+Dialogue: 15,0:06:33.33,0:06:37.29,Default,,0,0,0,,Fakat son 30 yılda defalarca öldüğü bildirildi.
+Dialogue: 15,0:06:37.62,0:06:39.67,Default,,0,0,0,,Gizemli biri.
+Dialogue: 15,0:06:39.87,0:06:43.88,Default,,0,0,0,,Çaldığı verilerle birlikte ortadan \Nkaybolsa işimize gelirdi ama...
+Dialogue: 15,0:06:44.59,0:06:47.01,Default,,0,0,0,,...meraklıların sesi sorun çıkarabilir.
+Dialogue: 15,0:06:47.26,0:06:52.34,Default,,0,0,0,,Ayrıca LikoReko'dan gönderilen\N şu fotoğrafın analizi de çıktı.
+Dialogue: 15,0:06:53.22,0:06:57.10,Default,,0,0,0,,Operasyondan üç saat \Nöncesine ait olduğu doğrulandı.
+Dialogue: 15,0:06:57.43,0:07:02.69,Default,,0,0,0,,Sahte istihbarata kandık\Ndemek. Giderek paslanıyoruz.
+Dialogue: 15,0:07:03.77,0:07:06.53,Default,,0,0,0,,Epey bulanık. Teşhis edebildiniz mi?
+Dialogue: 15,0:07:06.90,0:07:09.78,Default,,0,0,0,,Biraz vakit alacak ama edeceğiz.
+Dialogue: 15,0:07:11.86,0:07:13.07,Default,,0,0,0,,Baksana bi' Takina.
+Dialogue: 15,0:07:13.37,0:07:18.08,Default,,0,0,0,,Şu Ceviz isimli hackerla buluştuktan \Nsonra Haneda'ya nasıl gideceğiz?
+Dialogue: 15,0:07:18.08,0:07:21.12,Default,,0,0,0,,Harbiden tek bir kelime dinlememişsin.
+Dialogue: 15,0:07:21.12,0:07:24.34,Default,,0,0,0,,Hı? Pardon ya! Bir kez daha\N tekrarlar mısınız Takina hanım!
+Dialogue: 15,0:07:24.88,0:07:27.84,Default,,0,0,0,,Müdür bize bir otomobil ayarlamış.
+Dialogue: 15,0:07:28.05,0:07:29.17,Default,,0,0,0,,Ne, harbi mi?
+Dialogue: 15,0:07:29.17,0:07:32.22,Default,,0,0,0,,Karar verilmiştir! Ben süreceğim!
+Dialogue: 15,0:07:31.22,0:07:32.22,Default,,0,0,0,,{\an8}Ben süreceğim.
+Dialogue: 15,0:07:32.43,0:07:36.47,Default,,0,0,0,,Hı? Neden? \NSürmeyi biliyo'n mu ki sen?
+Dialogue: 15,0:07:36.85,0:07:39.73,Default,,0,0,0,,Süremesem Likoris olamazdım ki.
+Dialogue: 15,0:07:42.02,0:07:43.65,Default,,0,0,0,,Şuradaki otopark.
+Dialogue: 15,0:07:44.19,0:07:46.36,Default,,0,0,0,,Oha, süpermobil!
+Dialogue: 15,0:07:46.77,0:07:48.99,Default,,0,0,0,,Süper bi' şey!
+Dialogue: 15,0:07:48.11,0:07:48.16,Default,,0,0,0,,{\an8\pos(1360,309.2)\fs45\bord1}Fazla dikkat çekici.
+Dialogue: 15,0:07:48.16,0:07:48.24,Default,,0,0,0,,{\an8\pos(1367,292.2)\fs45\bord1}Fazla dikkat çekici.
+Dialogue: 15,0:07:48.24,0:07:48.91,Default,,0,0,0,,{\an8\pos(1360,309.2)\fs45\bord1}Fazla dikkat çekici.
+Dialogue: 15,0:07:48.91,0:07:48.99,Default,,0,0,0,,{\an8\pos(1367,292.2)\fs45\bord1}Fazla dikkat çekici.
+Dialogue: 15,0:07:48.99,0:07:49.53,Default,,0,0,0,,{\an8\pos(1360,309.2)\fs45\bord1}Fazla dikkat çekici.
+Dialogue: 15,0:07:49.53,0:07:53.11,Default,,0,0,0,,Ama bunu ben sürmezsem ölürüm ki!
+Dialogue: 15,0:07:57.33,0:07:58.00,Default,,0,0,0,,Oha, bu ne?
+Dialogue: 15,0:07:57.99,0:07:58.04,Default,,0,0,0,,{\pos(960,1030)}Oha, bu ne?
+Dialogue: 15,0:07:58.04,0:07:58.08,Default,,0,0,0,,{\pos(776.39,1030.45)}Oha, bu ne?
+Dialogue: 15,0:07:58.08,0:07:58.12,Default,,0,0,0,,{\pos(600.85,1030.88)}Oha, bu ne?
+Dialogue: 15,0:07:58.12,0:07:58.16,Default,,0,0,0,,{\pos(431.49,1030.91)}Oha, bu ne?
+Dialogue: 15,0:07:58.16,0:07:58.20,Default,,0,0,0,,{\pos(275.85,1030.89)}Oha, bu ne?
+Dialogue: 15,0:07:58.20,0:07:58.24,Default,,0,0,0,,{\pos(136.64,1030.91)}Oha, bu ne?
+Dialogue: 15,0:07:58.24,0:07:58.29,Default,,0,0,0,,{\pos(16.64,1030.88)}Oha, bu ne?
+Dialogue: 15,0:07:58.29,0:07:58.33,Default,,0,0,0,,{\pos(-81.53,1030.88)}Oha, bu ne?
+Dialogue: 15,0:07:59.70,0:08:00.50,Default,,0,0,0,,Ce?
+Dialogue: 15,0:08:00.75,0:08:01.62,Default,,0,0,0,,Viz.
+Dialogue: 15,0:08:01.83,0:08:03.79,Default,,0,0,0,,Atlayın çabuk. Peşimdeler!
+Dialogue: 15,0:08:03.79,0:08:06.25,Default,,0,0,0,,Ne? Deminki neydi, şifre mi? Çok demode.
+Dialogue: 15,0:08:06.25,0:08:09.09,Default,,0,0,0,,Ha? Şey, durun bi'! Süpermobil n'olacak?
+Dialogue: 15,0:08:09.26,0:08:12.55,Default,,0,0,0,,Ben süper olanı istiyo'm ya!
+Dialogue: 15,0:08:15.18,0:08:18.81,Default,,0,0,0,,Korumamız gereken kişi \Nniye arabayla cesurca ortaya çıkıyor?
+Dialogue: 15,0:08:18.81,0:08:20.56,Default,,0,0,0,,Tam tersi olması gerekmiyor mu?
+Dialogue: 15,0:08:20.56,0:08:22.69,Default,,0,0,0,,Ah, süpermobil...
+Dialogue: 15,0:08:22.69,0:08:25.40,Default,,0,0,0,,Bu dikkat çekmediği için daha iyi.
+Dialogue: 15,0:08:25.65,0:08:29.02,Default,,0,0,0,,İşler plana uygun ilerlemediği\Niçin üzgünüm. Ben Ceviz.
+Dialogue: 15,0:08:29.32,0:08:31.36,Default,,0,0,0,,Tabii, tabii. Ben de Çisato.
+Dialogue: 15,0:08:31.36,0:08:32.82,Default,,0,0,0,,Bu da Takina.
+Dialogue: 15,0:08:33.32,0:08:36.87,Default,,0,0,0,,Hayallerimdeki hackerdan epey farklısın.
+Dialogue: 15,0:08:37.07,0:08:40.20,Default,,0,0,0,,Kötü niyetli, zayıf, \Ndört göz bi' çocuk mu bekliyordun?
+Dialogue: 15,0:08:40.20,0:08:42.37,Default,,0,0,0,,Öyleyse çok fazla film izlemişsin.
+Dialogue: 15,0:08:42.37,0:08:43.41,Default,,0,0,0,,Bak, ne demiştim?
+Dialogue: 15,0:08:43.41,0:08:46.38,Default,,0,0,0,,Hayır, hayır, hayır. \NKostümlü olması bi' tuhaf hem.
+Dialogue: 15,0:08:46.67,0:08:50.13,Default,,0,0,0,,Hackerlar yüzlerini ne kadar\Nsaklarsa ömürleri o kadar uzun olur.
+Dialogue: 15,0:08:50.42,0:08:53.34,Default,,0,0,0,,Liseli katil kızlar benden\Ndaha anormal hem, Likoris.
+Dialogue: 15,0:08:53.63,0:08:56.14,Default,,0,0,0,,Ayı kostümlü bir hackerdan daha normaldir.
+Dialogue: 15,0:08:56.14,0:08:58.01,Default,,0,0,0,,Takina, köpek o.
+Dialogue: 15,0:08:58.01,0:08:59.05,Default,,0,0,0,,Sincap.
+Dialogue: 15,0:09:06.60,0:09:08.31,Default,,0,0,0,,Nasıl daha mantıklı peki?
+Dialogue: 15,0:09:08.73,0:09:13.28,Default,,0,0,0,,Kısacası, bu kıyafet\N Japonya'da en az dikkat çeken şey.
+Dialogue: 15,0:09:13.74,0:09:17.45,Default,,0,0,0,,Liseli kız üniformasını\Nkamuflaj olarak kullanıyorsunuz yani.
+Dialogue: 15,0:09:17.45,0:09:18.91,Default,,0,0,0,,Şu büyük şey ne?
+Dialogue: 15,0:09:19.41,0:09:20.74,Default,,0,0,0,,Benim her şeyim.
+Dialogue: 15,0:09:21.24,0:09:24.08,Default,,0,0,0,,Ülkeden kaçacaksan hafif dolaşmak gerekir.
+Dialogue: 15,0:09:24.08,0:09:27.50,Default,,0,0,0,,Sen pek hafif durmuyorsun ama.
+Dialogue: 15,0:09:27.50,0:09:28.71,Default,,0,0,0,,Yine de kıskandım.
+Dialogue: 15,0:09:29.08,0:09:31.21,Default,,0,0,0,,Ben de yurt dışına gitmek istiyorum.
+Dialogue: 15,0:09:31.21,0:09:32.63,Default,,0,0,0,,Benimle gelmek ister misin?
+Dialogue: 15,0:09:32.63,0:09:36.22,Default,,0,0,0,,Devlette kaydımız olmadığı\Niçin pasaport alamıyoruz.
+Dialogue: 15,0:09:38.72,0:09:40.05,Default,,0,0,0,,Gelen yok.
+Dialogue: 15,0:09:40.05,0:09:41.39,Default,,0,0,0,,Aynen.
+Dialogue: 15,0:09:41.39,0:09:44.43,Default,,0,0,0,,Takip eden kimse yok gibi. \NDirekt Haneda'ya mı gitsek?
+Dialogue: 15,0:09:44.43,0:09:47.10,Default,,0,0,0,,Hayır. Arabaları değiştirin dediler.
+Dialogue: 15,0:09:47.60,0:09:50.31,Default,,0,0,0,,Ceviz, buraya gidelim lütfen.
+Dialogue: 15,0:09:50.69,0:09:51.82,Default,,0,0,0,,Anlaşıldı.
+Dialogue: 15,0:09:52.15,0:09:53.45,Default,,0,0,0,,Boş ver şimdi onu.
+Dialogue: 15,0:09:53.55,0:09:56.57,Default,,0,0,0,,Arabada iki hatun var.\NYoluna çıkanı öldürebilirsin.
+Dialogue: 15,0:09:56.86,0:09:59.53,Default,,0,0,0,,Kusura bakma. \NPark çevresinde izlerini kaybettik.
+Dialogue: 15,0:10:00.32,0:10:03.37,Default,,0,0,0,,Ne işe yaramaz heriflersiniz.\N Aldığınız parayı hak edin bari.
+Dialogue: 15,0:10:04.95,0:10:06.21,Default,,0,0,0,,Hiç sevmiyorum bu herifi.
+Dialogue: 15,0:10:08.50,0:10:10.38,Default,,0,0,0,,Hı? Otobandan gitmiyor muyuz?
+Dialogue: 15,0:10:10.75,0:10:11.67,Default,,0,0,0,,N'oldu?
+Dialogue: 15,0:10:11.67,0:10:14.09,Default,,0,0,0,,Şey, onu bizim dememiz lazım aslında.
+Dialogue: 15,0:10:18.13,0:10:19.93,Default,,0,0,0,,Arabayı ele geçirmişler.
+Dialogue: 15,0:10:20.97,0:10:21.89,Default,,0,0,0,,Dur bir saniye!
+Dialogue: 15,0:10:25.98,0:10:28.52,Default,,0,0,0,,Robota bu. Kendini geliştirmiş.
+Dialogue: 15,0:10:28.77,0:10:30.35,Default,,0,0,0,,Nereye gidiyoruz?
+Dialogue: 15,0:10:30.35,0:10:31.36,Default,,0,0,0,,Hızlanıyoruz.
+Dialogue: 15,0:10:33.36,0:10:35.28,Default,,0,0,0,,Bizi okyanusa atmayı planlıyor gibi.
+Dialogue: 15,0:10:35.69,0:10:36.86,Default,,0,0,0,,Bağlantılarını kessek?
+Dialogue: 15,0:10:37.24,0:10:41.16,Default,,0,0,0,,Yetmez. Araçla olan bağlantısını kestiğimiz gibi yeniden bağlanır.
+Dialogue: 15,0:10:41.87,0:10:43.78,Default,,0,0,0,,Aynen öyle, Ceviz!
+Dialogue: 15,0:10:44.08,0:10:46.00,Default,,0,0,0,,Ne? O zaman ne yapacağız?
+Dialogue: 15,0:10:46.37,0:10:50.50,Default,,0,0,0,,Ama araçla bağlantısını \Nkestiğimiz gibi interneti kapatırsak...
+Dialogue: 15,0:10:50.58,0:10:52.50,Default,,0,0,0,,Hı? Yönlendirici nerede?
+Dialogue: 15,0:10:52.50,0:10:54.13,Default,,0,0,0,,Bilmem. Araba benim değil.
+Dialogue: 15,0:10:54.38,0:10:56.05,Default,,0,0,0,,Çisato, şurada.
+Dialogue: 15,0:10:59.22,0:11:00.26,Default,,0,0,0,,O muymuş?
+Dialogue: 15,0:11:00.72,0:11:02.34,Default,,0,0,0,,Fark ettirirsek kaçar.
+Dialogue: 15,0:11:14.19,0:11:16.69,Default,,0,0,0,,{\i1}Kendime o kadar güvenmiyorum.\NBu seferki sende, Takina.
+Dialogue: 15,0:11:16.69,0:11:18.69,Default,,0,0,0,,{\i1}Pekala, bağlantıyı kesiyorum...
+Dialogue: 15,0:11:19.32,0:11:21.86,Default,,0,0,0,,{\i1}Üç, iki, bir...
+Dialogue: 15,0:11:22.57,0:11:24.12,Default,,0,0,0,,İşe yaramaz!
+Dialogue: 15,0:12:02.66,0:12:06.28,Default,,0,0,0,,Şimdilik bi' yerimizden kıpırdamayalım. \Nİşaretimle çıkacağız.
+Dialogue: 15,0:12:06.28,0:12:08.08,Default,,0,0,0,,Ba-Bavulum...
+Dialogue: 15,0:12:08.08,0:12:09.12,Default,,0,0,0,,Ben alırım.
+Dialogue: 15,0:12:17.55,0:12:19.55,Default,,0,0,0,,Önce başka bi' konuma geçmeli.
+Dialogue: 15,0:12:22.30,0:12:26.43,Default,,0,0,0,,{\i1}Silahlı korumaları var.\N Eline yüzüne bulaştırma sakın.
+Dialogue: 15,0:12:28.47,0:12:30.85,Default,,0,0,0,,Korumaları var. Dikkatli ilerleyelim.
+Dialogue: 15,0:12:31.06,0:12:31.89,Default,,0,0,0,,Tamam!
+Dialogue: 15,0:12:31.89,0:12:32.64,Default,,0,0,0,,Gidelim.
+Dialogue: 15,0:12:32.64,0:12:33.69,Default,,0,0,0,,Tamam.
+Dialogue: 15,0:12:37.02,0:12:39.57,Default,,0,0,0,,Evet. Süpermarketi tahliye ettik.
+Dialogue: 15,0:12:39.57,0:12:41.65,Default,,0,0,0,,Hiçbirimizde belirgin yara yok.
+Dialogue: 15,0:12:41.65,0:12:44.36,Default,,0,0,0,,{\i1}Anlaşıldı. Dikkatli hareket edin.
+Dialogue: 15,0:12:48.41,0:12:51.37,Default,,0,0,0,,Her şeyi görüyorum ben yalnız.
+Dialogue: 15,0:12:51.37,0:12:53.37,Default,,0,0,0,,Emirleriniz geliyor, iyi dinleyin.
+Dialogue: 15,0:12:53.58,0:12:55.00,Default,,0,0,0,,Takip edin lütfen.
+Dialogue: 15,0:13:03.76,0:13:06.14,Default,,0,0,0,,Üçünü de bulduk! Silahlılar!
+Dialogue: 15,0:13:06.81,0:13:07.43,Default,,0,0,0,,Motor!
+Dialogue: 15,0:13:17.27,0:13:18.77,Default,,0,0,0,,Hay sokayım!
+Dialogue: 15,0:13:21.03,0:13:22.11,Default,,0,0,0,,Hı? Hayır, dur!
+Dialogue: 15,0:13:22.65,0:13:24.82,Default,,0,0,0,,Bavula siper alma!
+Dialogue: 15,0:13:25.32,0:13:26.95,Default,,0,0,0,,Dur, yapma şunu!
+Dialogue: 15,0:13:26.99,0:13:29.74,Default,,0,0,0,,Boşuna mı dedik çok değerli diye!?
+Dialogue: 15,0:13:29.91,0:13:32.16,Default,,0,0,0,,Takina, yapma diyor bak!
+Dialogue: 15,0:13:32.16,0:13:33.45,Default,,0,0,0,,Yeter! Geri çekilin!
+Dialogue: 15,0:13:33.79,0:13:35.66,Default,,0,0,0,,İmkansızı istemeyin benden!
+Dialogue: 15,0:13:52.52,0:13:53.72,Default,,0,0,0,,Şansını kullandın!
+Dialogue: 15,0:14:07.91,0:14:09.37,Default,,0,0,0,,{\i1}Vuramıyorum!
+Dialogue: 15,0:14:37.69,0:14:39.56,Default,,0,0,0,,Kıpırdama. İlk yardım yapacağım.
+Dialogue: 15,0:14:39.85,0:14:40.81,Default,,0,0,0,,Ne yapıyors—
+Dialogue: 15,0:14:42.44,0:14:44.44,Default,,0,0,0,,Kanaman var işte.
+Dialogue: 15,0:14:45.65,0:14:48.28,Default,,0,0,0,,Destek kuvvetleri gelmeden kaçalım.
+Dialogue: 15,0:14:49.03,0:14:50.03,Default,,0,0,0,,Biraz bekle.
+Dialogue: 15,0:14:51.91,0:14:53.20,Default,,0,0,0,,Etrafımızı saracaklar.
+Dialogue: 15,0:14:53.20,0:14:54.45,Default,,0,0,0,,Ölmek üzere.
+Dialogue: 15,0:14:57.04,0:14:59.92,Default,,0,0,0,,Kaçış rotamızı henüz izlemiyorlar.
+Dialogue: 15,0:14:59.92,0:15:01.21,Default,,0,0,0,,Hala kaçabiliriz.
+Dialogue: 15,0:15:01.75,0:15:03.79,Default,,0,0,0,,Hemen arkanızdan geliyorum.
+Dialogue: 15,0:15:06.88,0:15:08.01,Default,,0,0,0,,Gidelim.
+Dialogue: 15,0:15:10.89,0:15:12.09,Default,,0,0,0,,Derdin ne senin?
+Dialogue: 15,0:15:12.55,0:15:14.68,Default,,0,0,0,,Belli olmuyor mu? İlk yardım işte.
+Dialogue: 15,0:15:14.97,0:15:17.39,Default,,0,0,0,,Kes şunu. Dalga mı geçiyorsun benimle?
+Dialogue: 15,0:15:18.06,0:15:19.69,Default,,0,0,0,,Ölmek mi istiyorsun yani?
+Dialogue: 15,0:15:19.69,0:15:21.23,Default,,0,0,0,,Ha-Hayır, lütfen.
+Dialogue: 15,0:15:21.90,0:15:23.90,Default,,0,0,0,,Akşam kimlerle yemek yiyeceksin?
+Dialogue: 15,0:15:24.73,0:15:25.98,Default,,0,0,0,,Ailemle...
+Dialogue: 15,0:15:25.98,0:15:27.28,Default,,0,0,0,,Ne güzel.
+Dialogue: 15,0:15:29.53,0:15:30.53,Default,,0,0,0,,Ne?
+Dialogue: 15,0:15:31.66,0:15:33.87,Default,,0,0,0,,Benim mermilerimden zarar gelmez.
+Dialogue: 15,0:15:33.99,0:15:35.20,Default,,0,0,0,,Plastik mermiler demek.
+Dialogue: 15,0:15:36.29,0:15:37.16,Default,,0,0,0,,Bu kadar yeter.
+Dialogue: 15,0:15:37.54,0:15:38.95,Default,,0,0,0,,Git artık.
+Dialogue: 15,0:15:40.58,0:15:41.63,Default,,0,0,0,,Tamamdır.
+Dialogue: 15,0:15:41.96,0:15:43.67,Default,,0,0,0,,Demir yönünden zengin bir şeyler yiyin.
+Dialogue: 15,0:15:44.04,0:15:45.42,Default,,0,0,0,,O taraftan gitme.
+Dialogue: 15,0:15:47.25,0:15:50.22,Default,,0,0,0,,Bizim hacker dronla izliyor.
+Dialogue: 15,0:15:50.51,0:15:52.09,Default,,0,0,0,,Sizi bekliyor.
+Dialogue: 15,0:15:56.26,0:15:57.56,Default,,0,0,0,,Hı? Bekleyin...
+Dialogue: 15,0:15:57.56,0:15:59.10,Default,,0,0,0,,Takina! Çıkmayın sakın!
+Dialogue: 15,0:16:17.24,0:16:18.45,Default,,0,0,0,,Ceviz!
+Dialogue: 15,0:16:18.66,0:16:21.25,Default,,0,0,0,,Budur! En az on delik açtık!
+Dialogue: 15,0:16:21.25,0:16:23.33,Default,,0,0,0,,{\i1}Şimdi n'apalım? Korumaları da indirelim mi?
+Dialogue: 15,0:16:23.33,0:16:24.75,Default,,0,0,0,,Gerek yok.
+Dialogue: 15,0:16:26.00,0:16:28.67,Default,,0,0,0,,Gidip bir şeyler yiyelim.
+Dialogue: 15,0:16:29.46,0:16:32.38,Default,,0,0,0,,Başaramadık. Müvekkil öldürüldü.
+Dialogue: 15,0:16:32.38,0:16:34.39,Default,,0,0,0,,{\i1}Birazdan acil durum aracı gelecek.
+Dialogue: 15,0:16:34.39,0:16:37.35,Default,,0,0,0,,{\i1}Cesedi ve bavulu toplayıp olay mahallinden uzaklaşın.
+Dialogue: 15,0:16:37.35,0:16:38.10,Default,,0,0,0,,Anlaşıldı.
+Dialogue: 15,0:16:51.65,0:16:54.45,Default,,0,0,0,,Yanındakiler korumaları mı?
+Dialogue: 15,0:16:54.45,0:16:56.41,Default,,0,0,0,,Onları da mı öldürseydik?
+Dialogue: 15,0:16:56.82,0:17:02.71,Default,,0,0,0,,Hayır. İyi iş çıkardın. Nihayet geçen aydan\N kalan tüm isteklerim de tamamlandı.
+Dialogue: 15,0:17:02.71,0:17:04.42,Default,,0,0,0,,Her şey için eline sağlık.
+Dialogue: 15,0:17:04.79,0:17:07.00,Default,,0,0,0,,Bir ara tekrar yardımını isteyeceğim.
+Dialogue: 15,0:17:08.00,0:17:13.13,Default,,0,0,0,,{\i1}Artık Japonya'nın en iyi hackerıyım!\NBenden her an, her şeyi isteyebilirsin!
+Dialogue: 15,0:17:13.13,0:17:14.51,Default,,0,0,0,,{\i1}Görüşmek üzere!
+Dialogue: 15,0:17:15.89,0:17:17.97,Default,,0,0,0,,Kedi yattığı yere pislemez.
+Dialogue: 15,0:17:17.97,0:17:20.93,Default,,0,0,0,,Seninle iş yapmak bu yüzden güzel, Robota.
+Dialogue: 15,0:17:23.81,0:17:25.52,Default,,0,0,0,,İyi bir araçsın.
+Dialogue: 15,0:17:36.41,0:17:37.70,Default,,0,0,0,,Üzgünüm.
+Dialogue: 15,0:17:37.70,0:17:39.41,Default,,0,0,0,,Senin suçun değildi, Takina.
+Dialogue: 15,0:17:43.00,0:17:45.33,Default,,0,0,0,,Bu kadarı yeter herhalde.
+Dialogue: 15,0:17:51.21,0:17:53.63,Default,,0,0,0,,Çok sıcak be! Bi' bira alırım!
+Dialogue: 15,0:17:56.18,0:17:58.05,Default,,0,0,0,,Mizuki? Hı? N-N-Nasıl yani?
+Dialogue: 15,0:17:58.05,0:17:59.24,Default,,0,0,0,,Sakinleş, Çisato.
+Dialogue: 15,0:17:59.89,0:18:00.64,Default,,0,0,0,,Müdür!?
+Dialogue: 15,0:18:04.06,0:18:06.02,Default,,0,0,0,,Ah, kurşun geçirmez bu.
+Dialogue: 15,0:18:06.02,0:18:07.85,Default,,0,0,0,,İşin sırrı kan torbalarında.
+Dialogue: 15,0:18:07.85,0:18:09.36,Default,,0,0,0,,Gavur ölüsü gibi ama!
+Dialogue: 15,0:18:09.65,0:18:11.98,Default,,0,0,0,,Gerçek Ceviz nerede peki?
+Dialogue: 15,0:18:11.98,0:18:13.61,Default,,0,0,0,,Sahi ya! O nereye gitti?
+Dialogue: 15,0:18:13.82,0:18:14.94,Default,,0,0,0,,Buradayım.
+Dialogue: 15,0:18:16.24,0:18:20.45,Default,,0,0,0,,Peşindekilerden kurtulmanın en iyi yolu,\Nonlara öldüğünü düşündürmektir.
+Dialogue: 15,0:18:20.53,0:18:22.83,Default,,0,0,0,,Bu şekilde daha fazla sorgulamazlar.
+Dialogue: 15,0:18:27.16,0:18:29.83,Default,,0,0,0,,Öyleyse kasten mi vuruldun?
+Dialogue: 15,0:18:27.16,0:18:29.83,Default,,0,0,0,,{\an8}Hı? Niye kapkaranlık burası?
+Dialogue: 15,0:18:31.21,0:18:32.75,Default,,0,0,0,,Onun fikriydi.
+Dialogue: 15,0:18:33.59,0:18:38.51,Default,,0,0,0,,Ah be, Hollywood klasmanında, devasa \Nbir patlamaya hazırlamıştım kendimi.
+Dialogue: 15,0:18:38.51,0:18:39.93,Default,,0,0,0,,Boşa gitti galiba.
+Dialogue: 15,0:18:40.22,0:18:42.89,Default,,0,0,0,,Her şey halloluverdi, ne güzel işte.
+Dialogue: 15,0:18:43.39,0:18:47.89,Default,,0,0,0,,Gelişmelere mükemmel \Nuyum sağladınız. Takdire şayan.
+Dialogue: 15,0:18:48.39,0:18:52.15,Default,,0,0,0,,B-Bi' dakika! Sormam gereken çok soru var!
+Dialogue: 15,0:18:52.15,0:18:56.36,Default,,0,0,0,,Yani, kısacası... Her şey plana \Nuygun gitti ve kimse ölmedi mi?
+Dialogue: 15,0:18:56.69,0:18:58.11,Default,,0,0,0,,Aynen.
+Dialogue: 15,0:18:58.95,0:19:01.45,Default,,0,0,0,,Çok şükür! Herkes sapasağlam!
+Dialogue: 15,0:19:01.45,0:19:04.62,Default,,0,0,0,,Parası çok iyi olunca ortaya hayatımı koydum!
+Dialogue: 15,0:19:04.87,0:19:08.08,Default,,0,0,0,,Öff, öldü sanmıştım.
+Dialogue: 15,0:19:08.08,0:19:11.33,Default,,0,0,0,,Cidden, çok sevindim!
+Dialogue: 15,0:19:11.33,0:19:14.30,Default,,0,0,0,,İyi olmana sahiden çok sevindim! Gerçekten!
+Dialogue: 15,0:19:19.13,0:19:22.01,Default,,0,0,0,,Artık bi' kendine gelsen diyorum.
+Dialogue: 15,0:19:22.14,0:19:25.97,Default,,0,0,0,,Baştan söyleseniz daha iyi olmaz mıydı acaba?
+Dialogue: 15,0:19:26.31,0:19:29.48,Default,,0,0,0,,Olmazdı tabii, berbat rol yapıyorsun.
+Dialogue: 15,0:19:29.85,0:19:33.69,Default,,0,0,0,,Hem, Takina'yla birlikte her şeye doğal\N tepki vermeniz daha iyi olmadı mı işte?
+Dialogue: 15,0:19:34.02,0:19:36.32,Default,,0,0,0,,Bak, böyle!
+Dialogue: 15,0:19:38.11,0:19:41.45,Default,,0,0,0,,O ne be? Hangi ara çektin onu?!
+Dialogue: 15,0:19:41.49,0:19:45.12,Default,,0,0,0,,Belki de her yaşam değerlidir\N politikası o kadar da imkansız değildir.
+Dialogue: 15,0:19:46.24,0:19:50.92,Default,,0,0,0,,Orada ikimiz birlikte hareket etseydik \Nsonuçların böyle olacağını sanmıyorum.
+Dialogue: 15,0:19:51.21,0:19:54.84,Default,,0,0,0,,Ama öyle bir durumda da ben sorun yaşardım.
+Dialogue: 15,0:19:54.84,0:19:57.55,Default,,0,0,0,,Gözümün önünde birinin ölmesine izin veremem ya.
+Dialogue: 15,0:19:57.88,0:20:01.18,Default,,0,0,0,,Biz Likoris'iz, öldürme yetkimiz var!
+Dialogue: 15,0:20:01.84,0:20:03.51,Default,,0,0,0,,Düşman için endişelenmek de...
+Dialogue: 15,0:20:04.68,0:20:05.89,Default,,0,0,0,,O adamlar...
+Dialogue: 15,0:20:06.39,0:20:08.64,Default,,0,0,0,,...sadece bu seferlik düşmanımızdı.
+Dialogue: 15,0:20:09.35,0:20:12.19,Default,,0,0,0,,Sonuçta kimse ölmedi. Ne güzel işte.
+Dialogue: 15,0:20:12.52,0:20:15.65,Default,,0,0,0,,Konunun bu olduğunu sanmıyorum.
+Dialogue: 15,0:20:15.98,0:20:18.23,Default,,0,0,0,,Hadi ama, ikiniz de bi' sakinleşin.
+Dialogue: 15,0:20:18.23,0:20:21.36,Default,,0,0,0,,İkinizden habersiz böyle \Nbir plan yaptığımız için üzgünüm.
+Dialogue: 15,0:20:21.57,0:20:25.16,Default,,0,0,0,,Ooo, müdürüm! Tatlı ısmarlayıp \Nbu konuyu kapatmayı mı planlıyorsunuz yani?
+Dialogue: 15,0:20:25.16,0:20:26.12,Default,,0,0,0,,İstemiyor musun?
+Dialogue: 15,0:20:26.12,0:20:28.33,Default,,0,0,0,,Yok yok, yerim!
+Dialogue: 15,0:20:28.70,0:20:29.95,Default,,0,0,0,,Takina.
+Dialogue: 15,0:20:30.79,0:20:33.17,Default,,0,0,0,,Minderleri yerleştirebilir misin?
+Dialogue: 15,0:20:33.17,0:20:34.08,Default,,0,0,0,,Tamam.
+Dialogue: 15,0:20:34.67,0:20:37.92,Default,,0,0,0,,Her zamanki gibi konu değiştirmekte üstüne yok.
+Dialogue: 15,0:20:44.26,0:20:46.39,Default,,0,0,0,,Kız bir şey var burada!
+Dialogue: 15,0:20:49.31,0:20:52.02,Default,,0,0,0,,Bi' süreliğine burada saklanmak istedi.
+Dialogue: 15,0:20:52.02,0:20:54.10,Default,,0,0,0,,Ortalığı çok dağıtmayın!
+Dialogue: 15,0:20:54.10,0:20:55.56,Default,,0,0,0,,Hı? Neden ama?
+Dialogue: 15,0:20:55.56,0:20:57.36,Default,,0,0,0,,Ooo, hoş geldin.
+Dialogue: 15,0:20:57.36,0:21:00.07,Default,,0,0,0,,Hayalet falan sandım bi' an!
+Dialogue: 15,0:21:00.32,0:21:01.90,Default,,0,0,0,,Epey neşeli buralar.
+Dialogue: 15,0:21:02.15,0:21:04.28,Default,,0,0,0,,Son zamanlarda sık geliyorsun.
+Dialogue: 15,0:21:04.28,0:21:06.28,Default,,0,0,0,,Ohagilerin çok güzel çünkü.
+Dialogue: 15,0:21:06.82,0:21:10.20,Default,,0,0,0,,Doğru düzgün kahve yapamadığın \Ndönemleri hatırlıyorum.
+Dialogue: 15,0:21:10.20,0:21:12.25,Default,,0,0,0,,On yılı geride bıraktık.
+Dialogue: 15,0:21:12.75,0:21:14.25,Default,,0,0,0,,Meşgul değil misin?
+Dialogue: 15,0:21:14.71,0:21:18.21,Default,,0,0,0,,Sonunda işlerimden biri halloldu.
+Dialogue: 15,0:21:18.38,0:21:20.50,Default,,0,0,0,,Temizlikte biraz zorlandım da.
+Dialogue: 15,0:21:20.50,0:21:23.63,Default,,0,0,0,,Sincap gibi çevik biriyle uğraşıyordum.
+Dialogue: 15,0:21:27.55,0:21:29.97,Default,,0,0,0,,Yani, burada mı yaşayacaksın artık?
+Dialogue: 15,0:21:29.97,0:21:32.60,Default,,0,0,0,,Size işlerinizde yardım etmem şartıyla, evet.
+Dialogue: 15,0:21:32.73,0:21:35.06,Default,,0,0,0,,Bil diye söylüyorum, büyük indirim yaptım size.
+Dialogue: 15,0:21:35.06,0:21:38.56,Default,,0,0,0,,Madem öyle, şu fotoğraftaki adamı bulabilir misin?
+Dialogue: 15,0:21:38.98,0:21:42.32,Default,,0,0,0,,Ah, öndekini değil. Şu camın arkasında olanı.
+Dialogue: 15,0:21:42.82,0:21:44.20,Default,,0,0,0,,Çisato!
+Dialogue: 15,0:21:45.57,0:21:47.62,Default,,0,0,0,,Ah, Bay Yoşi gelmişler!
+Dialogue: 15,0:21:47.62,0:21:50.12,Default,,0,0,0,,Şu an biraz meşgulüm de, sonra geleyim!
+Dialogue: 15,0:21:53.25,0:21:55.04,Default,,0,0,0,,Tam bir hanımefendi olmuş.
+Dialogue: 15,0:21:55.16,0:21:56.21,Default,,0,0,0,,O mu?
+Dialogue: 15,0:21:57.04,0:21:58.00,Default,,0,0,0,,Mika...
+Dialogue: 15,0:21:59.54,0:22:01.34,Default,,0,0,0,,Çisato'yla burada...
+Dialogue: 15,0:22:02.17,0:22:04.67,Default,,0,0,0,,...ne tür bir iş yapıyorsunuz?
+Dialogue: 15,0:22:09.55,0:22:11.26,Default,,0,0,0,,Çözünürlüğü artırdım.
+Dialogue: 15,0:22:11.68,0:22:13.39,Default,,0,0,0,,Artık bizden sayılırsın. Adın ne?
+Dialogue: 15,0:22:13.72,0:22:14.18,Default,,0,0,0,,Cevi...
+Dialogue: 15,0:22:14.18,0:22:16.85,Default,,0,0,0,,Hop dedik! O öldü ya hani!
+Dialogue: 15,0:22:17.48,0:22:19.90,Default,,0,0,0,,Gerçek adını söyle bakalım.
+Dialogue: 15,0:22:21.52,0:22:22.44,Default,,0,0,0,,Kurumi.
+Dialogue: 15,0:22:23.32,0:22:25.99,Default,,0,0,0,,Cevizi Japonca'ya çevirdin sadece!
+Dialogue: 15,0:22:25.99,0:22:28.91,Default,,0,0,0,,Bu daha çok yakıştı ama! \NMemnun oldum, Kurumi.
+Dialogue: 15,0:22:29.28,0:22:30.91,Default,,0,0,0,,Ben de, Çisato.
+Dialogue: 15,0:22:33.70,0:22:36.58,Default,,0,0,0,,Çık hadi şuradan. Birlikte dango yiyelim!
+Dialogue: 15,0:22:36.67,0:22:37.63,Default,,0,0,0,,Sen de gel, Takina!
+Dialogue: 15,0:22:37.96,0:22:39.88,Default,,0,0,0,,A-Ah! Acıdı!
+Comment: 0,0:01:07.71,0:01:09.25,Vuatsigns,,0,0,0,,{acil durum}
+Dialogue: 1,0:01:07.71,0:01:07.76,Vuatsigns,,0,0,0,,{\pos(570.93,588.95)\frz50.72\fnFOT-NewRodin Pro Str TR\fs61\c&H646463&\4a&HFF&\blur3}Yeni
+Dialogue: 1,0:01:07.76,0:01:07.80,Vuatsigns,,0,0,0,,{\pos(546.34,590)\frz16\fnFOT-NewRodin Pro Str TR\fs28\c&H646463&\4a&HFF&\blur1.8}Yeni
+Dialogue: 1,0:01:07.80,0:01:07.84,Vuatsigns,,0,0,0,,{\pos(541,594.56)\frz1.265\fnFOT-NewRodin Pro Str TR\fs30\c&H646463&\4a&HFF&\blur0.6}Yeni
+Dialogue: 1,0:01:07.84,0:01:09.25,Vuatsigns,,0,0,0,,{\pos(541,594.56)\fnFOT-NewRodin Pro Str TR\fs31\c&H6F6D71&\4a&HFF&\blur0.5}Yeni
+Dialogue: 1,0:01:07.88,0:01:07.92,Vuatsigns,,0,0,0,,{\pos(952.6,576.6)\fnFOT-NewRodin Pro Str TR\fs65\fsp1\c&H666669&\4a&HFF&\blur0.6}Acil Durum : {\alpha&HF0&}Cev{\alpha&HFF&}iz'den
+Dialogue: 1,0:01:07.92,0:01:07.96,Vuatsigns,,0,0,0,,{\pos(952.6,576.6)\fnFOT-NewRodin Pro Str TR\fs65\fsp1\c&H666669&\4a&HFF&\blur0.6}Acil Durum : Ceviz{\alpha&HF0&}'den
+Dialogue: 1,0:01:07.96,0:01:09.25,Vuatsigns,,0,0,0,,{\pos(952.6,576.6)\fnFOT-NewRodin Pro Str TR\fs65\fsp1\c&H666669&\4a&HFF&\blur0.6}Acil Durum : Ceviz'den
+Comment: 3,0:02:43.52,0:02:43.56,Vuatsigns,,0,0,0,,{title}
+Dialogue: 3,0:02:43.52,0:02:43.56,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}N{\alpha&HFF&}erede çokluk orada neşe
+Dialogue: 3,0:02:43.56,0:02:43.60,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Ne{\alpha&HFF&}rede çokluk orada neşe
+Dialogue: 3,0:02:43.60,0:02:43.64,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Ner{\alpha&HFF&}ede çokluk orada neşe
+Dialogue: 3,0:02:43.64,0:02:43.68,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nere{\alpha&HFF&}de çokluk orada neşe
+Dialogue: 3,0:02:43.68,0:02:43.73,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nered{\alpha&HFF&}e çokluk orada neşe
+Dialogue: 3,0:02:43.73,0:02:43.81,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede{\alpha&HFF&} çokluk orada neşe
+Dialogue: 3,0:02:43.81,0:02:43.85,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede ç{\alpha&HFF&}okluk orada neşe
+Dialogue: 3,0:02:43.85,0:02:43.89,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede ço{\alpha&HFF&}kluk orada neşe
+Dialogue: 3,0:02:43.89,0:02:43.94,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çok{\alpha&HFF&}luk orada neşe
+Dialogue: 3,0:02:43.94,0:02:43.98,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokl{\alpha&HFF&}uk orada neşe
+Dialogue: 3,0:02:43.98,0:02:44.06,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çoklu{\alpha&HFF&}k orada neşe
+Dialogue: 3,0:02:44.06,0:02:44.14,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokluk{\alpha&HFF&} orada neşe
+Dialogue: 3,0:02:44.14,0:02:44.19,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokluk o{\alpha&HFF&}rada neşe
+Dialogue: 3,0:02:44.19,0:02:44.23,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokluk or{\alpha&HFF&}ada neşe
+Dialogue: 3,0:02:44.23,0:02:44.27,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokluk ora{\alpha&HFF&}da neşe
+Dialogue: 3,0:02:44.27,0:02:44.31,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokluk orad{\alpha&HFF&}a neşe
+Dialogue: 3,0:02:44.31,0:02:44.39,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokluk orada{\alpha&HFF&} neşe
+Dialogue: 3,0:02:44.39,0:02:44.44,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokluk orada n{\alpha&HFF&}eşe
+Dialogue: 3,0:02:44.44,0:02:44.48,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokluk orada ne{\alpha&HFF&}şe
+Dialogue: 3,0:02:44.48,0:02:44.52,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokluk orada neş{\alpha&HFF&}e
+Dialogue: 3,0:02:44.52,0:02:44.69,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.69,0:02:44.73,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1106.75 950 l 1168.25 952.375 1168.25 887.875 1106.75 887.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.69,0:02:44.73,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&H6F5DFF&\blur2.5\clip(m 1106.75 950 l 1168.25 952.375 1168.25 887.875 1106.75 887.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.73,0:02:44.77,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1236.375 897.5 l 1299.75 897.5 1299.75 961.25 1236.875 960.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.73,0:02:44.77,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&H6F5DFF&\blur2.5\clip(m 1236.375 897.5 l 1299.75 897.5 1299.75 961.25 1236.875 960.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.77,0:02:44.81,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1106.75 935.875 l 1107.625 889.875 1170 886.875 1168.75 936.25 1316.75 937 1318.625 893.625 1383.75 886.5 1383.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.77,0:02:44.81,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1106.75 935.875 l 1107.625 889.875 1170 886.875 1168.75 936.25 1316.75 937 1318.625 893.625 1383.75 886.5 1383.75 937.375)\1a&HFE}Nerede {\c&H695DFF&}çokluk orada neşe
+Dialogue: 2,0:02:44.81,0:02:44.85,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1194.75 935.875 l 1195.625 889.875 1258 886.875 1256.75 936.25 1404.75 937 1406.625 893.625 1471.75 886.5 1471.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.81,0:02:44.85,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1194.75 935.875 l 1195.625 889.875 1258 886.875 1256.75 936.25 1404.75 937 1406.625 893.625 1471.75 886.5 1471.75 937.375)\1a&HFE}Nerede {\c&H695DFF&}çokluk orada neşe
+Dialogue: 2,0:02:44.85,0:02:44.89,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1278.375 942.875 l 1283.625 889.875 1346 886.875 1344.75 936.25 1492.75 937 1494.625 893.625 1559.75 886.5 1559.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.85,0:02:44.89,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1278.375 942.875 l 1283.625 889.875 1346 886.875 1344.75 936.25 1492.75 937 1494.625 893.625 1559.75 886.5 1559.75 937.375)\1a&HFE}Nerede çokluk {\c&H695DFF&}orada neşe
+Dialogue: 2,0:02:44.89,0:02:44.94,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1389.375 942.875 l 1394.625 889.875 1457 886.875 1455.75 936.25 1586.25 939.5 1586.875 883.625 1670.75 886.5 1670.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.89,0:02:44.94,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1389.375 942.875 l 1394.625 889.875 1457 886.875 1455.75 936.25 1586.25 939.5 1586.875 883.625 1670.75 886.5 1670.75 937.375)\1a&HFE}Nerede çokluk {\c&H695DFF&}orada neşe
+Dialogue: 2,0:02:44.94,0:02:44.98,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1466.375 942.875 l 1471.625 889.875 1534 886.875 1532.75 936.25 1663.25 939.5 1663.875 883.625 1747.75 886.5 1747.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.94,0:02:44.98,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1466.375 942.875 l 1471.625 889.875 1534 886.875 1532.75 936.25 1663.25 939.5 1663.875 883.625 1747.75 886.5 1747.75 937.375)\1a&HFE}Nerede çokluk orada {\c&H695DFF&}neşe
+Dialogue: 2,0:02:44.98,0:02:45.02,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1598.125 945.25 l 1599.375 885.875 1631.75 882.875 1633 946.5 1737.25 941.125 1738.75 894.75 1779.75 892.75 1786.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.98,0:02:45.02,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1598.125 945.25 l 1599.375 885.875 1631.75 882.875 1633 946.5 1737.25 941.125 1738.75 894.75 1779.75 892.75 1786.125 942.875)\1a&HFE}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.02,0:02:45.06,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1623.125 945.25 l 1624.375 885.875 1656.75 882.875 1658 946.5 1762.25 941.125 1763.75 894.75 1804.75 892.75 1811.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.02,0:02:45.06,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1623.125 945.25 l 1624.375 885.875 1656.75 882.875 1658 946.5 1762.25 941.125 1763.75 894.75 1804.75 892.75 1811.125 942.875)\1a&HFE}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.06,0:02:45.10,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1643.125 945.25 l 1644.375 885.875 1676.75 882.875 1678 946.5 1782.25 941.125 1783.75 894.75 1824.75 892.75 1831.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.06,0:02:45.10,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1643.125 945.25 l 1644.375 885.875 1676.75 882.875 1678 946.5 1782.25 941.125 1783.75 894.75 1824.75 892.75 1831.125 942.875)\1a&HFE}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.10,0:02:45.14,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1723.125 945.25 l 1724.375 885.875 1756.75 882.875 1758 946.5 1862.25 941.125 1863.75 894.75 1904.75 892.75 1911.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.10,0:02:45.14,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1723.125 945.25 l 1724.375 885.875 1756.75 882.875 1758 946.5 1862.25 941.125 1863.75 894.75 1904.75 892.75 1911.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.14,0:02:45.19,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1748.125 945.25 l 1749.375 885.875 1781.75 882.875 1783 946.5 1887.25 941.125 1888.75 894.75 1929.75 892.75 1936.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.14,0:02:45.19,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1748.125 945.25 l 1749.375 885.875 1781.75 882.875 1783 946.5 1887.25 941.125 1888.75 894.75 1929.75 892.75 1936.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.19,0:02:45.23,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\iclip(m 1784.125 945.25 l 1785.375 885.875 1817.75 882.875 1819 946.5 1923.25 941.125 1924.75 894.75 1965.75 892.75 1972.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.19,0:02:45.23,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\c&HFFFF6D&\blur2.5\clip(m 1784.125 945.25 l 1785.375 885.875 1817.75 882.875 1819 946.5 1923.25 941.125 1924.75 894.75 1965.75 892.75 1972.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.23,0:02:49.98,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\blur2.5\fad(0,600)\1a&HFE}Nerede çokluk orada neşe
+Comment: 4,0:02:43.52,0:02:49.98,Vuatsigns,,0,0,0,,{#02}
+Dialogue: 3,0:02:43.52,0:02:43.56,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}N{\alpha&HFF&}erede çokluk orada neşe
+Dialogue: 3,0:02:43.56,0:02:43.60,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Ne{\alpha&HFF&}rede çokluk orada neşe
+Dialogue: 3,0:02:43.60,0:02:43.64,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Ner{\alpha&HFF&}ede çokluk orada neşe
+Dialogue: 3,0:02:43.64,0:02:43.68,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nere{\alpha&HFF&}de çokluk orada neşe
+Dialogue: 3,0:02:43.68,0:02:43.73,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nered{\alpha&HFF&}e çokluk orada neşe
+Dialogue: 3,0:02:43.73,0:02:43.81,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede{\alpha&HFF&} çokluk orada neşe
+Dialogue: 3,0:02:43.81,0:02:43.85,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede ç{\alpha&HFF&}okluk orada neşe
+Dialogue: 3,0:02:43.85,0:02:43.89,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede ço{\alpha&HFF&}kluk orada neşe
+Dialogue: 3,0:02:43.89,0:02:43.94,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çok{\alpha&HFF&}luk orada neşe
+Dialogue: 3,0:02:43.94,0:02:43.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokl{\alpha&HFF&}uk orada neşe
+Dialogue: 3,0:02:43.98,0:02:44.06,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çoklu{\alpha&HFF&}k orada neşe
+Dialogue: 3,0:02:44.06,0:02:44.14,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk{\alpha&HFF&} orada neşe
+Dialogue: 3,0:02:44.14,0:02:44.19,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk o{\alpha&HFF&}rada neşe
+Dialogue: 3,0:02:44.19,0:02:44.23,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk or{\alpha&HFF&}ada neşe
+Dialogue: 3,0:02:44.23,0:02:44.27,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk ora{\alpha&HFF&}da neşe
+Dialogue: 3,0:02:44.27,0:02:44.31,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orad{\alpha&HFF&}a neşe
+Dialogue: 3,0:02:44.31,0:02:44.39,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orada{\alpha&HFF&} neşe
+Dialogue: 3,0:02:44.39,0:02:44.44,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orada n{\alpha&HFF&}eşe
+Dialogue: 3,0:02:44.44,0:02:44.48,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orada ne{\alpha&HFF&}şe
+Dialogue: 3,0:02:44.48,0:02:44.52,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orada neş{\alpha&HFF&}e
+Dialogue: 3,0:02:44.52,0:02:44.69,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.69,0:02:44.73,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1106.75 950 l 1168.25 952.375 1168.25 887.875 1106.75 887.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.69,0:02:44.73,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&H6F5DFF&\4c&H6BC039&\blur0.7\clip(m 1106.75 950 l 1168.25 952.375 1168.25 887.875 1106.75 887.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.73,0:02:44.77,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1236.375 897.5 l 1299.75 897.5 1299.75 961.25 1236.875 960.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.73,0:02:44.77,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&H6F5DFF&\4c&H6BC039&\blur0.7\clip(m 1236.375 897.5 l 1299.75 897.5 1299.75 961.25 1236.875 960.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.77,0:02:44.81,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1106.75 935.875 l 1107.625 889.875 1170 886.875 1168.75 936.25 1316.75 937 1318.625 893.625 1383.75 886.5 1383.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.77,0:02:44.81,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1106.75 935.875 l 1107.625 889.875 1170 886.875 1168.75 936.25 1316.75 937 1318.625 893.625 1383.75 886.5 1383.75 937.375)\1a&HFE}Nerede {\c&H695DFF&}çokluk orada neşe
+Dialogue: 2,0:02:44.81,0:02:44.85,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1194.75 935.875 l 1195.625 889.875 1258 886.875 1256.75 936.25 1404.75 937 1406.625 893.625 1471.75 886.5 1471.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.81,0:02:44.85,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1194.75 935.875 l 1195.625 889.875 1258 886.875 1256.75 936.25 1404.75 937 1406.625 893.625 1471.75 886.5 1471.75 937.375)\1a&HFE}Nerede {\c&H695DFF&}çokluk orada neşe
+Dialogue: 2,0:02:44.85,0:02:44.89,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1278.375 942.875 l 1283.625 889.875 1346 886.875 1344.75 936.25 1492.75 937 1494.625 893.625 1559.75 886.5 1559.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.85,0:02:44.89,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1278.375 942.875 l 1283.625 889.875 1346 886.875 1344.75 936.25 1492.75 937 1494.625 893.625 1559.75 886.5 1559.75 937.375)\1a&HFE}Nerede çokluk {\c&H695DFF&}orada neşe
+Dialogue: 2,0:02:44.89,0:02:44.94,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1389.375 942.875 l 1394.625 889.875 1457 886.875 1455.75 936.25 1586.25 939.5 1586.875 883.625 1670.75 886.5 1670.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.89,0:02:44.94,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1389.375 942.875 l 1394.625 889.875 1457 886.875 1455.75 936.25 1586.25 939.5 1586.875 883.625 1670.75 886.5 1670.75 937.375)\1a&HFE}Nerede çokluk {\c&H695DFF&}orada neşe
+Dialogue: 2,0:02:44.94,0:02:44.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1466.375 942.875 l 1471.625 889.875 1534 886.875 1532.75 936.25 1663.25 939.5 1663.875 883.625 1747.75 886.5 1747.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.94,0:02:44.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1466.375 942.875 l 1471.625 889.875 1534 886.875 1532.75 936.25 1663.25 939.5 1663.875 883.625 1747.75 886.5 1747.75 937.375)\1a&HFE}Nerede çokluk orada {\c&H695DFF&}neşe
+Dialogue: 2,0:02:44.98,0:02:45.02,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1598.125 945.25 l 1599.375 885.875 1631.75 882.875 1633 946.5 1737.25 941.125 1738.75 894.75 1779.75 892.75 1786.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.98,0:02:45.02,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1598.125 945.25 l 1599.375 885.875 1631.75 882.875 1633 946.5 1737.25 941.125 1738.75 894.75 1779.75 892.75 1786.125 942.875)\1a&HFE}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.02,0:02:45.06,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1623.125 945.25 l 1624.375 885.875 1656.75 882.875 1658 946.5 1762.25 941.125 1763.75 894.75 1804.75 892.75 1811.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.02,0:02:45.06,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1623.125 945.25 l 1624.375 885.875 1656.75 882.875 1658 946.5 1762.25 941.125 1763.75 894.75 1804.75 892.75 1811.125 942.875)\1a&HFE}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.06,0:02:45.10,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1643.125 945.25 l 1644.375 885.875 1676.75 882.875 1678 946.5 1782.25 941.125 1783.75 894.75 1824.75 892.75 1831.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.06,0:02:45.10,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1643.125 945.25 l 1644.375 885.875 1676.75 882.875 1678 946.5 1782.25 941.125 1783.75 894.75 1824.75 892.75 1831.125 942.875)\1a&HFE}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.10,0:02:45.14,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1723.125 945.25 l 1724.375 885.875 1756.75 882.875 1758 946.5 1862.25 941.125 1863.75 894.75 1904.75 892.75 1911.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.10,0:02:45.14,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1723.125 945.25 l 1724.375 885.875 1756.75 882.875 1758 946.5 1862.25 941.125 1863.75 894.75 1904.75 892.75 1911.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.14,0:02:45.19,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1748.125 945.25 l 1749.375 885.875 1781.75 882.875 1783 946.5 1887.25 941.125 1888.75 894.75 1929.75 892.75 1936.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.14,0:02:45.19,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1748.125 945.25 l 1749.375 885.875 1781.75 882.875 1783 946.5 1887.25 941.125 1888.75 894.75 1929.75 892.75 1936.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.19,0:02:45.23,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\iclip(m 1784.125 945.25 l 1785.375 885.875 1817.75 882.875 1819 946.5 1923.25 941.125 1924.75 894.75 1965.75 892.75 1972.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.19,0:02:45.23,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\c&HFFFF6D&\4c&H6BC039&\blur0.7\clip(m 1784.125 945.25 l 1785.375 885.875 1817.75 882.875 1819 946.5 1923.25 941.125 1924.75 894.75 1965.75 892.75 1972.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.23,0:02:49.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad1.5\4c&H6BC039&\blur0.7\fad(0,600)\1a&HFE}Nerede çokluk orada neşe
+Comment: 3,0:02:43.52,0:02:43.56,Vuatsigns,,0,0,0,,{\blur0.7\frz0}{grn}
+Dialogue: 3,0:02:43.52,0:02:43.56,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}N{\alpha&HFF&}erede çokluk orada neşe
+Dialogue: 3,0:02:43.56,0:02:43.60,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Ne{\alpha&HFF&}rede çokluk orada neşe
+Dialogue: 3,0:02:43.60,0:02:43.64,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Ner{\alpha&HFF&}ede çokluk orada neşe
+Dialogue: 3,0:02:43.64,0:02:43.68,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nere{\alpha&HFF&}de çokluk orada neşe
+Dialogue: 3,0:02:43.68,0:02:43.73,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nered{\alpha&HFF&}e çokluk orada neşe
+Dialogue: 3,0:02:43.73,0:02:43.81,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede{\alpha&HFF&} çokluk orada neşe
+Dialogue: 3,0:02:43.81,0:02:43.85,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede ç{\alpha&HFF&}okluk orada neşe
+Dialogue: 3,0:02:43.85,0:02:43.89,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede ço{\alpha&HFF&}kluk orada neşe
+Dialogue: 3,0:02:43.89,0:02:43.94,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çok{\alpha&HFF&}luk orada neşe
+Dialogue: 3,0:02:43.94,0:02:43.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokl{\alpha&HFF&}uk orada neşe
+Dialogue: 3,0:02:43.98,0:02:44.06,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çoklu{\alpha&HFF&}k orada neşe
+Dialogue: 3,0:02:44.06,0:02:44.14,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk{\alpha&HFF&} orada neşe
+Dialogue: 3,0:02:44.14,0:02:44.19,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk o{\alpha&HFF&}rada neşe
+Dialogue: 3,0:02:44.19,0:02:44.23,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk or{\alpha&HFF&}ada neşe
+Dialogue: 3,0:02:44.23,0:02:44.27,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk ora{\alpha&HFF&}da neşe
+Dialogue: 3,0:02:44.27,0:02:44.31,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orad{\alpha&HFF&}a neşe
+Dialogue: 3,0:02:44.31,0:02:44.39,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orada{\alpha&HFF&} neşe
+Dialogue: 3,0:02:44.39,0:02:44.44,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orada n{\alpha&HFF&}eşe
+Dialogue: 3,0:02:44.44,0:02:44.48,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orada ne{\alpha&HFF&}şe
+Dialogue: 3,0:02:44.48,0:02:44.52,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orada neş{\alpha&HFF&}e
+Dialogue: 3,0:02:44.52,0:02:44.69,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\2a&HFF&\blur0.7\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.69,0:02:44.73,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1106.75 950 l 1168.25 952.375 1168.25 887.875 1106.75 887.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.69,0:02:44.73,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&H6F5DFF&\4c&H9639E7&\blur0.7\clip(m 1106.75 950 l 1168.25 952.375 1168.25 887.875 1106.75 887.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.73,0:02:44.77,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1236.375 897.5 l 1299.75 897.5 1299.75 961.25 1236.875 960.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.73,0:02:44.77,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&H6F5DFF&\4c&H9639E7&\blur0.7\clip(m 1236.375 897.5 l 1299.75 897.5 1299.75 961.25 1236.875 960.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.77,0:02:44.81,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1106.75 935.875 l 1107.625 889.875 1170 886.875 1168.75 936.25 1316.75 937 1318.625 893.625 1383.75 886.5 1383.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.77,0:02:44.81,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1106.75 935.875 l 1107.625 889.875 1170 886.875 1168.75 936.25 1316.75 937 1318.625 893.625 1383.75 886.5 1383.75 937.375)\1a&HFE}Nerede {\c&H695DFF&}çokluk orada neşe
+Dialogue: 2,0:02:44.81,0:02:44.85,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1194.75 935.875 l 1195.625 889.875 1258 886.875 1256.75 936.25 1404.75 937 1406.625 893.625 1471.75 886.5 1471.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.81,0:02:44.85,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1194.75 935.875 l 1195.625 889.875 1258 886.875 1256.75 936.25 1404.75 937 1406.625 893.625 1471.75 886.5 1471.75 937.375)\1a&HFE}Nerede {\c&H695DFF&}çokluk orada neşe
+Dialogue: 2,0:02:44.85,0:02:44.89,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1278.375 942.875 l 1283.625 889.875 1346 886.875 1344.75 936.25 1492.75 937 1494.625 893.625 1559.75 886.5 1559.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.85,0:02:44.89,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1278.375 942.875 l 1283.625 889.875 1346 886.875 1344.75 936.25 1492.75 937 1494.625 893.625 1559.75 886.5 1559.75 937.375)\1a&HFE}Nerede çokluk {\c&H695DFF&}orada neşe
+Dialogue: 2,0:02:44.89,0:02:44.94,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1389.375 942.875 l 1394.625 889.875 1457 886.875 1455.75 936.25 1586.25 939.5 1586.875 883.625 1670.75 886.5 1670.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.89,0:02:44.94,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1389.375 942.875 l 1394.625 889.875 1457 886.875 1455.75 936.25 1586.25 939.5 1586.875 883.625 1670.75 886.5 1670.75 937.375)\1a&HFE}Nerede çokluk {\c&H695DFF&}orada neşe
+Dialogue: 2,0:02:44.94,0:02:44.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1466.375 942.875 l 1471.625 889.875 1534 886.875 1532.75 936.25 1663.25 939.5 1663.875 883.625 1747.75 886.5 1747.75 937.375)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.94,0:02:44.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1466.375 942.875 l 1471.625 889.875 1534 886.875 1532.75 936.25 1663.25 939.5 1663.875 883.625 1747.75 886.5 1747.75 937.375)\1a&HFE}Nerede çokluk orada {\c&H695DFF&}neşe
+Dialogue: 2,0:02:44.98,0:02:45.02,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1598.125 945.25 l 1599.375 885.875 1631.75 882.875 1633 946.5 1737.25 941.125 1738.75 894.75 1779.75 892.75 1786.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.98,0:02:45.02,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1598.125 945.25 l 1599.375 885.875 1631.75 882.875 1633 946.5 1737.25 941.125 1738.75 894.75 1779.75 892.75 1786.125 942.875)\1a&HFE}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.02,0:02:45.06,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1623.125 945.25 l 1624.375 885.875 1656.75 882.875 1658 946.5 1762.25 941.125 1763.75 894.75 1804.75 892.75 1811.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.02,0:02:45.06,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1623.125 945.25 l 1624.375 885.875 1656.75 882.875 1658 946.5 1762.25 941.125 1763.75 894.75 1804.75 892.75 1811.125 942.875)\1a&HFE}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.06,0:02:45.10,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1643.125 945.25 l 1644.375 885.875 1676.75 882.875 1678 946.5 1782.25 941.125 1783.75 894.75 1824.75 892.75 1831.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.06,0:02:45.10,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1643.125 945.25 l 1644.375 885.875 1676.75 882.875 1678 946.5 1782.25 941.125 1783.75 894.75 1824.75 892.75 1831.125 942.875)\1a&HFE}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.10,0:02:45.14,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1723.125 945.25 l 1724.375 885.875 1756.75 882.875 1758 946.5 1862.25 941.125 1863.75 894.75 1904.75 892.75 1911.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.10,0:02:45.14,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1723.125 945.25 l 1724.375 885.875 1756.75 882.875 1758 946.5 1862.25 941.125 1863.75 894.75 1904.75 892.75 1911.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.14,0:02:45.19,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1748.125 945.25 l 1749.375 885.875 1781.75 882.875 1783 946.5 1887.25 941.125 1888.75 894.75 1929.75 892.75 1936.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.14,0:02:45.19,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1748.125 945.25 l 1749.375 885.875 1781.75 882.875 1783 946.5 1887.25 941.125 1888.75 894.75 1929.75 892.75 1936.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.19,0:02:45.23,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\iclip(m 1784.125 945.25 l 1785.375 885.875 1817.75 882.875 1819 946.5 1923.25 941.125 1924.75 894.75 1965.75 892.75 1972.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.19,0:02:45.23,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\c&HFFFF6D&\4c&H9639E7&\blur0.7\clip(m 1784.125 945.25 l 1785.375 885.875 1817.75 882.875 1819 946.5 1923.25 941.125 1924.75 894.75 1965.75 892.75 1972.125 942.875)\1a&HFE}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.23,0:02:49.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\xshad-1.5\4c&H9639E7&\blur0.7\fad(0,600)\1a&HFE}Nerede çokluk orada neşe
+Comment: 4,0:02:43.52,0:02:49.98,Vuatsigns,,0,0,0,,{\blur0.7\frz0}{2222}
+Dialogue: 3,0:02:43.52,0:02:43.56,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}N{\alpha&HFF&}erede çokluk orada neşe
+Dialogue: 3,0:02:43.56,0:02:43.60,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Ne{\alpha&HFF&}rede çokluk orada neşe
+Dialogue: 3,0:02:43.60,0:02:43.64,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Ner{\alpha&HFF&}ede çokluk orada neşe
+Dialogue: 3,0:02:43.64,0:02:43.68,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nere{\alpha&HFF&}de çokluk orada neşe
+Dialogue: 3,0:02:43.68,0:02:43.73,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nered{\alpha&HFF&}e çokluk orada neşe
+Dialogue: 3,0:02:43.73,0:02:43.81,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede{\alpha&HFF&} çokluk orada neşe
+Dialogue: 3,0:02:43.81,0:02:43.85,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede ç{\alpha&HFF&}okluk orada neşe
+Dialogue: 3,0:02:43.85,0:02:43.89,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede ço{\alpha&HFF&}kluk orada neşe
+Dialogue: 3,0:02:43.89,0:02:43.94,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çok{\alpha&HFF&}luk orada neşe
+Dialogue: 3,0:02:43.94,0:02:43.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokl{\alpha&HFF&}uk orada neşe
+Dialogue: 3,0:02:43.98,0:02:44.06,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çoklu{\alpha&HFF&}k orada neşe
+Dialogue: 3,0:02:44.06,0:02:44.14,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokluk{\alpha&HFF&} orada neşe
+Dialogue: 3,0:02:44.14,0:02:44.19,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokluk o{\alpha&HFF&}rada neşe
+Dialogue: 3,0:02:44.19,0:02:44.23,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokluk or{\alpha&HFF&}ada neşe
+Dialogue: 3,0:02:44.23,0:02:44.27,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokluk ora{\alpha&HFF&}da neşe
+Dialogue: 3,0:02:44.27,0:02:44.31,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokluk orad{\alpha&HFF&}a neşe
+Dialogue: 3,0:02:44.31,0:02:44.39,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokluk orada{\alpha&HFF&} neşe
+Dialogue: 3,0:02:44.39,0:02:44.44,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokluk orada n{\alpha&HFF&}eşe
+Dialogue: 3,0:02:44.44,0:02:44.48,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokluk orada ne{\alpha&HFF&}şe
+Dialogue: 3,0:02:44.48,0:02:44.52,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokluk orada neş{\alpha&HFF&}e
+Dialogue: 3,0:02:44.52,0:02:44.69,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\2a&HFF&\blur0.7}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.69,0:02:44.73,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1106.75 950 l 1168.25 952.375 1168.25 887.875 1106.75 887.875)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.69,0:02:44.73,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&H6F5DFF&\blur0.7\clip(m 1106.75 950 l 1168.25 952.375 1168.25 887.875 1106.75 887.875)}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.73,0:02:44.77,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1236.375 897.5 l 1299.75 897.5 1299.75 961.25 1236.875 960.375)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.73,0:02:44.77,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&H6F5DFF&\blur0.7\clip(m 1236.375 897.5 l 1299.75 897.5 1299.75 961.25 1236.875 960.375)}Nerede çokluk orada neşe
+Dialogue: 2,0:02:44.77,0:02:44.81,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1106.75 935.875 l 1107.625 889.875 1170 886.875 1168.75 936.25 1316.75 937 1318.625 893.625 1383.75 886.5 1383.75 937.375)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.77,0:02:44.81,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1106.75 935.875 l 1107.625 889.875 1170 886.875 1168.75 936.25 1316.75 937 1318.625 893.625 1383.75 886.5 1383.75 937.375)}Nerede {\c&H695DFF&}çokluk orada neşe
+Dialogue: 2,0:02:44.81,0:02:44.85,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1194.75 935.875 l 1195.625 889.875 1258 886.875 1256.75 936.25 1404.75 937 1406.625 893.625 1471.75 886.5 1471.75 937.375)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.81,0:02:44.85,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1194.75 935.875 l 1195.625 889.875 1258 886.875 1256.75 936.25 1404.75 937 1406.625 893.625 1471.75 886.5 1471.75 937.375)}Nerede {\c&H695DFF&}çokluk orada neşe
+Dialogue: 2,0:02:44.85,0:02:44.89,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1278.375 942.875 l 1283.625 889.875 1346 886.875 1344.75 936.25 1492.75 937 1494.625 893.625 1559.75 886.5 1559.75 937.375)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.85,0:02:44.89,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1278.375 942.875 l 1283.625 889.875 1346 886.875 1344.75 936.25 1492.75 937 1494.625 893.625 1559.75 886.5 1559.75 937.375)}Nerede çokluk {\c&H695DFF&}orada neşe
+Dialogue: 2,0:02:44.89,0:02:44.94,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1389.375 942.875 l 1394.625 889.875 1457 886.875 1455.75 936.25 1586.25 939.5 1586.875 883.625 1670.75 886.5 1670.75 937.375)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.89,0:02:44.94,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1389.375 942.875 l 1394.625 889.875 1457 886.875 1455.75 936.25 1586.25 939.5 1586.875 883.625 1670.75 886.5 1670.75 937.375)}Nerede çokluk {\c&H695DFF&}orada neşe
+Dialogue: 2,0:02:44.94,0:02:44.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1466.375 942.875 l 1471.625 889.875 1534 886.875 1532.75 936.25 1663.25 939.5 1663.875 883.625 1747.75 886.5 1747.75 937.375)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.94,0:02:44.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1466.375 942.875 l 1471.625 889.875 1534 886.875 1532.75 936.25 1663.25 939.5 1663.875 883.625 1747.75 886.5 1747.75 937.375)}Nerede çokluk orada {\c&H695DFF&}neşe
+Dialogue: 2,0:02:44.98,0:02:45.02,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1598.125 945.25 l 1599.375 885.875 1631.75 882.875 1633 946.5 1737.25 941.125 1738.75 894.75 1779.75 892.75 1786.125 942.875)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:44.98,0:02:45.02,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1598.125 945.25 l 1599.375 885.875 1631.75 882.875 1633 946.5 1737.25 941.125 1738.75 894.75 1779.75 892.75 1786.125 942.875)}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.02,0:02:45.06,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1623.125 945.25 l 1624.375 885.875 1656.75 882.875 1658 946.5 1762.25 941.125 1763.75 894.75 1804.75 892.75 1811.125 942.875)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.02,0:02:45.06,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1623.125 945.25 l 1624.375 885.875 1656.75 882.875 1658 946.5 1762.25 941.125 1763.75 894.75 1804.75 892.75 1811.125 942.875)}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.06,0:02:45.10,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1643.125 945.25 l 1644.375 885.875 1676.75 882.875 1678 946.5 1782.25 941.125 1783.75 894.75 1824.75 892.75 1831.125 942.875)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.06,0:02:45.10,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1643.125 945.25 l 1644.375 885.875 1676.75 882.875 1678 946.5 1782.25 941.125 1783.75 894.75 1824.75 892.75 1831.125 942.875)}Nerede çokluk orada ne{\c&H695DFF&}şe
+Dialogue: 2,0:02:45.10,0:02:45.14,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1723.125 945.25 l 1724.375 885.875 1756.75 882.875 1758 946.5 1862.25 941.125 1863.75 894.75 1904.75 892.75 1911.125 942.875)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.10,0:02:45.14,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1723.125 945.25 l 1724.375 885.875 1756.75 882.875 1758 946.5 1862.25 941.125 1863.75 894.75 1904.75 892.75 1911.125 942.875)}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.14,0:02:45.19,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1748.125 945.25 l 1749.375 885.875 1781.75 882.875 1783 946.5 1887.25 941.125 1888.75 894.75 1929.75 892.75 1936.125 942.875)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.14,0:02:45.19,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1748.125 945.25 l 1749.375 885.875 1781.75 882.875 1783 946.5 1887.25 941.125 1888.75 894.75 1929.75 892.75 1936.125 942.875)}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.19,0:02:45.23,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\iclip(m 1784.125 945.25 l 1785.375 885.875 1817.75 882.875 1819 946.5 1923.25 941.125 1924.75 894.75 1965.75 892.75 1972.125 942.875)}Nerede çokluk orada neşe
+Dialogue: 1,0:02:45.19,0:02:45.23,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\c&HFFFF6D&\blur0.7\clip(m 1784.125 945.25 l 1785.375 885.875 1817.75 882.875 1819 946.5 1923.25 941.125 1924.75 894.75 1965.75 892.75 1972.125 942.875)}Nerede çokluk orada neşe
+Dialogue: 2,0:02:45.23,0:02:49.98,Vuatsigns,,0,0,0,,{\pos(1427.67,908.67)\fnBahnschrift Semibold\fsp5\blur0.7\fad(0,600)}Nerede çokluk orada neşe
+Comment: 0,0:02:55.90,0:02:59.36,Vuatsigns,,0,0,0,,
+Dialogue: 0,0:05:30.98,0:05:31.06,Vuatsigns,,0,0,0,,{\pos(267.05,876.76)\frz359.8\fnAnnie Use Your Telescope\fs32\c&H020001&\blur0.6}kata
+Dialogue: 0,0:05:31.06,0:05:31.14,Vuatsigns,,0,0,0,,{\pos(252.7,971.95)\frz10.7\fnAnnie Use Your Telescope\fs32\c&H020001&\blur0.6}kata
+Dialogue: 0,0:05:31.14,0:05:31.23,Vuatsigns,,0,0,0,,{\pos(254.41,1086.8)\frz27.49\fnAnnie Use Your Telescope\fs32\c&H020001&\blur0.6}kata
+Dialogue: 0,0:05:31.23,0:05:31.31,Vuatsigns,,0,0,0,,{\pos(273.1,960.78)\frz14.09\fnAnnie Use Your Telescope\fs32\c&H020001&\blur0.6}katagata
+Dialogue: 0,0:05:31.31,0:05:31.44,Vuatsigns,,0,0,0,,{\pos(283.41,871.64)\frz0.79\fnAnnie Use Your Telescope\fs32\c&H020001&\blur0.6}katagata
+Comment: 0,0:02:55.90,0:02:59.36,Vuatsigns,,0,0,0,,{not}
+Dialogue: 1,0:02:51.94,0:02:55.91,Vuatsigns,,0,0,0,,{=0}{\an7\move(-127.77,434.6,540.4,434.6,23,3944)\frz-13.33\fry-1.93\frx2.06\fax-0.14\fnAnnie Use Your Telescope\fs26\b0\c&H151412&\1a&H77&\blur1\t(23,3944,\fscx100)\t(23,3944,\fscy100)\t(23,3944,\shad0)\t(23,3944,\bord0)\t(23,3944,\blur1)\t(23,3944,\frz-13.33)}Kendi ellerimle \NTakina için seçtiklerim!\NÇisato'nun önerileri!
+Dialogue: 1,0:02:55.90,0:02:59.36,Vuatsigns,,0,0,0,,{=1}{\an7\move(342,593,653.51,593,26,3446)\frz-13.33\fry-1.93\frx2.06\fax-0.14\fnAnnie Use Your Telescope\fs85\b0\c&H151412&\1a&H64&\blur1\t(26,3446,\fscx100)\t(26,3446,\fscy100)\t(26,3446,\shad0)\t(26,3446,\bord0)\t(26,3446,\blur1)\t(26,3446,\frz-13.33)}Kendi ellerimle \NTakina için seçtiklerim!\NÇisato'nun önerileri!
+Comment: 5,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{ARAMADA}
+Dialogue: 0,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.04\fry-1.4\frx1.32\fax-0.2\fnOswald SemiBold\fsp9\xshad6\4c&HEC4535&\blur0.7\1a&HFE}ARAMADA
+Dialogue: 0,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.04\fry-1.4\frx1.32\fax-0.2\fnOswald SemiBold\fsp9\xshad3\4c&HFFFF7C&\blur0.7\1a&HFE}ARAMADA
+Dialogue: 0,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.04\fry-1.4\frx1.32\fax-0.2\fnOswald SemiBold\fsp9\xshad-6\4c&H5D44DB&\blur0.7\1a&HFE}ARAMADA
+Dialogue: 0,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.04\fry-1.4\frx1.32\fax-0.2\fnOswald SemiBold\fsp9\xshad-3\4c&H6FFFFA&\blur0.7\1a&HFE}ARAMADA
+Dialogue: 3,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.04\fry-1.4\frx1.32\fax-0.2\fnOswald SemiBold\fsp9\1a&H72&\blur8}ARAMADA
+Dialogue: 3,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.04\fry-1.4\frx1.32\fax-0.2\fnOswald SemiBold\fsp9\alpha&HA0&\blur10}ARAMADA
+Dialogue: 4,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.04\fry-1.4\frx1.32\fax-0.2\fnOswald SemiBold\fsp9\blur0.7}ARAMADA
+Comment: 0,0:22:44.51,0:23:58.83,ED,,0,0,0,,{ed}
+Dialogue: 0,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bana getirdiğin manga
+Dialogue: 1,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bana getirdiğin manga
+Dialogue: 2,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bana getirdiğin manga
+Dialogue: 0,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}ve adını bile bilmediğim o çiçekler
+Dialogue: 1,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}ve adını bile bilmediğim o çiçekler
+Dialogue: 2,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}ve adını bile bilmediğim o çiçekler
+Dialogue: 0,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bugün geri dönmedi mi hala
+Dialogue: 1,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bugün geri dönmedi mi hala
+Dialogue: 2,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bugün geri dönmedi mi hala
+Dialogue: 0,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,250)}İlk kez tattığım bu duygular bana
+Dialogue: 1,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,250)}İlk kez tattığım bu duygular bana
+Dialogue: 2,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,250)}İlk kez tattığım bu duygular bana
+Dialogue: 0,0:22:56.77,0:22:59.19,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(150,0)}Pencerelerdeki izleri
+Dialogue: 1,0:22:56.77,0:22:59.19,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(150,0)}Pencerelerdeki izleri
+Dialogue: 2,0:22:56.77,0:22:59.19,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(150,0)}Pencerelerdeki izleri
+Dialogue: 0,0:22:59.19,0:23:02.53,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}takip et ve çık evrende bir yolculuğa
+Dialogue: 1,0:22:59.19,0:23:02.53,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}takip et ve çık evrende bir yolculuğa
+Dialogue: 2,0:22:59.19,0:23:02.53,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}takip et ve çık evrende bir yolculuğa
+Dialogue: 0,0:23:02.53,0:23:07.78,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Bu kadarı yeterli olmalıydı ama...
+Dialogue: 1,0:23:02.53,0:23:07.78,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Bu kadarı yeterli olmalıydı ama...
+Dialogue: 2,0:23:02.53,0:23:07.78,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Bu kadarı yeterli olmalıydı ama...
+Dialogue: 0,0:23:08.66,0:23:14.37,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Elini tuttuğum andan itibaren
+Dialogue: 1,0:23:08.66,0:23:14.37,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Elini tuttuğum andan itibaren
+Dialogue: 2,0:23:08.66,0:23:14.37,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Elini tuttuğum andan itibaren
+Dialogue: 0,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
+Dialogue: 1,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
+Dialogue: 2,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
+Dialogue: 0,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
+Dialogue: 1,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
+Dialogue: 2,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
+Dialogue: 0,0:23:31.35,0:23:42.11,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
+Dialogue: 1,0:23:31.35,0:23:42.23,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
+Dialogue: 2,0:23:31.35,0:23:42.23,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
+Dialogue: 0,0:23:42.53,0:23:48.28,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Anlat bana hikayenin devamını söylerken bir şarkı
+Dialogue: 1,0:23:42.53,0:23:48.28,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Anlat bana hikayenin devamını söylerken bir şarkı
+Dialogue: 2,0:23:42.53,0:23:48.28,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Anlat bana hikayenin devamını söylerken bir şarkı
+Dialogue: 0,0:23:48.28,0:23:57.42,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Götür beni adını bile duymadığım dünyalara
+Dialogue: 1,0:23:48.28,0:23:57.42,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Götür beni adını bile duymadığım dünyalara
+Dialogue: 2,0:23:48.28,0:23:57.42,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Götür beni adını bile duymadığım dünyalara
+Comment: 0,0:01:12.97,0:02:43.02,OP-TR,Turkish,0,0,0,,{op}
+Dialogue: 0,0:01:15.18,0:01:18.64,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k37}ne{\k37}gat{\k25}ta {\k42}yu{\k32}kan {\k33}na {\k55}sen{\k28}tak {\k57}no
+Dialogue: 0,0:01:18.77,0:01:24.40,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k21}mi{\k31}ra{\k19}i {\k31}vo {\k32}i{\k53}ma {\k32}te{\k26}ra{\k41}şi{\k116}te{\k161}ku
+Dialogue: 0,0:01:32.28,0:01:35.39,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k20}ri{\k16}ko{\k16}te{\k20}ki {\k32}na {\k35}kan{\k54}jo {\k15}bu{\k19}tsu{\k16}ke{\k34}a{\k34}ça
+Dialogue: 0,0:01:35.40,0:01:35.95,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}ma{\k19}da
+Dialogue: 0,0:01:36.22,0:01:37.49,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}mi{\k16}e{\k19}na{\k16}i {\k54}ne
+Dialogue: 0,0:01:37.82,0:01:40.71,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k18}ni{\k16}ge{\k15}te {\k20}ki{\k33}ta {\k36}bun {\k51}no {\k10}ki{\k6}o{\k19}ri {\k18}vo {\k17}u{\k17}me{\k13}ru
+Dialogue: 0,0:01:40.88,0:01:41.41,OP-ROM9,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k40}ho{\k13}ra
+Dialogue: 0,0:01:41.56,0:01:43.17,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k25}ta{\k16}bi {\k52}ni {\k16}de{\k52}yo
+Dialogue: 0,0:01:43.56,0:01:48.71,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k47}sa{\k33}i{\k35}ha{\k32}te {\k37}na{\k34}n{\k68}te {\k32}mi{\k35}ra{\k33}re{\k33}na{\k36}ku{\k38}te{\k22}mo
+Dialogue: 0,0:01:49.13,0:01:55.47,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k20}i{\k13}no{\k17}çi {\k18}vo {\k13}mo{\k18}ya{\k20}şi{\k34}te {\k17}i{\k17}ma {\k16}vo {\k11}i{\k23}ki{\k46}te {\k20}i{\k66}ku {\k36}da{\k17}ke {\k34}da{\k31}ka{\k147}ra
+Dialogue: 0,0:01:55.84,0:01:59.14,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}ne{\k34}gat{\k26}ta {\k39}son{\k18}za{\k18}i {\k32}no {\k14}şo{\k26}u{\k26}me{\k16}i {\k45}vo
+Dialogue: 0,0:01:59.49,0:02:02.69,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k37}ko{\k21}e {\k31}vo {\k15}fu{\k17}ru{\k28}va{\k19}se {\k20}tsu{\k35}zu{\k33}ke{\k64}te
+Dialogue: 0,0:02:03.15,0:02:07.02,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}fu{\k36}ri{\k34}ke{\k30}za{\k38}şi{\k46}te {\k36}ki{\k16}ta {\k20}ka{\k95}ra
+Dialogue: 0,0:02:07.48,0:02:09.78,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}ko{\k17}u{\k20}ka{\k13}i {\k34}va {\k17}i{\k34}ra{\k23}na{\k50}i
+Dialogue: 0,0:02:10.17,0:02:12.70,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,0)\k37}te {\k16}vo {\k34}to{\k32}ri{\k53}at{\k81}te
+Dialogue: 0,0:02:12.70,0:02:13.74,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(0,50)}te vo toriatte
+Dialogue: 0,0:02:11.49,0:02:13.74,OP-ROM9,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k38}ku{\k16}ra{\k33}i {\k18}ka{\k16}ko {\k52}dat{\k52}te
+Dialogue: 0,0:02:13.82,0:02:17.70,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k35}u{\k36}ke{\k36}to{\k31}me{\k31}te {\k47}su{\k42}su{\k13}nde {\k22}yu{\k95}ku
+Dialogue: 0,0:02:18.08,0:02:22.83,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k39}şi{\k16}me{\k37}sa{\k42}re{\k46}ta {\k35}ko{\k35}ta{\k32}e {\k32}e{\k17}ra{\k36}bu {\k31}yo{\k77}ri
+Dialogue: 0,0:02:23.18,0:02:26.92,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k19}a{\k17}ta{\k25}ra{\k25}şi{\k49}i {\k36}yu{\k14}me {\k21}vo {\k14}me{\k18}za{\k16}s {\k30}ka{\k90}ra
+Dialogue: 0,0:02:27.13,0:02:28.34,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k107}zut{\k14}to
+Dialogue: 0,0:02:28.50,0:02:34.05,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k21}ma{\k8}bu{\k40}şi {\k15}mi{\k51}çi {\k16}vo {\k19}a{\k32}ru{\k20}i{\k31}te {\k34}yu{\k268}ko
+Dialogue: 0,0:01:15.18,0:01:18.64,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k33}Ce{\k49}sur{\k50}ca {\k33}se{\k66}çim{\k33}le{\k33}ri{\k49}miz
+Dialogue: 0,0:01:18.77,0:01:24.40,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k45}Ge{\k45}le{\k45}ce{\k90}ğe {\k45}ı{\k135}şık {\k45}tu{\k45}ta{\k68}cak
+Dialogue: 0,0:01:32.28,0:01:35.39,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k24}Ben{\k33}cil {\k25}duy{\k16}gu{\k16}la{\k25}rı{\k41}mız {\k24}ça{\k25}tı{\k24}şa{\k33}cak {\k25}mı
+Dialogue: 0,0:01:35.40,0:01:35.95,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k18}He{\k37}nüz
+Dialogue: 0,0:01:36.22,0:01:37.49,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k23}Bi{\k23}le{\k23}mi{\k23}yo{\k35}rum
+Dialogue: 0,0:01:37.82,0:01:40.71,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k9}U{\k27}zak{\k36}laş{\k18}ma{\k45}nın {\k36}bir {\k18}be{\k18}de{\k28}li {\k9}o{\k18}la{\k27}cak
+Dialogue: 0,0:01:40.88,0:01:41.41,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k26}Hadi
+Dialogue: 0,0:01:41.56,0:01:43.17,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k43}Çı{\k21}ka{\k54}lım {\k21}yo{\k22}la
+Dialogue: 0,0:01:43.56,0:01:48.71,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k56}Çık{\k33}tı{\k45}ğı{\k56}mız {\k34}bu {\k22}yo{\k45}lun {\k22}so{\k22}nu{\k34}nu {\k34}gö{\k22}re{\k23}me{\k45}sek {\k22}de
+Dialogue: 0,0:01:49.13,0:01:55.47,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k24}Ru{\k24}hu{\k48}muz {\k24}ya{\k24}na{\k36}dur{\k59}sun, {\k12}a{\k48}nı {\k24}ya{\k36}şa{\k24}ya{\k36}bil{\k47}mek {\k24}ye{\k48}ter {\k24}he{\k24}pi{\k24}mi{\k24}ze
+Dialogue: 0,0:01:55.84,0:01:59.14,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}Di{\k22}le{\k33}ği{\k44}miz {\k33}var{\k11}o{\k22}lu{\k55}şun {\k22}ka{\k33}nı{\k33}tı
+Dialogue: 0,0:01:59.49,0:02:02.69,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k38}Sen{\k26}de{\k26}le{\k51}sek {\k38}de {\k13}i{\k38}ler{\k26}li{\k26}yo{\k38}ruz
+Dialogue: 0,0:02:03.15,0:02:07.02,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k43}Ken{\k29}di{\k43}miz{\k57}den {\k14}e{\k43}min{\k29}mi{\k72}şiz {\k28}gi{\k29}bi
+Dialogue: 0,0:02:07.48,0:02:09.78,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k51}Piş{\k51}man {\k26}ol{\k25}ma{\k26}ya{\k51}lım
+Dialogue: 0,0:02:10.17,0:02:12.70,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,0)\k28}Tu{\k28}tu{\k42}şa{\k71}lım {\k42}el {\k14}e{\k28}le
+Dialogue: 0,0:02:12.70,0:02:13.74,OP-TR,Romaji,0,0,0,,{\shad0.5\blur6\fad(0,50)}Tutuşalım el ele
+Dialogue: 0,0:02:11.49,0:02:13.74,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k41}Geç{\k20}mi{\k31}şi{\k41}miz {\k20}ka{\k31}ra {\k20}ol{\k21}sa
+Dialogue: 0,0:02:13.82,0:02:17.70,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k31}Bi{\k47}le {\k31}bu{\k46}nu {\k31}ka{\k47}bul{\k46}len{\k31}me{\k31}li{\k47}yiz
+Dialogue: 0,0:02:18.08,0:02:22.83,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k25}Be{\k37}lir{\k25}le{\k50}nen {\k38}yol{\k50}dan {\k12}i{\k37}ler{\k25}le{\k25}me{\k38}yi {\k38}bı{\k25}ra{\k50}kıp
+Dialogue: 0,0:02:23.18,0:02:26.92,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k55}Koş{\k28}ma{\k42}lı{\k69}yız {\k28}ha{\k41}yal{\k28}le{\k28}ri{\k27}mi{\k28}ze
+Dialogue: 0,0:02:27.13,0:02:28.34,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k54}Her {\k27}za{\k40}man
+Dialogue: 0,0:02:28.50,0:02:34.05,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k52}Yü{\k52}rü{\k35}me{\k35}li{\k69}yiz {\k52}bü{\k52}yü{\k69}lü {\k52}yol{\k52}lar{\k35}da
+Dialogue: 0,0:01:14.98,0:01:15.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.97,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.03,0:01:15.55,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(114.45,30.57)\fscx69.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.08,0:01:15.92,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(170.76,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.13,0:01:16.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(227.72,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.18,0:01:16.59,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(287.83,30.57)\fscx73.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.23,0:01:16.91,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(362.2,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.28,0:01:17.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(436.48,30.57)\fscx73.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.33,0:01:17.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(506.74,30.57)\fscx66.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.38,0:01:18.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(577.37,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.57,0:01:18.77,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.09,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.62,0:01:18.98,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(102.96,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.67,0:01:19.29,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(131.1,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.72,0:01:19.48,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(171.5,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.77,0:01:19.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(211.9,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.82,0:01:20.11,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(249.59,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.87,0:01:20.64,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(315.34,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.92,0:01:20.96,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(359.49,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.97,0:01:21.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(399.54,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:19.02,0:01:21.63,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(438.2,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:19.07,0:01:22.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(483.85,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.08,0:01:32.28,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(45.54,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.13,0:01:32.48,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(85.11,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.18,0:01:32.64,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(130.52,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.23,0:01:32.80,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(168.87,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.28,0:01:33.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(223.23,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.33,0:01:33.32,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(297.61,30.57)\fscx73.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.38,0:01:33.67,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(352.36,30.57)\fscx35.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.43,0:01:34.21,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(407.6,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.48,0:01:34.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(466.8,30.57)\fscx67.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.53,0:01:34.55,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(524.37,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.58,0:01:34.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(560.76,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.63,0:01:35.05,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(597.77,30.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:35.20,0:01:35.40,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.33,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:35.25,0:01:35.76,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(119.94,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.02,0:01:36.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.09,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.07,0:01:36.44,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(92.38,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.12,0:01:36.60,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(129.95,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.17,0:01:36.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(160.7,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.22,0:01:36.95,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(203.06,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.62,0:01:37.82,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(48.14,30.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.67,0:01:38.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(91.2,30.57)\fscx49.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.72,0:01:38.16,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(137.51,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.77,0:01:38.31,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(187.88,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.82,0:01:38.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(226.63,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.87,0:01:38.84,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(298.66,30.57)\fscx76.406\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.92,0:01:39.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(374.1,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.97,0:01:39.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(428.3,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.02,0:01:39.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(457.7,30.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.07,0:01:39.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(485.68,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.12,0:01:40.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(536.25,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.17,0:01:40.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(583.96,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.22,0:01:40.41,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(628.56,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.27,0:01:40.58,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(683.34,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:40.68,0:01:40.88,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.21,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:40.73,0:01:41.28,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(103.2,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.36,0:01:41.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(51.79,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.41,0:01:41.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(91.7,30.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.46,0:01:41.97,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(139.98,30.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.51,0:01:42.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(195.03,30.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.56,0:01:42.65,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(242.8,30.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.36,0:01:43.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.51,30.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.41,0:01:44.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(84.38,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.46,0:01:44.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(115.13,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.51,0:01:44.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(161.88,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.56,0:01:45.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(220.67,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.61,0:01:45.40,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(258.82,30.57)\fscx25.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.66,0:01:45.74,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(292.98,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.71,0:01:46.42,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(351.48,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.76,0:01:46.74,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(399.35,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.81,0:01:47.09,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(444.49,30.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.86,0:01:47.42,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(492.23,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.91,0:01:47.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(541.88,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.96,0:01:48.11,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(587.54,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:44.01,0:01:48.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(641.09,30.57)\fscx64.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.93,0:01:49.13,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(35.37,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.98,0:01:49.33,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(65.95,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.03,0:01:49.46,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(108.34,30.57)\fscx34.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.08,0:01:49.63,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(160.55,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.13,0:01:49.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(227.74,30.57)\fscx64.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.18,0:01:49.94,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(282.97,30.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.23,0:01:50.12,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(323.3,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.28,0:01:50.32,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(361.96,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.33,0:01:50.66,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(400.74,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.38,0:01:50.83,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(438.44,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.43,0:01:51.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(505.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.48,0:01:51.16,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(546.2,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.53,0:01:51.27,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(568.52,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.58,0:01:51.50,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(606.87,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.63,0:01:51.96,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(645.65,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.68,0:01:52.16,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(675.29,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.73,0:01:52.82,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(736.88,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.78,0:01:53.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(785.95,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.83,0:01:53.35,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(847.05,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.88,0:01:53.69,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(896.52,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.93,0:01:54.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(943.49,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.64,0:01:55.84,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.97,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.69,0:01:56.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(114.45,30.57)\fscx69.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.74,0:01:56.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(170.76,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.79,0:01:56.80,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(241.7,30.57)\fscx74.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.84,0:01:57.19,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(301.61,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.89,0:01:57.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(329.77,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.94,0:01:57.55,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(372.38,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.99,0:01:57.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(433.97,30.57)\fscx48.688\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.04,0:01:58.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(470.99,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.09,0:01:58.27,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(515.59,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.14,0:01:58.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(552.88,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.19,0:01:58.69,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(593.28,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.29,0:01:59.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.03,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.34,0:01:59.86,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(90.26,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.39,0:02:00.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(137.48,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.44,0:02:00.38,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(192.73,30.57)\fscx40.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.49,0:02:00.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(235.79,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.54,0:02:00.70,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(281.8,30.57)\fscx46.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.59,0:02:00.98,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(329.07,30.57)\fscx48.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.64,0:02:01.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(398.98,30.57)\fscx67.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.69,0:02:01.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(455.63,30.57)\fscx45.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.74,0:02:01.72,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(502.29,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.79,0:02:02.05,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(547.46,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:02.95,0:02:03.15,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(50.21,30.57)\fscx40.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.00,0:02:03.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(85.96,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.05,0:02:03.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(125.29,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.10,0:02:04.21,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(171.88,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.15,0:02:04.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(211.95,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.20,0:02:04.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(250.6,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.25,0:02:05.35,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(300.98,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.30,0:02:05.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(339.73,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.35,0:02:05.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(397.74,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.40,0:02:06.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(444.71,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.28,0:02:07.48,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.03,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.33,0:02:07.70,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(90.74,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.38,0:02:07.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(127.62,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.43,0:02:08.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(157.18,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.48,0:02:08.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(197.74,30.57)\fscx46.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.53,0:02:08.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(238.3,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.58,0:02:08.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(266.45,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.63,0:02:09.05,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(314.59,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.68,0:02:09.28,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(345.34,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:09.97,0:02:10.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(51.38,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.02,0:02:10.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(107.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.07,0:02:10.70,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(164.45,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.12,0:02:11.04,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(201.62,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.17,0:02:11.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(238.95,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.22,0:02:11.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(282.12,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.62,0:02:13.82,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(42.68,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.67,0:02:14.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(79.15,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.72,0:02:14.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(124.56,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.77,0:02:14.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(178.11,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.82,0:02:15.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(231.41,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.87,0:02:15.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(289.41,30.57)\fscx49.172\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.92,0:02:15.98,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(338.59,30.57)\fscx49.172\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.97,0:02:16.40,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(400.82,30.57)\fscx75.297\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:14.02,0:02:16.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(473.64,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:14.07,0:02:16.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(521.05,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.88,0:02:18.08,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(47.27,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.93,0:02:18.47,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(96.47,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.98,0:02:18.63,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(152.9,30.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.03,0:02:19.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(199.77,30.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.08,0:02:19.42,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(243.93,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.13,0:02:19.88,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(301.78,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.18,0:02:20.23,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(347.6,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.23,0:02:20.58,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(381.59,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.28,0:02:20.90,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(418.01,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.33,0:02:21.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(452.98,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.38,0:02:21.39,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(501.18,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.43,0:02:21.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(561.54,30.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.48,0:02:22.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(599.98,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:22.98,0:02:23.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(42.6,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.03,0:02:23.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(76.99,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.08,0:02:23.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(121.55,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.13,0:02:23.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(161.6,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.18,0:02:24.04,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(184.24,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.23,0:02:24.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(224.78,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.28,0:02:24.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(279.84,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.33,0:02:25.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(346.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.38,0:02:25.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(413.75,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.43,0:02:25.38,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(468.47,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.48,0:02:25.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(503.17,30.57)\fscx23.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.53,0:02:25.72,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(551.3,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.58,0:02:26.02,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(598.27,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.93,0:02:27.13,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.06,30.57)\fscx64.125\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.98,0:02:28.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(115.75,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.30,0:02:28.50,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.33,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.35,0:02:28.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(120.09,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.40,0:02:28.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(162.79,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.45,0:02:29.19,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(217.19,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.50,0:02:29.34,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(259.46,30.57)\fscx34.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.55,0:02:29.85,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(311.67,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.60,0:02:30.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(359.3,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.65,0:02:30.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(394.76,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.70,0:02:30.52,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(422.98,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.75,0:02:30.72,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(449.73,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.80,0:02:31.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(506.28,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.85,0:02:31.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(553.45,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:14.98,0:01:15.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.06,990.57)\fscx54.125\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.03,0:01:15.51,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(118.88,990.57)\fscx69.516\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.08,0:01:16.00,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(178.05,990.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.13,0:01:16.50,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(238.6,990.57)\fscx48.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.18,0:01:16.83,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(299.61,990.57)\fscx73.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.23,0:01:17.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(354.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.28,0:01:17.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(387.18,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.33,0:01:18.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(438.01,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.57,0:01:18.77,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.76,990.57)\fscx55.516\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.62,0:01:19.22,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(103.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.67,0:01:19.67,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(144.65,990.57)\fscx48.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.72,0:01:20.12,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(193.58,990.57)\fscx49.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.77,0:01:21.02,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(235.9,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.82,0:01:21.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(270.13,990.57)\fscx57.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.87,0:01:22.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(332.9,990.57)\fscx43.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.92,0:01:23.27,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(376.55,990.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.97,0:01:23.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(434.35,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.08,0:01:32.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(70.27,990.57)\fscx80.531\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.13,0:01:32.52,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(133.08,990.57)\fscx45.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.18,0:01:32.85,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(203.48,990.57)\fscx71.641\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.23,0:01:33.10,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.7,990.57)\fscx50.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.28,0:01:33.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(308.08,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.33,0:01:33.42,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(341.59,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.38,0:01:33.67,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(392.41,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.43,0:01:34.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(464.15,990.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.48,0:01:34.32,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(503.12,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.53,0:01:34.57,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(542.18,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.58,0:01:34.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(602.7,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.63,0:01:35.14,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(675.83,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.02,0:01:36.22,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.66,990.57)\fscx41.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.07,0:01:36.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(88.89,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.12,0:01:36.68,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(131.55,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.17,0:01:36.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.54,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.22,0:01:37.14,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(245.02,990.57)\fscx85.156\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.62,0:01:37.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(46.16,990.57)\fscx32.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.67,0:01:37.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(96.72,990.57)\fscx68.781\fscy54.852\bord0\fad(120,0)\t(100,240,\fscy12.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.72,0:01:38.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(160.98,990.57)\fscx59.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.77,0:01:38.54,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(223.19,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.82,0:01:38.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(286.43,990.57)\fscx61.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.87,0:01:39.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(357.66,990.57)\fscx56.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.92,0:01:39.53,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(422.93,990.57)\fscx49.891\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.97,0:01:39.71,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(472.75,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.02,0:01:39.89,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(508.36,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.07,0:01:40.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(543.56,990.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.12,0:01:40.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(573.97,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.17,0:01:40.44,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(627.95,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.36,0:01:41.56,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.23,990.57)\fscx40.469\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.41,0:01:41.99,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(94.66,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.46,0:01:42.20,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(149.32,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.51,0:01:42.74,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(214.71,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.56,0:01:42.95,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(255.58,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.36,0:01:43.56,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(61.83,990.57)\fscx63.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.41,0:01:44.12,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(108.21,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.46,0:01:44.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(140.86,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.51,0:01:44.90,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(194.24,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.56,0:01:45.46,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(266.99,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.61,0:01:45.80,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(327.35,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.66,0:01:46.02,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(381.07,990.57)\fscx61.641\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.71,0:01:46.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(448.27,990.57)\fscx48.688\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.76,0:01:46.69,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(498.06,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.81,0:01:46.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(548.97,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.86,0:01:47.25,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(611.62,990.57)\fscx50.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.91,0:01:47.59,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(659.15,990.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.96,0:01:47.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(713.44,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:44.01,0:01:48.04,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(781.05,990.57)\fscx71.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:44.06,0:01:48.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(853.66,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.93,0:01:49.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(58.2,990.57)\fscx56.391\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.98,0:01:49.37,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(111.84,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.03,0:01:49.61,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.9,990.57)\fscx85.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.08,0:01:50.09,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(257.59,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.13,0:01:50.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(306.03,990.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.18,0:01:50.57,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(366.94,990.57)\fscx71.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.23,0:01:50.93,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(445.22,990.57)\fscx85.5\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.28,0:01:51.52,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(512.6,990.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.33,0:01:51.64,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(543.34,990.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.38,0:01:52.12,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(596.58,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.43,0:01:52.36,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(644.15,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.48,0:01:52.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(691.72,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.53,0:01:52.96,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(738.27,990.57)\fscx46.969\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.58,0:01:53.32,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(805.27,990.57)\fscx87.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.63,0:01:53.79,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(883.47,990.57)\fscx45.313\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.68,0:01:54.03,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(937.68,990.57)\fscx63.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.73,0:01:54.51,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1006.23,990.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.78,0:01:54.75,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1049.41,990.57)\fscx36.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.83,0:01:54.99,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1092.72,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.88,0:01:55.23,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1140.2,990.57)\fscx44.781\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.64,0:01:55.84,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(51.55,990.57)\fscx43.109\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.69,0:01:56.06,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(90.67,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.74,0:01:56.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(126.33,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.79,0:01:56.61,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.71,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.84,0:01:57.05,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(260.37,990.57)\fscx66.672\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.89,0:01:57.38,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(306.14,990.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.94,0:01:57.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(336.63,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.99,0:01:57.71,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(392.03,990.57)\fscx74.719\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.04,0:01:58.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(465.62,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.09,0:01:58.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(507.95,990.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.14,0:01:58.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(540.65,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.29,0:01:59.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.38,990.57)\fscx78.75\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.34,0:01:59.87,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(133.63,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.39,0:02:00.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(176.06,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.44,0:02:00.39,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(229.32,990.57)\fscx71.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.49,0:02:00.90,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(301.92,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.54,0:02:01.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(344.2,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.59,0:02:01.41,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(377.3,990.57)\fscx55.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.64,0:02:01.79,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(415.77,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.69,0:02:02.05,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(449.4,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.74,0:02:02.31,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(505.34,990.57)\fscx66.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:02.95,0:02:03.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.84,990.57)\fscx79.672\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.00,0:02:03.58,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(127.72,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.05,0:02:03.87,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(181.05,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.10,0:02:04.30,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(253.99,990.57)\fscx75.297\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.15,0:02:04.87,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(315.87,990.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.20,0:02:05.01,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(365.93,990.57)\fscx75.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.25,0:02:05.44,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(428.89,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.30,0:02:05.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(481.45,990.57)\fscx54.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.35,0:02:06.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(539.05,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.40,0:02:06.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(575.26,990.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.28,0:02:07.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(62.02,990.57)\fscx64.031\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.33,0:02:07.99,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(139.13,990.57)\fscx90.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.38,0:02:08.50,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(214.07,990.57)\fscx35.609\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.43,0:02:08.76,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.2,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.48,0:02:09.01,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(319.59,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.53,0:02:09.27,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(373.12,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:09.97,0:02:10.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(55.41,990.57)\fscx50.813\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.02,0:02:10.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(102.68,990.57)\fscx43.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.07,0:02:10.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(149.05,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.12,0:02:11.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(204.02,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.17,0:02:11.86,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.22,0:02:12.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(305.87,990.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.27,0:02:12.42,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(335.63,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.62,0:02:13.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.66,990.57)\fscx41.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.67,0:02:14.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(88.89,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.72,0:02:14.60,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(143.91,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.77,0:02:14.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(194.8,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.82,0:02:15.37,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(256.48,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.87,0:02:15.68,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(311.47,990.57)\fscx61.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.92,0:02:16.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(372.6,990.57)\fscx60.672\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.97,0:02:16.61,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(434.86,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:14.02,0:02:16.92,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(477.52,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:14.07,0:02:17.23,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(514.27,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.88,0:02:18.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.49,990.57)\fscx54.984\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.93,0:02:18.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(105.89,990.57)\fscx41.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.98,0:02:18.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(144.36,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.03,0:02:18.95,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(199.66,990.57)\fscx75.484\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.08,0:02:19.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(277.7,990.57)\fscx56.531\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.13,0:02:19.83,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(344.02,990.57)\fscx76.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.18,0:02:20.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(399.48,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.23,0:02:20.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(432.58,990.57)\fscx55.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.28,0:02:20.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(477.88,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.33,0:02:21.07,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(527.36,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.38,0:02:21.32,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(575.11,990.57)\fscx31.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.43,0:02:21.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(621.09,990.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.48,0:02:22.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(661.98,990.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.53,0:02:22.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(714.55,990.57)\fscx59.609\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:22.98,0:02:23.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.21,990.57)\fscx78.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.03,0:02:23.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(140.75,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.08,0:02:24.01,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(183.81,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.13,0:02:24.43,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(220.57,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.18,0:02:25.12,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(284,990.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.23,0:02:25.40,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(337.8,990.57)\fscx56.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.28,0:02:25.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(383.8,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.33,0:02:26.09,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(416.9,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.38,0:02:26.37,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(457.53,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.43,0:02:26.64,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(505.02,990.57)\fscx44.781\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.30,0:02:28.50,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.33,990.57)\fscx54.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.35,0:02:29.02,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(107.51,990.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.40,0:02:29.54,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(162.28,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.45,0:02:29.89,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(204.94,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.50,0:02:30.24,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(241.7,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.55,0:02:30.93,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(305.18,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.60,0:02:31.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(353.75,990.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.65,0:02:31.97,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(394.94,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.70,0:02:32.66,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(453.28,990.57)\fscx56.531\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.75,0:02:33.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(509.69,990.57)\fscx56.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.80,0:02:33.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(563.11,990.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
