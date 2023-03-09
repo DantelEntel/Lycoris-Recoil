@@ -75,7 +75,7 @@ Dialogue: 15,0:02:41.14,0:02:42.80,Default,,0,0,0,,{\an8}Beni boş verin. Ateş 
 Dialogue: 15,0:02:43.10,0:02:44.39,Default,,0,0,0,,Fuki.
 Dialogue: 15,0:02:43.10,0:02:46.64,Default,,0,0,0,,{\an8}Altı, beş, dört, üç...
 Dialogue: 15,0:02:44.39,0:02:45.77,Default,,0,0,0,,Beklememiz emredildi.
-Dialogue: 15,0:02:45.77,0:02:46.64,Default,,0,0,0,,Beklersek Erika—
+Dialogue: 15,0:02:45.77,0:02:46.64,Default,,0,0,0,,Beklersek Erika-
 Dialogue: 15,0:02:48.52,0:02:48.99,Default,,0,0,0,,Takina!
 Dialogue: 15,0:02:47.27,0:02:48.85,Default,,0,0,0,,{\an8}İki, bir...
 Dialogue: 15,0:03:10.33,0:03:11.83,Default,,0,0,0,,Sen...
@@ -107,11 +107,11 @@ Dialogue: 15,0:04:45.55,0:04:49.93,Default,,0,0,0,,{\an8\i1}Geçen yılın Nobel
 Dialogue: 15,0:04:46.55,0:04:47.60,Default,,0,0,0,,Şey...
 Dialogue: 15,0:04:49.60,0:04:50.85,Default,,0,0,0,,Sen kimsin?
 Dialogue: 15,0:04:49.93,0:04:51.93,Default,,0,0,0,,{\an8\i1}...konuşması sırasında müteşekkir olduğunu ve...
-Dialogue: 15,0:04:51.10,0:04:54.31,Default,,0,0,0,,Bugünden itibaren burada çalışacağım. \NAdım Takina İnoue.
+Dialogue: 15,0:04:51.10,0:04:54.31,Default,,0,0,0,,Bugünden itibaren burada çalışacağım. \NAdım Takina İnove.
 Dialogue: 15,0:04:51.93,0:04:54.32,Default,,0,0,0,,{\an8\i1}...Alan'ın desteği olmadan \Nbunu başaramayacağını belirtti.
-Dialogue: 15,0:04:54.32,0:04:54.77,Default,,0,0,0,,{\an5\pos(960,75)\i1\t(348,433,2,\fscy30\ybord1.25)\t(348,433,0.5,\fscy10\ybord0.5)}Ancak—
+Dialogue: 15,0:04:54.32,0:04:54.77,Default,,0,0,0,,{\an5\pos(960,75)\i1\t(348,433,2,\fscy30\ybord1.25)\t(348,433,0.5,\fscy10\ybord0.5)}Ancak-
 Dialogue: 15,0:04:55.56,0:04:57.48,Default,,0,0,0,,Geldin demek, Takina.
-Dialogue: 15,0:05:01.69,0:05:03.90,Default,,0,0,0,,DA'den kovulan şu Likoris sen misin?
+Dialogue: 15,0:05:01.69,0:05:03.90,Default,,0,0,0,,AA'dan kovulan şu Likoris sen misin?
 Dialogue: 15,0:05:03.90,0:05:05.03,Default,,0,0,0,,Kovulmadım.
 Dialogue: 15,0:05:05.03,0:05:07.99,Default,,0,0,0,,Sizden ders almam emredildi, Çisato hanım.
 Dialogue: 15,0:05:08.70,0:05:10.66,Default,,0,0,0,,Transfer olmayı her ne kadar istemesem de...
@@ -121,8 +121,8 @@ Dialogue: 15,0:05:18.13,0:05:19.42,Default,,0,0,0,,Çisato O değil.
 Dialogue: 15,0:05:19.42,0:05:20.88,Default,,0,0,0,,"O" ne be!
 Dialogue: 15,0:05:23.26,0:05:25.30,Default,,0,0,0,,O ihtiyar da değil tabii!
 Dialogue: 15,0:05:25.30,0:05:27.13,Default,,0,0,0,,Ben Mika, buranın müdürüyüm.
-Dialogue: 15,0:05:27.13,0:05:28.47,Default,,0,0,0,,İnoue Takina.
-Dialogue: 15,0:05:28.47,0:05:32.22,Default,,0,0,0,,Mizuki, eski DA üyesi. İstihbarat Birimi'nden.
+Dialogue: 15,0:05:27.13,0:05:28.47,Default,,0,0,0,,İnove Takina.
+Dialogue: 15,0:05:28.47,0:05:32.22,Default,,0,0,0,,Mizuki, eski AA üyesi. İstihbarat Birimi'nden.
 Dialogue: 15,0:05:32.81,0:05:33.97,Default,,0,0,0,,Eski...
 Dialogue: 15,0:05:33.97,0:05:35.68,Default,,0,0,0,,Bıkkınlık gelmişti artık.
 Dialogue: 15,0:05:35.68,0:05:40.11,Default,,0,0,0,,Yetimleri toplayıp sonra da sizin gibi \NLikorisler'e çeviren bir örgüt orası.
@@ -139,7 +139,7 @@ Dialogue: 15,0:06:02.34,0:06:04.76,Default,,0,0,0,,Bahsettiğim Likoris bu.\NAnl
 Dialogue: 15,0:06:05.84,0:06:08.18,Default,,0,0,0,,Bugünden itibaren ortak olacaksınız. İyi geçinin.
 Dialogue: 15,0:06:08.43,0:06:10.22,Default,,0,0,0,,- Yani o...\N- Yani o...
 Dialogue: 15,0:06:10.47,0:06:12.68,Default,,0,0,0,,Memnun oldum, ortak! Ben Çisato!
-Dialogue: 15,0:06:12.68,0:06:14.60,Default,,0,0,0,,Takina İnoue. Memnun oldum—
+Dialogue: 15,0:06:12.68,0:06:14.60,Default,,0,0,0,,Takina İnove. Memnun oldum-
 Dialogue: 15,0:06:14.60,0:06:16.39,Default,,0,0,0,,Takina demek! Yeni tanışıyoruz, di' mi?
 Dialogue: 15,0:06:16.39,0:06:19.27,Default,,0,0,0,,E-Evet... Geçen sene Kyoto'dan transfer oldum.
 Dialogue: 15,0:06:19.27,0:06:22.69,Default,,0,0,0,,Bak sen, şu transferlerdensin demek!\N Yeteneklisin o zaman! Yaşın kaç?
@@ -169,7 +169,7 @@ Dialogue: 15,0:07:20.12,0:07:22.54,Default,,0,0,0,,Zamanında Likoris yurdunda o
 Dialogue: 15,0:07:23.33,0:07:25.13,Default,,0,0,0,,Düne kadar ben de öyleydim.
 Dialogue: 15,0:07:25.29,0:07:30.13,Default,,0,0,0,,Sahi mi? Bak buna üzüldüm.\NÇok fena dişlerini gıcırdatıyor, di' mi?
 Dialogue: 15,0:07:30.13,0:07:32.55,Default,,0,0,0,,Rüyalarında bile gergin biri.
-Dialogue: 15,0:07:33.01,0:07:35.72,Default,,0,0,0,,Çisato abla, neden DA'de değilsin?
+Dialogue: 15,0:07:33.01,0:07:35.72,Default,,0,0,0,,Çisato abla, neden AA'da değilsin?
 Dialogue: 15,0:07:39.73,0:07:41.94,Default,,0,0,0,,Belalı bir çocuğum da.
 Dialogue: 15,0:07:42.23,0:07:44.73,Default,,0,0,0,,Oldukça yetenekli bir \NLikoris olduğunu duydum.
 Dialogue: 15,0:07:44.73,0:07:46.23,Default,,0,0,0,,Kusunoki mi dedi?
@@ -179,7 +179,7 @@ Dialogue: 15,0:07:54.87,0:07:58.33,Default,,0,0,0,,Eski radyo kulesini tek baş�
 Dialogue: 15,0:07:58.33,0:07:59.95,Default,,0,0,0,,Kırsalda bile ünlüsün.
 Dialogue: 15,0:07:59.95,0:08:01.50,Default,,0,0,0,,Sahi mi?
 Dialogue: 15,0:08:02.21,0:08:04.83,Default,,0,0,0,,Ama sonuç olarak yine bozuldu.
-Dialogue: 15,0:08:04.83,0:08:08.42,Default,,0,0,0,,O yetenekli Likoris DA'de kaldı bence.
+Dialogue: 15,0:08:04.83,0:08:08.42,Default,,0,0,0,,O yetenekli Likoris AA'da kaldı bence.
 Dialogue: 15,0:08:08.42,0:08:09.96,Default,,0,0,0,,Ben de öyle olmalıydım.
 Dialogue: 15,0:08:10.26,0:08:15.51,Default,,0,0,0,,Ah, şu silah anlaşması olayı mı? Malları \Nbi' şekilde güvenceye alabildin ama, di' mi?
 Dialogue: 15,0:08:15.64,0:08:17.68,Default,,0,0,0,,Hayır. Orada değillerdi.
@@ -259,12 +259,12 @@ Dialogue: 15,0:12:01.15,0:12:02.91,Default,,0,0,0,,Öyle bir şey yaparlar mı?
 Dialogue: 15,0:12:03.16,0:12:08.08,Default,,0,0,0,,Kim bilir? Ama böyle saçma sapan\N şeyleri seviyorum ben.
 Dialogue: 15,0:12:08.58,0:12:10.62,Default,,0,0,0,,Bu yüzden saçma sapan davranıyorsunuz demek.
 Dialogue: 15,0:12:11.79,0:12:15.25,Default,,0,0,0,,Ne cesurca yorumlar bunlar. \NNeyse, her halükarda...
-Dialogue: 15,0:12:15.54,0:12:19.34,Default,,0,0,0,,...DA ilgilenmese de \Nyardıma ihtiyacı olan tonla insan var.
+Dialogue: 15,0:12:15.54,0:12:19.34,Default,,0,0,0,,...AA ilgilenmese de \Nyardıma ihtiyacı olan tonla insan var.
 Dialogue: 15,0:12:19.34,0:12:21.01,Default,,0,0,0,,Yardım bekliyorlar.
 Dialogue: 15,0:12:21.42,0:12:23.59,Default,,0,0,0,,Bu yüzden, bize yardım eder misin Takina?
 Dialogue: 15,0:12:30.72,0:12:32.27,Default,,0,0,0,,Sorun falan var mı?
 Dialogue: 15,0:12:33.23,0:12:34.77,Default,,0,0,0,,Fazlasıyla.
-Dialogue: 15,0:12:45.32,0:12:47.91,Default,,0,0,0,,Kendisi yeni çalışanımız, Takina İnoue.
+Dialogue: 15,0:12:45.32,0:12:47.91,Default,,0,0,0,,Kendisi yeni çalışanımız, Takina İnove.
 Dialogue: 15,0:12:48.08,0:12:51.79,Default,,0,0,0,,LikoReko'ya uğramak için\N sebeplerim arttı desenize.
 Dialogue: 15,0:12:52.12,0:12:53.91,Default,,0,0,0,,Kendisi kafemizin müdavimlerinden.
 Dialogue: 15,0:12:53.91,0:12:56.17,Default,,0,0,0,,Memnun oldum. Polis departmanından Abe.
@@ -282,7 +282,7 @@ Dialogue: 15,0:13:24.82,0:13:27.20,Default,,0,0,0,,Ne de olsa koruma olacağız!
 Dialogue: 15,0:13:27.49,0:13:30.37,Default,,0,0,0,,Bakalım, buluşacağımız yer...
 Dialogue: 15,0:13:30.49,0:13:34.41,Default,,0,0,0,,Şey, bu gibi olaylar değerlendirilir mi acaba?
 Dialogue: 15,0:13:34.62,0:13:35.75,Default,,0,0,0,,Değerlendirme derken?
-Dialogue: 15,0:13:39.88,0:13:44.26,Default,,0,0,0,,Olumlu sonuçlar alıp en kısa sürede\N DA'ye dönmek istiyorsun demek.
+Dialogue: 15,0:13:39.88,0:13:44.26,Default,,0,0,0,,Olumlu sonuçlar alıp en kısa sürede\N AA'ya dönmek istiyorsun demek.
 Dialogue: 15,0:13:44.59,0:13:46.47,Default,,0,0,0,,Geri dönmek...
 Dialogue: 15,0:13:46.47,0:13:49.22,Default,,0,0,0,,Buraya gönderilmemin adil bir karar olduğunu düşünmüyorum.
 Dialogue: 15,0:13:49.43,0:13:51.56,Default,,0,0,0,,O zaman, neden ateş ettin?
@@ -416,7 +416,7 @@ Dialogue: 15,0:20:36.38,0:20:40.42,Default,,0,0,0,,{\i1}Kötülük yapanları \N
 Dialogue: 15,0:20:40.42,0:20:43.18,Default,,0,0,0,,{\i1}...böyle ufak bir kız olması şaşırttı bak.
 Dialogue: 15,0:20:43.47,0:20:46.64,Default,,0,0,0,,Klasik Ceviz. Her şeyden haberdarsın.
 Dialogue: 15,0:20:46.93,0:20:51.39,Default,,0,0,0,,{\i1}Bilgisiz olmaktan nefret ediyorum. Bu yüzden\N daha öğrenmek istediğim çok şey var.
-Dialogue: 15,0:20:51.39,0:20:56.02,Default,,0,0,0,,Ödülünü buyur. DA'yi hackleyişin etkileyiciydi.
+Dialogue: 15,0:20:51.39,0:20:56.02,Default,,0,0,0,,Ödülünü buyur. AA'yı hacklemen etkileyiciydi.
 Dialogue: 15,0:20:56.02,0:20:58.73,Default,,0,0,0,,Uygun bir meblağ hazırlayacağım sana.
 Dialogue: 15,0:20:58.73,0:20:59.98,Default,,0,0,0,,{\i1}Derdim o değil.
 Dialogue: 15,0:20:59.98,0:21:02.24,Default,,0,0,0,,Hmm, nedir peki?
@@ -434,10 +434,10 @@ Dialogue: 15,0:21:44.32,0:21:46.16,Default,,0,0,0,,Üç saat önce olduğunu sö
 Dialogue: 15,0:21:46.16,0:21:50.03,Default,,0,0,0,,Kusunoki'ye sahte bir saat verilmiş olmasın?
 Dialogue: 15,0:21:50.03,0:21:52.45,Default,,0,0,0,,Kadına saldıranlara n'oldu?
 Dialogue: 15,0:21:52.45,0:21:53.62,Default,,0,0,0,,Temizlikçi halletti.
-Dialogue: 15,0:21:53.62,0:21:56.37,Default,,0,0,0,,Seni var y— Yine mi temizlikçi kullandın? \NÇok pahalı be!
-Dialogue: 15,0:21:56.37,0:21:58.83,Default,,0,0,0,,DA'ye verseydik öldürülürlerdi.
+Dialogue: 15,0:21:53.62,0:21:56.37,Default,,0,0,0,,Seni var y- Yine mi temizlikçi kullandın? \NÇok pahalı be!
+Dialogue: 15,0:21:56.37,0:21:58.83,Default,,0,0,0,,AA'ya verseydik öldürülürlerdi.
 Dialogue: 15,0:21:58.83,0:22:00.00,Default,,0,0,0,,Hayret bir şey!
-Dialogue: 15,0:22:00.00,0:22:02.05,Default,,0,0,0,,DA bu adamların da peşinde, değil mi?
+Dialogue: 15,0:22:00.00,0:22:02.05,Default,,0,0,0,,AA bu adamların da peşinde, değil mi?
 Dialogue: 15,0:22:02.21,0:22:06.05,Default,,0,0,0,,Biz onlardan önce bulursak \NTakina geri dönemez mi?
 Dialogue: 15,0:22:06.05,0:22:07.51,Default,,0,0,0,,Ne dersin, Takina?
 Dialogue: 15,0:22:07.72,0:22:08.84,Default,,0,0,0,,Ben varım!
@@ -446,7 +446,7 @@ Dialogue: 15,0:22:12.47,0:22:14.98,Default,,0,0,0,,Dur, dur! Aşırı tatlısın
 Dialogue: 15,0:22:14.98,0:22:17.65,Default,,0,0,0,,Hadi! Müdürüm, Mizuki! Az daha yaklaşın!
 Dialogue: 15,0:22:20.90,0:22:23.69,Default,,0,0,0,,Dükkanın hesabına yükleyiverdim bile!
 Dialogue: 15,0:22:23.90,0:22:26.99,Default,,0,0,0,,Az önce dediklerimi dinlemedin mi sen?
-Dialogue: 15,0:22:26.99,0:22:28.49,Default,,0,0,0,,Cahilce paylaşımlar sorun yaratabi—
+Dialogue: 15,0:22:26.99,0:22:28.49,Default,,0,0,0,,Cahilce paylaşımlar sorun yaratabi-
 Dialogue: 15,0:22:28.49,0:22:31.41,Default,,0,0,0,,Sorun yok. Arkamızda bina falan yok.
 Dialogue: 15,0:22:31.74,0:22:33.62,Default,,0,0,0,,Hadi, müşteri geldi! Çalıştığımız gibi!
 Dialogue: 15,0:22:37.08,0:22:38.83,Default,,0,0,0,,Selam, Mika.
