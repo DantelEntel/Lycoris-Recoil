@@ -20,6 +20,7 @@ Style: ED,Eurostile Round,57,&H007C56D2,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: MaRCa}{Çeviri Editörü: Einherjar}{Redaksiyon: Vuats}{Yazı Dizimi: Vuats}{Başlangıç Şarkısı: Vuats}{Kapanış Şarkısı: Einherjar}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
 Dialogue: 15,0:00:03.52,0:00:05.90,Default,,0,0,0,,Merkez? Merkez!
 Dialogue: 15,0:00:07.90,0:00:08.95,Default,,0,0,0,,Bağlantı kesildi.
 Dialogue: 15,0:00:08.95,0:00:09.61,Default,,0,0,0,,Neden?
