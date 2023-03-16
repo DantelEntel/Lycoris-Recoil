@@ -19,6 +19,7 @@ Style: ED,Eurostile Round,57,&H007C56D2,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: MaRCa}{Çeviri Editörü: Einherjar}{Redaksiyon: Vuats}{Yazı Dizimi: Vuats}{Başlangıç Şarkısı: Vuats}{Kapanış Şarkısı: Einherjar}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
 Dialogue: 15,0:00:16.44,0:00:17.99,Default,,0,0,0,,Bu nedir?
 Dialogue: 15,0:00:18.24,0:00:20.33,Default,,0,0,0,,Ben de tutturamıyorum.
 Dialogue: 15,0:00:20.45,0:00:21.50,Default,,0,0,0,,O yüzden mi?
@@ -324,7 +325,7 @@ Dialogue: 15,0:19:40.61,0:19:43.78,Default,,0,0,0,,Harbiden. Abe bey televizyona
 Dialogue: 15,0:19:41.99,0:19:45.03,Default,,0,0,0,,{\an8\i1}Devrilen treni kaldırmakta zorlandıklarını ve...
 Dialogue: 15,0:19:44.07,0:19:47.50,Default,,0,0,0,,Çalışıyor demek. Bugün gelemez gibi.
 Dialogue: 15,0:19:45.03,0:19:47.50,Default,,0,0,0,,{\an8\i1}...yakın zamanda kullanıma açamayacaklarını bildirdiler.
-Dialogue: 15,0:19:52.17,0:19:55.38,Default,,0,0,0,,Polisiz biz, niye olay yerine giremiyoruz?
+Dialogue: 15,0:19:52.17,0:19:55.38,Default,,0,0,0,,Biz dedektifiz, niye olay yerine giremiyoruz?
 Dialogue: 15,0:19:55.38,0:19:59.42,Default,,0,0,0,,Ayrıca nasıl olur da bir tane bile tanık olmaz?
 Dialogue: 15,0:20:00.17,0:20:01.47,Default,,0,0,0,,İlla vardır bir sebebi...
 Dialogue: 15,0:20:02.13,0:20:03.34,Default,,0,0,0,,...eminim.
