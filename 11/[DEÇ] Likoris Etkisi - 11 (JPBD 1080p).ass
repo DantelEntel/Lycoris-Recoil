@@ -1,0 +1,965 @@
+﻿[Script Info]
+Title: Dantel Entel
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
+Style: Default,Amazon Ember,68,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,180,180,50,0
+Style: Vuatsigns,Arial,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
+Style: OP-ROM,Eurostile Round,60,&H00D9DAF8,&H00A79EE9,&H4B6158BE,&H004F59BA,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,28,1
+Style: OP-ROM9,Eurostile Round,60,&H00D9DAF8,&H00B1B481,&H4B809845,&H00809845,0,0,0,0,100,100,0,0,1,1.5,0,7,30,30,32,1
+Style: OP-TR,Eurostile Round,60,&H00D9DAF8,&H00D9DAF8,&H4B6158BE,&H004F59BA,0,0,0,0,100,100,0,0,1,2.5,0,1,30,30,32,1
+Style: OP-TR9,Eurostile Round,60,&H00D9DAF8,&H00D9DAF8,&H4B809845,&H00809845,0,0,0,0,100,100,0,0,1,1.5,0,1,30,30,32,1
+Style: ED,Eurostile Round,57,&H007C56D2,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1.5,2,7,28,10,10,1
+ 
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: MaRCa}{Çeviri Editörü: Einherjar}{Redaksiyon: Vuats}{Yazı Dizimi: Vuats}{Başlangıç Şarkısı: Vuats}{Kapanış Şarkısı: Einherjar}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
+Dialogue: 15,0:00:05.98,0:00:10.65,Default,,0,0,0,,{\an8\i1}Majima çetesi öngörülen patlama noktası\N olan ilk gözlemevini geçmiş bulunmakta.
+Dialogue: 15,0:00:08.32,0:00:10.65,Default,,0,0,0,,Takina, geri dönmene sevindim.
+Dialogue: 15,0:00:11.24,0:00:16.70,Default,,0,0,0,,{\an8\i1}İkinci gözlemevinde asansörü bloke \Nettiler, şu anda kuşatma altındalar.
+Dialogue: 15,0:00:15.16,0:00:18.83,Default,,0,0,0,,Şey... uzun zamandır \Nseninle konuşmak istiyordum.
+Dialogue: 15,0:00:17.53,0:00:22.29,Default,,0,0,0,,{\an8\i1}Seçkin ekipler dört acil durum merdivenini \Nkullanarak ikinci gözlemevine saldıracak.
+Dialogue: 15,0:00:24.96,0:00:25.46,Default,,0,0,0,,Takina?
+Dialogue: 15,0:00:25.79,0:00:27.33,Default,,0,0,0,,{\i1}Çisato'yu mu çağırdınız?!
+Dialogue: 15,0:00:27.33,0:00:28.71,Default,,0,0,0,,Yerine otur.
+Dialogue: 15,0:00:28.96,0:00:30.25,Default,,0,0,0,,{\i1}Komutanım, Çisato-
+Dialogue: 15,0:00:30.25,0:00:33.01,Default,,0,0,0,,Gelmeyecek. Bağlantıyı kaybettik.
+Dialogue: 15,0:00:33.01,0:00:35.76,Default,,0,0,0,,{\i1}Bağlantıyı mı kaybettiniz? Müdürle de mi?
+Dialogue: 15,0:00:35.76,0:00:36.55,Default,,0,0,0,,Evet.
+Dialogue: 15,0:00:36.55,0:00:37.22,Default,,0,0,0,,{\i1}Neden?
+Dialogue: 15,0:00:37.39,0:00:38.28,Default,,0,0,0,,Kim bilir?
+Dialogue: 15,0:00:38.56,0:00:40.43,Default,,0,0,0,,Bizimle alakası yok.
+Dialogue: 15,0:00:40.97,0:00:42.39,Default,,0,0,0,,Toplantının ortasındayız!
+Dialogue: 15,0:00:42.73,0:00:46.19,Default,,0,0,0,,Böyle bir durumda ikisiyle de\Niletişime geçemiyor olmanız...
+Dialogue: 15,0:00:46.19,0:00:47.61,Default,,0,0,0,,Bir tuhaflık var bu işte!
+Dialogue: 15,0:00:47.61,0:00:48.23,Default,,0,0,0,,Hey!
+Dialogue: 15,0:00:48.23,0:00:50.19,Default,,0,0,0,,Operasyon başlamadan dönerim!
+Dialogue: 15,0:00:52.57,0:00:54.40,Default,,0,0,0,,{\i1}Telefonunu bıraktın, değil mi?
+Dialogue: 15,0:00:54.40,0:00:55.57,Default,,0,0,0,,Evet.
+Dialogue: 15,0:00:55.57,0:00:59.24,Default,,0,0,0,,{\i1}Başka hiçbir iletişime iznin yok.\NDediklerimi iyi dinle.
+Dialogue: 15,0:00:59.49,0:01:02.12,Default,,0,0,0,,Tamam be. Dökül artık, Robota.
+Dialogue: 15,0:01:02.71,0:01:04.50,Default,,0,0,0,,{\i1}Beni tanıyor musun yoksa?
+Dialogue: 15,0:01:04.50,0:01:07.83,Default,,0,0,0,,{\i1}An itibarıyla Ceviz'i geride bıraktığım resmileşti!
+Dialogue: 15,0:01:09.29,0:01:10.75,Default,,0,0,0,,Çabuk ol.
+Dialogue: 15,0:01:10.75,0:01:12.17,Default,,0,0,0,,{\i1}Ha-Hareket edin.
+Dialogue: 15,0:01:23.85,0:01:25.06,Default,,0,0,0,,Cevap vermiyor.
+Dialogue: 15,0:02:59.82,0:03:01.08,Default,,0,0,0,,{\an8}Loca be!
+Dialogue: 15,0:03:02.07,0:03:03.74,Default,,0,0,0,,{\an8}Müthiş ya!
+Dialogue: 15,0:03:05.87,0:03:09.50,Default,,0,0,0,,Yanımda olmana ilk kez sevindim!
+Dialogue: 15,0:03:09.50,0:03:10.96,Default,,0,0,0,,Ayrılıyoruz ama.
+Dialogue: 15,0:03:10.96,0:03:12.29,Default,,0,0,0,,Tamam, tamam.
+Dialogue: 15,0:03:13.17,0:03:18.26,Default,,0,0,0,,Hadi beni geç de, senin sonuna dek\N Çisato'nun yanında olman gerekmez miydi?
+Dialogue: 15,0:03:18.51,0:03:20.97,Default,,0,0,0,,Birlikte yeterince kaldık.
+Dialogue: 15,0:03:21.09,0:03:23.23,Default,,0,0,0,,Asıl sen neden çekiniyorsun?
+Dialogue: 15,0:03:23.72,0:03:25.76,Default,,0,0,0,,LikoReko'ya da alışmıştın oysa.
+Dialogue: 15,0:03:29.27,0:03:30.31,Default,,0,0,0,,Evet.
+Dialogue: 15,0:03:31.73,0:03:33.44,Default,,0,0,0,,Eğlenceliydi.
+Dialogue: 15,0:03:37.90,0:03:39.78,Default,,0,0,0,,Bu son görüşmemiz mi olacak?
+Dialogue: 15,0:03:40.86,0:03:42.15,Default,,0,0,0,,Evet.
+Dialogue: 15,0:03:43.91,0:03:44.95,Default,,0,0,0,,Hoşça kal.
+Dialogue: 15,0:03:46.24,0:03:48.87,Default,,0,0,0,,Birinci sınıf bilet için teşekkürler!
+Dialogue: 15,0:03:49.04,0:03:50.52,Default,,0,0,0,,Seninki ekonomi.
+Dialogue: 15,0:03:50.54,0:03:52.83,Default,,0,0,0,,Seni ben!
+Dialogue: 15,0:03:57.34,0:03:58.63,Default,,0,0,0,,Kapalı mı?
+Dialogue: 15,0:04:03.30,0:04:04.47,Default,,0,0,0,,Neden?
+Dialogue: 15,0:04:14.69,0:04:15.31,Default,,0,0,0,,Dinliyorum?
+Dialogue: 15,0:04:15.48,0:04:18.69,Default,,0,0,0,,30 dakika içinde çıkıyoruz. Geri dön.
+Dialogue: 15,0:04:18.69,0:04:20.53,Default,,0,0,0,,{\i1}Çisato kafede değil.
+Dialogue: 15,0:04:20.73,0:04:22.64,Default,,0,0,0,,Telefonunu burada bırakmış.
+Dialogue: 15,0:04:22.99,0:04:24.24,Default,,0,0,0,,{\i1}Ne olmuş yani?
+Dialogue: 15,0:04:24.45,0:04:28.00,Default,,0,0,0,,Bir gariplik var. Majima'yla ilgisi olabilir.
+Dialogue: 15,0:04:28.20,0:04:29.34,Default,,0,0,0,,{\i1}Neden öyle düşünüyorsun?
+Dialogue: 15,0:04:30.08,0:04:34.04,Default,,0,0,0,,{\i1}Majima'nın geçen bahsettiği \Nşu "Yoşimatsu" kim oluyor?
+Dialogue: 15,0:04:34.04,0:04:35.67,Default,,0,0,0,,{\i1}Çisato'nun hayatını kurtaran kişi.
+Dialogue: 15,0:04:36.04,0:04:37.96,Default,,0,0,0,,Kalbi sağlayan kişi mi?
+Dialogue: 15,0:04:37.96,0:04:38.75,Default,,0,0,0,,{\i1}Evet.
+Dialogue: 15,0:04:39.09,0:04:42.92,Default,,0,0,0,,Majima, Çisato'nun \NYoşimatsu'yu aradığını biliyordu.
+Dialogue: 15,0:04:43.47,0:04:45.47,Default,,0,0,0,,{\i1}Majima Gökağacı'nda.
+Dialogue: 15,0:04:45.59,0:04:48.43,Default,,0,0,0,,Bilmek istediğin bir şey varsa doğrudan ona sor.
+Dialogue: 15,0:04:48.85,0:04:50.64,Default,,0,0,0,,Ölmeden önce tabii.
+Dialogue: 15,0:04:53.81,0:04:54.85,Default,,0,0,0,,Özür dilerim.
+Dialogue: 15,0:04:55.94,0:04:57.10,Default,,0,0,0,,Geri döneceğim.
+Dialogue: 15,0:04:58.81,0:05:01.44,Default,,0,0,0,,Çisato'nun kalbine en yakın olan hangisi?
+Dialogue: 15,0:05:04.03,0:05:05.78,Default,,0,0,0,,Yazarını yakından incele.
+Dialogue: 15,0:05:06.41,0:05:08.99,Default,,0,0,0,,Aynen, aynen. Zaten adı yazıyordur.
+Dialogue: 15,0:05:09.33,0:05:11.66,Default,,0,0,0,,Metadata yerine yüzünü tarat.
+Dialogue: 15,0:05:13.87,0:05:16.54,Default,,0,0,0,,Kalkış esnasında kullanmamanızı rica ediyoruz.
+Dialogue: 15,0:05:16.54,0:05:19.25,Default,,0,0,0,,Daha kalkışa var ama, di' mi?
+Dialogue: 15,0:05:23.17,0:05:24.26,Default,,0,0,0,,Bulduk mu?
+Dialogue: 15,0:05:25.42,0:05:26.63,Default,,0,0,0,,Konum lütfen.
+Dialogue: 15,0:05:33.68,0:05:35.23,Default,,0,0,0,,Hiçbir şey yok.
+Dialogue: 15,0:05:35.60,0:05:36.48,Default,,0,0,0,,On yıl geriye!
+Dialogue: 15,0:05:39.56,0:05:41.15,Default,,0,0,0,,Kasaba atölyesi mi?
+Dialogue: 15,0:05:41.86,0:05:43.19,Default,,0,0,0,,Bir şeyler var mı?
+Dialogue: 15,0:05:43.98,0:05:45.90,Default,,0,0,0,,Böyle Yoşimatsu'ya benzeyen biri falan...
+Dialogue: 15,0:05:49.32,0:05:51.70,Default,,0,0,0,,Güzel, titreşim analizi.
+Dialogue: 15,0:05:51.70,0:05:52.95,Default,,0,0,0,,Sesi aç.
+Dialogue: 15,0:06:00.04,0:06:04.00,Default,,0,0,0,,{\i1}Doğrudan görüşmemiz\N yasak değil mi, Doktor Yoşimatsu?
+Dialogue: 15,0:06:04.34,0:06:07.34,Default,,0,0,0,,{\i1}Çok uygun bir denek buldum.
+Dialogue: 15,0:06:07.47,0:06:09.76,Default,,0,0,0,,Bingo! Bunu alalım ve...
+Dialogue: 15,0:06:09.76,0:06:12.26,Default,,0,0,0,,...üzerine on yıl ekleyip...
+Dialogue: 15,0:06:18.39,0:06:19.44,Default,,0,0,0,,Geçen sene mi?
+Dialogue: 15,0:06:19.56,0:06:22.02,Default,,0,0,0,,{\i1}Hepsi Alan'ın desteği sayesinde.
+Dialogue: 15,0:06:22.02,0:06:24.73,Default,,0,0,0,,{\i1}Tek yaptığımız ufak bir yardımdı.
+Dialogue: 15,0:06:24.90,0:06:29.70,Default,,0,0,0,,{\i1}Yeteneklerinizin meyvesini küçücük bir kızdan \Nalabilirseniz, oldukça ucuza patlamış olacak.
+Dialogue: 15,0:06:30.07,0:06:33.49,Default,,0,0,0,,{\i1}Bunu o kıza verin. Hayatını kurtarın.
+Dialogue: 15,0:06:33.49,0:06:37.20,Default,,0,0,0,,{\i1}Endişelenmeniz gereken, bundan\N sonra kapınıza gelecek tonla hastanız.
+Dialogue: 15,0:06:37.87,0:06:40.46,Default,,0,0,0,,{\i1}Test konusunu bana bırakın lütfen.
+Dialogue: 15,0:06:40.71,0:06:44.17,Default,,0,0,0,,{\i1}Tıpkı sizin gibi, o da \NAlan'ın Çocuklarından biri.
+Dialogue: 15,0:06:44.59,0:06:46.05,Default,,0,0,0,,Buldum!
+Dialogue: 15,0:06:51.72,0:06:53.35,Default,,0,0,0,,Bu mu?
+Dialogue: 15,0:06:57.56,0:06:58.56,Default,,0,0,0,,Affedersiniz!
+Dialogue: 15,0:07:00.90,0:07:02.06,Default,,0,0,0,,Hanımefendi.
+Dialogue: 15,0:07:03.61,0:07:07.15,Default,,0,0,0,,Terk ettiğiniz kızınız aşağıda sizi bekliyor.
+Dialogue: 15,0:07:07.40,0:07:08.90,Default,,0,0,0,,Kızım mı?
+Dialogue: 15,0:07:09.45,0:07:13.32,Default,,0,0,0,,{\an8}Acele et, Mizuki! Buraya gel!
+Dialogue: 15,0:07:11.45,0:07:13.32,Default,,0,0,0,,Kendisini tanımıyorum.
+Dialogue: 15,0:07:13.95,0:07:16.87,Default,,0,0,0,,Vancouver'daki müstakbel eşimi aramam lazım!
+Dialogue: 15,0:07:18.04,0:07:19.91,Default,,0,0,0,,Daha çıkmaya bile başlamadınız!
+Dialogue: 15,0:07:26.96,0:07:28.21,Default,,0,0,0,,{\i1}Çisato'nun kalbinden...
+Dialogue: 15,0:07:28.38,0:07:29.59,Default,,0,0,0,,{\i1}...bir tane daha var!
+Dialogue: 15,0:07:30.34,0:07:31.05,Default,,0,0,0,,Nerede?
+Dialogue: 15,0:07:31.55,0:07:34.14,Default,,0,0,0,,{\an8}Gavur ölüsü gibi be!
+Dialogue: 15,0:07:31.55,0:07:34.14,Default,,0,0,0,,Muhtemelen Yoşimatsu'dadır.
+Dialogue: 15,0:07:34.85,0:07:38.85,Default,,0,0,0,,Alan'ın desteklediği araştırmacılardan \Nbiri kalbin gelişmiş bir versiyonunu yaptı.
+Dialogue: 15,0:07:39.10,0:07:41.31,Default,,0,0,0,,{\i1}Ve şu an Yoşimatsu'nun elinde.
+Dialogue: 15,0:07:41.89,0:07:43.77,Default,,0,0,0,,Oradan değil! Buradan, Mizuki!
+Dialogue: 15,0:07:43.77,0:07:45.82,Default,,0,0,0,,Bana emir verme, velet!
+Dialogue: 15,0:07:46.19,0:07:48.03,Default,,0,0,0,,{\i1}Yoşimatsu şu an nerede?
+Dialogue: 15,0:07:48.03,0:07:49.36,Default,,0,0,0,,Bilmiyorum.
+Dialogue: 15,0:07:49.65,0:07:52.28,Default,,0,0,0,,Son birkaç günlük verisine ulaşamıyorum.
+Dialogue: 15,0:07:52.36,0:07:54.74,Default,,0,0,0,,Elveda sevgilim! {cengiz kurtoğlu stayla}
+Dialogue: 15,0:07:55.28,0:07:56.74,Default,,0,0,0,,{\i1}Tekrar arayacağım.
+Dialogue: 15,0:07:56.87,0:07:59.62,Default,,0,0,0,,Bekle, Kurumi! LikoReko'ya gittim.
+Dialogue: 15,0:07:59.79,0:08:02.04,Default,,0,0,0,,Evet. Kapalıydı, değil mi?
+Dialogue: 15,0:08:02.04,0:08:04.83,Default,,0,0,0,,Kusura bakma. \NÇisato'nun isteği buydu.
+Dialogue: 15,0:08:05.25,0:08:09.05,Default,,0,0,0,,Telefonunu orada bırakmış. \NNe Çisato ne de müdür orada değildi.
+Dialogue: 15,0:08:11.22,0:08:12.76,Default,,0,0,0,,Bir şey mi oldu acaba...
+Dialogue: 15,0:08:12.76,0:08:14.93,Default,,0,0,0,,{\i1}Bunu analiz edebilir misin?
+Dialogue: 15,0:08:14.93,0:08:17.68,Default,,0,0,0,,Anlaşıldı. Biraz bekle ama.
+Dialogue: 15,0:08:25.06,0:08:26.48,Default,,0,0,0,,Geldiler.
+Dialogue: 15,0:08:26.73,0:08:27.98,Default,,0,0,0,,Hazır mısın...
+Dialogue: 15,0:08:28.32,0:08:29.53,Default,,0,0,0,,{\i1}...hacker?
+Dialogue: 15,0:08:29.53,0:08:31.11,Default,,0,0,0,,Oldukça!
+Dialogue: 15,0:08:34.32,0:08:36.41,Default,,0,0,0,,Bunu yapabiliriz...
+Dialogue: 15,0:08:37.41,0:08:38.33,Default,,0,0,0,,Şimdi...
+Dialogue: 15,0:08:38.87,0:08:40.66,Default,,0,0,0,,İkinci perde başlasın.
+Dialogue: 15,0:08:49.17,0:08:51.55,Default,,0,0,0,,{\an8}Başka seçeneğimiz yok mu ya?!
+Dialogue: 15,0:08:51.55,0:08:52.67,Default,,0,0,0,,{\an8}Gidelim!
+Dialogue: 15,0:08:54.88,0:08:56.41,Default,,0,0,0,,Takımların seçkin ekipleri:
+Dialogue: 15,0:08:56.41,0:09:00.22,Default,,0,0,0,,İkinci gözlemevine ulaşabilmek için \Ndördüncü acil durum merdivenini kullanın.
+Dialogue: 15,0:09:00.22,0:09:05.06,Default,,0,0,0,,Majima tarafından ele geçirilen\Nana asansörlerin kontrolünü geri alın.
+Dialogue: 15,0:09:05.85,0:09:09.02,Default,,0,0,0,,İlk gözlemevindeki ekip sırayla çıksın.
+Dialogue: 15,0:09:09.36,0:09:11.48,Default,,0,0,0,,Bir araya gelip hepsini katledin.
+Dialogue: 15,0:09:11.69,0:09:14.57,Default,,0,0,0,,Merhamet etmeye gerek yok. Hepsini öldürün.
+Dialogue: 15,0:09:16.49,0:09:18.41,Default,,0,0,0,,Düşmanı göremiyorum.
+Dialogue: 15,0:09:23.37,0:09:25.71,Default,,0,0,0,,{\i1}Takina, Çisato'nun telefonuna bak!
+Dialogue: 15,0:09:28.13,0:09:31.88,Default,,0,0,0,,{\i1}En son bu fotoğraf gönderilmiş.\NBir de Yoşimatsu'dan gelen arama vardı!
+Dialogue: 15,0:09:32.17,0:09:34.55,Default,,0,0,0,,{\i1}Mika'nın arabası şu an Oşiage'de.
+Dialogue: 15,0:09:34.55,0:09:37.34,Default,,0,0,0,,{\i1}Muhtemelen birlikte radyo kulesine gidiyorlar.
+Dialogue: 15,0:09:38.22,0:09:42.06,Default,,0,0,0,,{\i1}Yani Çisato kalbe doğru ilerliyor!
+Dialogue: 15,0:09:42.52,0:09:45.10,Default,,0,0,0,,{\i1}Takina, her şey yoluna girecek!
+Dialogue: 15,0:09:46.64,0:09:48.00,Default,,0,0,0,,Öyle mi dersin?
+Dialogue: 15,0:09:49.69,0:09:51.39,Default,,0,0,0,,İçimde kötü bir his var.
+Dialogue: 15,0:09:52.05,0:09:53.57,Default,,0,0,0,,Tuzak olabilir.
+Dialogue: 15,0:09:53.69,0:09:55.49,Default,,0,0,0,,{\i1}Çisato'ya koymaz ya!
+Dialogue: 15,0:09:59.70,0:10:01.33,Default,,0,0,0,,Bu işte bir iş var.
+Dialogue: 15,0:10:01.33,0:10:03.37,Default,,0,0,0,,Oyalanma da gel şuraya!
+Dialogue: 15,0:10:03.54,0:10:05.04,Default,,0,0,0,,{\i1}Hey, Takina?
+Dialogue: 15,0:10:05.41,0:10:07.04,Default,,0,0,0,,Diğerlerinin gerisine düşeceğiz!
+Dialogue: 15,0:10:09.08,0:10:11.25,Default,,0,0,0,,Üzgünüm ama gitmeliyim.
+Dialogue: 15,0:10:11.50,0:10:13.00,Default,,0,0,0,,Yine mi ya?
+Dialogue: 15,0:10:13.00,0:10:14.51,Default,,0,0,0,,Takina, neler oluyor?
+Dialogue: 15,0:10:15.34,0:10:17.01,Default,,0,0,0,,Çisato'nun yanına gidiyorum.
+Dialogue: 15,0:10:17.01,0:10:19.76,Default,,0,0,0,,Aptallığı sana da mı bulaştı?\N Görevin ortasındayız!
+Dialogue: 15,0:10:19.93,0:10:21.22,Default,,0,0,0,,Üzgünüm.
+Dialogue: 15,0:10:21.85,0:10:23.76,Default,,0,0,0,,Fuki, lütfen gitmesine izin ver.
+Dialogue: 15,0:10:23.76,0:10:25.81,Default,,0,0,0,,Takina'nın yerini dolduracağım!
+Dialogue: 15,0:10:27.14,0:10:28.52,Default,,0,0,0,,Mümkün değil!
+Dialogue: 15,0:10:28.52,0:10:33.15,Default,,0,0,0,,Hem bunun kovulmasının sebebi \Nsenin beceriksizliğin değil miydi?!
+Dialogue: 15,0:10:34.48,0:10:37.40,Default,,0,0,0,,Evet. Hepsi benim suçumdu!
+Dialogue: 15,0:10:37.74,0:10:38.61,Default,,0,0,0,,Yavaş ol be!
+Dialogue: 15,0:10:40.70,0:10:44.03,Default,,0,0,0,,O zaman olanlar için \Ngerçekten çok üzgünüm.
+Dialogue: 15,0:10:45.12,0:10:46.12,Default,,0,0,0,,Erika!
+Dialogue: 15,0:10:47.29,0:10:50.62,Default,,0,0,0,,N-Ne? Sadece gerçeği söylüyordum.
+Dialogue: 15,0:10:51.33,0:10:54.84,Default,,0,0,0,,Bu görevden ayrılırsan \NAA'ya bir daha dönemezsin.
+Dialogue: 15,0:10:56.09,0:10:57.38,Default,,0,0,0,,Farkındayım.
+Dialogue: 15,0:10:57.55,0:10:59.63,Default,,0,0,0,,Bu son şansın, ona göre.
+Dialogue: 15,0:11:03.39,0:11:05.47,Default,,0,0,0,,Çisato'yu burada kurtaramam.
+Dialogue: 15,0:11:05.76,0:11:07.14,Default,,0,0,0,,Hepsi bu kadar.
+Dialogue: 15,0:11:11.23,0:11:12.35,Default,,0,0,0,,Git.
+Dialogue: 15,0:11:16.03,0:11:17.07,Default,,0,0,0,,Gidelim.
+Dialogue: 15,0:11:17.07,0:11:19.99,Default,,0,0,0,,Merkeze ne diyeceksin?
+Dialogue: 15,0:11:20.32,0:11:22.03,Default,,0,0,0,,Tüm fikirlere açığım.
+Dialogue: 15,0:11:48.52,0:11:50.68,Default,,0,0,0,,Güzel, asansör geliyor.
+Dialogue: 15,0:11:51.10,0:11:55.15,Default,,0,0,0,,Sırf onun yüzünden \Ntüm övgüyü diğer takımlar aldı!
+Dialogue: 15,0:11:55.31,0:11:57.07,Default,,0,0,0,,Yarışmıyoruz.
+Dialogue: 15,0:11:57.19,0:11:58.94,Default,,0,0,0,,Gayet yarışıyoruz.
+Dialogue: 15,0:12:10.04,0:12:12.37,Default,,0,0,0,,Iyy, ne acayip bir sahne.
+Dialogue: 15,0:12:12.37,0:12:14.25,Default,,0,0,0,,Asansörü çalıştırın.
+Dialogue: 15,0:12:14.75,0:12:16.75,Default,,0,0,0,,Alfa Takımı geldi.
+Dialogue: 15,0:12:19.17,0:12:20.97,Default,,0,0,0,,Yapıverseler n'olacak sanki?
+Dialogue: 15,0:12:21.84,0:12:24.18,Default,,0,0,0,,Yarışıyoruz demiştim ben işte.
+Dialogue: 15,0:12:25.26,0:12:26.51,Default,,0,0,0,,Şimdi...
+Dialogue: 15,0:12:26.51,0:12:28.18,Default,,0,0,0,,...gel de az oynayalım...
+Dialogue: 15,0:12:28.18,0:12:30.39,Default,,0,0,0,,...Radyata!
+Dialogue: 15,0:12:33.02,0:12:35.98,Default,,0,0,0,,{\i1}Selam, yine ben.
+Dialogue: 15,0:12:37.57,0:12:39.40,Default,,0,0,0,,Ne? Yine mi?
+Dialogue: 15,0:12:39.73,0:12:41.65,Default,,0,0,0,,Nasıl olabiliyor bu?
+Dialogue: 15,0:12:41.65,0:12:43.40,Default,,0,0,0,,Radyata yanıt vermiyor!
+Dialogue: 15,0:12:43.65,0:12:44.41,Default,,0,0,0,,Ne?
+Dialogue: 15,0:12:44.41,0:12:47.37,Default,,0,0,0,,Harici... Hayır, o da imkansız.
+Dialogue: 15,0:12:47.87,0:12:52.08,Default,,0,0,0,,Çok sayıda saldırı var! Kapasitenin \Ntamamı savunmaya gidiyor!
+Dialogue: 15,0:12:53.25,0:12:56.25,Default,,0,0,0,,Savunma gücünüz dezavantajınız oldu!
+Dialogue: 15,0:12:56.42,0:12:59.75,Default,,0,0,0,,Gücümü görün bakalım!
+Dialogue: 15,0:13:00.63,0:13:04.01,Default,,0,0,0,,Tokyo'daki yüz arkadaşımız ilk silahlarının...
+Dialogue: 15,0:13:04.78,0:13:07.72,Default,,0,0,0,,İlk özgürlüklerinin tadını çıkarabildi mi?
+Dialogue: 15,0:13:07.97,0:13:12.60,Default,,0,0,0,,{\i1}Yoksa siz eğlenmeye başlamadan\N bu gibi tipler yolunuza mı çıktı?
+Dialogue: 15,0:13:15.27,0:13:18.94,Default,,0,0,0,,{\i1}Bu üniformayı giyen \Nveletlere dikkat etmelisiniz.
+Dialogue: 15,0:13:19.86,0:13:21.44,Default,,0,0,0,,Hey, şu değil mi...
+Dialogue: 15,0:13:22.53,0:13:27.53,Default,,0,0,0,,{\i1}İşte o kızlar hükumetin\N gizlice kullandığı ajanlar, Likorisler.
+Dialogue: 15,0:13:28.03,0:13:31.99,Default,,0,0,0,,{\i1}Japonya'nın huzurunu koruyabilmek\N adına her şeyi yapabilecek tipler.
+Dialogue: 15,0:13:40.29,0:13:41.96,Default,,0,0,0,,Hem de her şeyi!
+Dialogue: 15,0:14:00.56,0:14:04.11,Default,,0,0,0,,{\i1}Yalnızca bunları görüp inanacak değilsiniz, di' mi?
+Dialogue: 15,0:14:04.11,0:14:06.57,Default,,0,0,0,,{\i1}Montaj falan olabilirler sonuçta.
+Dialogue: 15,0:14:07.03,0:14:10.20,Default,,0,0,0,,{\i1}Ama aranızda onları iş üstünde görenler olmadı mı?
+Dialogue: 15,0:14:10.41,0:14:13.54,Default,,0,0,0,,{\i1}Gerçek bir Likoris'e gözlerinizle şahit olduğunuz?..
+Dialogue: 15,0:14:14.04,0:14:15.96,Default,,0,0,0,,Ateşkese uyulduğundan emin olun!
+Dialogue: 15,0:14:16.21,0:14:17.04,Default,,0,0,0,,Radyata'nın durumu?
+Dialogue: 15,0:14:17.50,0:14:21.17,Default,,0,0,0,,Yeniden başlatmak zaman alacak. \NDevam etmeli miyiz?
+Dialogue: 15,0:14:23.42,0:14:27.01,Default,,0,0,0,,{\i1}Bu ülkede her yıl üç bin kişi ortadan kayboluyor.
+Dialogue: 15,0:14:27.01,0:14:28.72,Default,,0,0,0,,{\i1}Üç bin diyorum bakın.
+Dialogue: 15,0:14:28.72,0:14:32.26,Default,,0,0,0,,{\i1}Acaba aralarından kaç tanesi \NLikorisler tarafından öldürülüyordur?
+Dialogue: 15,0:14:32.56,0:14:35.22,Default,,0,0,0,,{\i1}Likorisler'i iş üstünde görenler de aynı şekilde...
+Dialogue: 15,0:14:37.27,0:14:42.40,Default,,0,0,0,,{\i1}Sırf mutlusunuz diye böylesine yapay ve \Ndengesiz bir dünyada yaşamak içinize sinecek mi?
+Dialogue: 15,0:14:44.11,0:14:49.24,Default,,0,0,0,,{\i1}Biz yalnızca dünyayı kendini Tanrı \Nzannedenlerden kurtarmaya çalışıyoruz.
+Dialogue: 15,0:14:49.95,0:14:52.62,Default,,0,0,0,,{\i1}Eminim bu yayını da\N hiç olmamış gibi göstereceklerdir.
+Dialogue: 15,0:14:52.91,0:14:56.58,Default,,0,0,0,,{\i1}Ama kendi gözlerinizle gördüklerinizi unutmayın.
+Dialogue: 15,0:14:57.29,0:15:01.08,Default,,0,0,0,,{\i1}Bu nutuk sizler için hakikat,\Nonlar içinse sonun başlangıcıdır.
+Dialogue: 15,0:15:02.54,0:15:04.55,Default,,0,0,0,,Merkez, emirleriniz nedir?
+Dialogue: 15,0:15:07.30,0:15:09.26,Default,,0,0,0,,Önüne bak be.
+Dialogue: 15,0:15:09.68,0:15:11.22,Default,,0,0,0,,Hey, hey, hey, hey, hey!
+Dialogue: 15,0:15:11.43,0:15:12.22,Default,,0,0,0,,Savunun!
+Dialogue: 15,0:15:22.98,0:15:25.57,Default,,0,0,0,,Gökağacı'ndaki Likorisler'le iletişimi kaybettik!
+Dialogue: 15,0:15:26.15,0:15:27.90,Default,,0,0,0,,Kahretsin!
+Dialogue: 15,0:15:29.40,0:15:31.49,Default,,0,0,0,,Peki. Gidiyorum o zaman.
+Dialogue: 15,0:15:31.82,0:15:34.28,Default,,0,0,0,,Sahiden tek başına mı gideceksin?
+Dialogue: 15,0:15:34.28,0:15:35.37,Default,,0,0,0,,Merak etmeyin.
+Dialogue: 15,0:15:35.83,0:15:37.83,Default,,0,0,0,,Kafeye dönüp çay için siz.
+Dialogue: 15,0:15:37.83,0:15:40.75,Default,,0,0,0,,Peki. Şinji'ye selamlarımı ilet.
+Dialogue: 15,0:15:40.75,0:15:41.58,Default,,0,0,0,,Tabii.
+Dialogue: 15,0:15:45.88,0:15:47.25,Default,,0,0,0,,Gittim madem.
+Dialogue: 15,0:15:47.88,0:15:48.96,Default,,0,0,0,,Tamam.
+Dialogue: 15,0:15:48.96,0:15:50.17,Default,,0,0,0,,Dikkatli ol.
+Dialogue: 15,0:15:51.63,0:15:54.22,Default,,0,0,0,,Sokayım sana! Çok pahalıydı o!
+Dialogue: 15,0:15:54.72,0:15:56.51,Default,,0,0,0,,{\i1}İçeride bile.
+Dialogue: 15,0:15:56.60,0:15:59.00,Default,,0,0,0,,Güzel. Üçüncü perde.
+Dialogue: 15,0:16:03.02,0:16:05.69,Default,,0,0,0,,Pekala millet, kaçın bakalım.
+Dialogue: 15,0:16:27.46,0:16:28.59,Default,,0,0,0,,Hoş geldiniz!
+Dialogue: 15,0:16:30.88,0:16:32.93,Default,,0,0,0,,Yavaş be yavaş!
+Dialogue: 15,0:16:36.72,0:16:41.10,Default,,0,0,0,,Merdivenlerden düşerseniz \Nölebilirsiniz! Dikkat etsenize!
+Dialogue: 15,0:16:44.98,0:16:47.02,Default,,0,0,0,,Buradan gidersek...
+Dialogue: 15,0:16:52.74,0:16:54.57,Default,,0,0,0,,Yakındı!
+Dialogue: 15,0:17:02.50,0:17:03.54,Default,,0,0,0,,Hadi bakalım.
+Dialogue: 15,0:17:13.17,0:17:14.09,Default,,0,0,0,,Eyvah!
+Dialogue: 15,0:17:15.80,0:17:17.26,Default,,0,0,0,,Üzgünüm.
+Dialogue: 15,0:17:20.93,0:17:22.43,Default,,0,0,0,,D-D-Dur!
+Dialogue: 15,0:17:30.77,0:17:32.69,Default,,0,0,0,,Çok yakındı bak!
+Dialogue: 15,0:17:36.20,0:17:38.70,Default,,0,0,0,,Güzel! Aferin! Az daha dayan!
+Dialogue: 15,0:17:44.75,0:17:46.58,Default,,0,0,0,,İyi dayandın ha.
+Dialogue: 15,0:17:55.63,0:17:57.43,Default,,0,0,0,,Yine mi burası ya?
+Dialogue: 15,0:18:05.35,0:18:07.06,Default,,0,0,0,,Yoşi bey!
+Dialogue: 15,0:18:07.94,0:18:10.19,Default,,0,0,0,,Benim, Çisato!
+Dialogue: 15,0:18:29.42,0:18:30.54,Default,,0,0,0,,Çisato!
+Dialogue: 15,0:18:40.97,0:18:41.93,Default,,0,0,0,,Yoşi bey.
+Dialogue: 15,0:18:49.40,0:18:51.90,Default,,0,0,0,,Selam, kahraman.
+Dialogue: 15,0:18:52.27,0:18:53.77,Default,,0,0,0,,Majima!
+Dialogue: 15,0:18:58.20,0:18:58.99,Default,,0,0,0,,Yoşi bey!
+Dialogue: 15,0:19:02.45,0:19:05.70,Default,,0,0,0,,Kaçarsan kıymetli Yoşi beyini vurabilirim!
+Dialogue: 15,0:19:19.43,0:19:20.84,Default,,0,0,0,,Sen neden...
+Dialogue: 15,0:19:20.97,0:19:23.00,Default,,0,0,0,,Neden buradayım, di' mi?
+Dialogue: 15,0:19:33.48,0:19:36.73,Default,,0,0,0,,{\an8\i1}Görüntüler Gökağacı'ndan canlı!
+Dialogue: 15,0:19:36.73,0:19:39.70,Default,,0,0,0,,{\an8\i1}Silahlı kızlar tekrar tekrar ateş ediyor!
+Dialogue: 15,0:19:42.24,0:19:43.66,Default,,0,0,0,,Fuki...
+Dialogue: 15,0:19:44.20,0:19:47.87,Default,,0,0,0,,Oradaki Likorisler şu an\N tüm ulusa kendilerini ifşalıyorlar.
+Dialogue: 15,0:19:45.12,0:19:49.58,Default,,0,0,0,,{\an8\i1}Sanki bir film sahnesi gibi!
+Dialogue: 15,0:19:48.75,0:19:51.00,Default,,0,0,0,,Artık hepinizin sonu geldi.
+Dialogue: 15,0:20:08.22,0:20:09.81,Default,,0,0,0,,Görebiliyor musun?
+Dialogue: 15,0:20:10.35,0:20:12.10,Default,,0,0,0,,Duyabiliyorum.
+Dialogue: 15,0:20:37.21,0:20:41.84,Default,,0,0,0,,Mermi yönünü ve atış zamanlamasını rakibin\Nhareketlerini okuyarak değerlendirebilmek...
+Dialogue: 15,0:20:42.26,0:20:44.18,Default,,0,0,0,,Harika bir yetenek.
+Dialogue: 15,0:20:44.18,0:20:46.30,Default,,0,0,0,,Alan'ın ilgi duymasına şaşmamalı.
+Dialogue: 15,0:20:48.56,0:20:49.77,Default,,0,0,0,,Ses mi?
+Dialogue: 15,0:20:49.77,0:20:51.14,Default,,0,0,0,,Aynen öyle.
+Dialogue: 15,0:20:52.18,0:20:53.14,Default,,0,0,0,,Yine de...
+Dialogue: 15,0:20:53.14,0:20:54.98,Default,,0,0,0,,...görüş her şeydir!
+Dialogue: 15,0:21:02.78,0:21:05.49,Default,,0,0,0,,Emin misin? Gerçek mermi bak o.
+Dialogue: 15,0:21:11.04,0:21:14.29,Default,,0,0,0,,Yoşi bey anlattı.
+Dialogue: 15,0:21:14.29,0:21:18.09,Default,,0,0,0,,Aptalca kısıtlamalarla\N yeteneğini köreltiyormuşsun.
+Dialogue: 15,0:21:18.09,0:21:21.13,Default,,0,0,0,,Ama bu yanını seviyorum ben.
+Dialogue: 15,0:21:21.26,0:21:24.09,Default,,0,0,0,,Başkalarının hayatıma \Nkarışmasından ben de nefret ederim.
+Dialogue: 15,0:21:24.09,0:21:25.75,Default,,0,0,0,,Kendinle beni bir tutma!
+Dialogue: 15,0:21:28.51,0:21:31.31,Default,,0,0,0,,Birlikte Alan'ı alt etmeye ne dersin?
+Dialogue: 15,0:21:31.31,0:21:34.81,Default,,0,0,0,,Onca işkenceye rağmen Yoşi beyin\N ağzından tek kelime alamadım.
+Dialogue: 15,0:21:35.39,0:21:37.69,Default,,0,0,0,,Seninle anlaşabileceğimizi düşünüyorum.
+Dialogue: 15,0:22:22.69,0:22:24.90,Default,,0,0,0,,Seninle ilgilenmiyorum dedim ya.
+Comment: 0,0:01:28.99,0:02:58.95,OP-TR,,0,0,0,,{op}
+Dialogue: 0,0:01:31.20,0:01:34.66,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k37}ne{\k37}gat{\k25}ta {\k42}yu{\k32}kan {\k33}na {\k55}sen{\k28}tak {\k57}no
+Dialogue: 0,0:01:34.78,0:01:40.41,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k21}mi{\k31}ra{\k19}i {\k31}vo {\k32}i{\k53}ma {\k32}te{\k26}ra{\k41}şi{\k116}te{\k161}ku
+Dialogue: 0,0:01:48.30,0:01:51.42,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k20}ri{\k16}ko{\k16}te{\k20}ki {\k32}na {\k35}kan{\k54}jo {\k15}bu{\k19}tsu{\k16}ke{\k34}a{\k34}ça
+Dialogue: 0,0:01:51.42,0:01:51.97,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}ma{\k19}da
+Dialogue: 0,0:01:52.22,0:01:53.51,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}mi{\k16}e{\k19}na{\k16}i {\k54}ne
+Dialogue: 0,0:01:53.84,0:01:56.72,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k18}ni{\k16}ge{\k15}te {\k20}ki{\k33}ta {\k36}bun {\k51}no {\k10}ki{\k6}o{\k19}ri {\k18}vo {\k17}u{\k17}me{\k13}ru
+Dialogue: 0,0:01:56.89,0:01:57.43,OP-ROM9,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k40}ho{\k13}ra
+Dialogue: 0,0:01:57.56,0:01:59.18,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k25}ta{\k16}bi {\k52}ni {\k16}de{\k52}yo
+Dialogue: 0,0:01:59.56,0:02:04.73,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k47}sa{\k33}i{\k35}ha{\k32}te {\k37}na{\k34}n{\k68}te {\k32}mi{\k35}ra{\k33}re{\k33}na{\k36}ku{\k38}te{\k22}mo
+Dialogue: 0,0:02:05.15,0:02:11.49,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k20}i{\k13}no{\k17}çi {\k18}vo {\k13}mo{\k18}ya{\k20}şi{\k34}te {\k17}i{\k17}ma {\k16}vo {\k11}i{\k23}ki{\k46}te {\k20}i{\k66}ku {\k36}da{\k17}ke {\k34}da{\k31}ka{\k147}ra
+Dialogue: 0,0:02:11.86,0:02:15.16,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}ne{\k34}gat{\k26}ta {\k39}son{\k18}za{\k18}i {\k32}no {\k14}şo{\k26}u{\k26}me{\k16}i {\k45}vo
+Dialogue: 0,0:02:15.49,0:02:18.70,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k37}ko{\k21}e {\k31}vo {\k15}fu{\k17}ru{\k28}va{\k19}se {\k20}tsu{\k35}zu{\k33}ke{\k64}te
+Dialogue: 0,0:02:19.16,0:02:23.04,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}fu{\k36}ri{\k34}ke{\k30}za{\k38}şi{\k46}te {\k36}ki{\k16}ta {\k20}ka{\k95}ra
+Dialogue: 0,0:02:23.50,0:02:25.79,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}ko{\k17}u{\k20}ka{\k13}i {\k34}va {\k17}i{\k34}ra{\k23}na{\k50}i
+Dialogue: 0,0:02:26.17,0:02:28.71,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,0)\k37}te {\k16}vo {\k34}to{\k32}ri{\k53}at{\k81}te
+Dialogue: 0,0:02:28.71,0:02:29.75,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(0,50)}te vo toriatte
+Dialogue: 0,0:02:27.50,0:02:29.75,OP-ROM9,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k38}ku{\k16}ra{\k33}i {\k18}ka{\k16}ko {\k52}dat{\k52}te
+Dialogue: 0,0:02:29.84,0:02:33.72,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k35}u{\k36}ke{\k36}to{\k31}me{\k31}te {\k47}su{\k42}su{\k13}nde {\k22}yu{\k95}ku
+Dialogue: 0,0:02:34.09,0:02:38.85,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k39}şi{\k16}me{\k37}sa{\k42}re{\k46}ta {\k35}ko{\k35}ta{\k32}e {\k32}e{\k17}ra{\k36}bu {\k31}yo{\k77}ri
+Dialogue: 0,0:02:39.18,0:02:42.93,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k19}a{\k17}ta{\k25}ra{\k25}şi{\k49}i {\k36}yu{\k14}me {\k21}vo {\k14}me{\k18}za{\k16}s {\k30}ka{\k90}ra
+Dialogue: 0,0:02:43.14,0:02:44.35,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k107}zut{\k14}to
+Dialogue: 0,0:02:44.52,0:02:50.07,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k21}ma{\k8}bu{\k40}şi {\k15}mi{\k51}çi {\k16}vo {\k19}a{\k32}ru{\k20}i{\k31}te {\k34}yu{\k268}ko
+Dialogue: 0,0:01:31.20,0:01:34.66,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k33}Ce{\k49}sur{\k50}ca {\k33}se{\k66}çim{\k33}le{\k33}ri{\k49}miz
+Dialogue: 0,0:01:34.78,0:01:40.41,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k45}Ge{\k45}le{\k45}ce{\k90}ğe {\k45}ı{\k135}şık {\k45}tu{\k45}ta{\k68}cak
+Dialogue: 0,0:01:48.30,0:01:51.42,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k24}Ben{\k33}cil {\k25}duy{\k16}gu{\k16}la{\k25}rı{\k41}mız {\k24}ça{\k25}tı{\k24}şa{\k33}cak {\k25}mı
+Dialogue: 0,0:01:51.42,0:01:51.97,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k18}He{\k37}nüz
+Dialogue: 0,0:01:52.22,0:01:53.51,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k23}Bi{\k23}le{\k23}mi{\k23}yo{\k35}rum
+Dialogue: 0,0:01:53.84,0:01:56.72,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k9}U{\k27}zak{\k36}laş{\k18}ma{\k45}nın {\k36}bir {\k18}be{\k18}de{\k28}li {\k9}o{\k18}la{\k27}cak
+Dialogue: 0,0:01:56.89,0:01:57.43,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k26}Hadi
+Dialogue: 0,0:01:57.56,0:01:59.18,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k43}Çı{\k21}ka{\k54}lım {\k21}yo{\k22}la
+Dialogue: 0,0:01:59.56,0:02:04.73,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k56}Çık{\k33}tı{\k45}ğı{\k56}mız {\k34}bu {\k22}yo{\k45}lun {\k22}so{\k22}nu{\k34}nu {\k34}gö{\k22}re{\k23}me{\k45}sek {\k22}de
+Dialogue: 0,0:02:05.15,0:02:11.49,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k24}Ru{\k24}hu{\k48}muz {\k24}ya{\k24}na{\k36}dur{\k59}sun, {\k12}a{\k48}nı {\k24}ya{\k36}şa{\k24}ya{\k36}bil{\k47}mek {\k24}ye{\k48}ter {\k24}he{\k24}pi{\k24}mi{\k24}ze
+Dialogue: 0,0:02:11.86,0:02:15.16,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}Di{\k22}le{\k33}ği{\k44}miz {\k33}var{\k11}o{\k22}lu{\k55}şun {\k22}ka{\k33}nı{\k33}tı
+Dialogue: 0,0:02:15.49,0:02:18.70,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k38}Sen{\k26}de{\k26}le{\k51}sek {\k38}de {\k13}i{\k38}ler{\k26}li{\k26}yo{\k38}ruz
+Dialogue: 0,0:02:19.16,0:02:23.04,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k43}Ken{\k29}di{\k43}miz{\k57}den {\k14}e{\k43}min{\k29}mi{\k72}şiz {\k28}gi{\k29}bi
+Dialogue: 0,0:02:23.50,0:02:25.79,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k51}Piş{\k51}man {\k26}ol{\k25}ma{\k26}ya{\k51}lım
+Dialogue: 0,0:02:26.17,0:02:28.71,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,0)\k28}Tu{\k28}tu{\k42}şa{\k71}lım {\k42}el {\k14}e{\k28}le
+Dialogue: 0,0:02:28.71,0:02:29.75,OP-TR,Romaji,0,0,0,,{\shad0.5\blur6\fad(0,50)}Tutuşalım el ele
+Dialogue: 0,0:02:27.50,0:02:29.75,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k41}Geç{\k20}mi{\k31}şi{\k41}miz {\k20}ka{\k31}ra {\k20}ol{\k21}sa
+Dialogue: 0,0:02:29.84,0:02:33.72,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k31}Bi{\k47}le {\k31}bu{\k46}nu {\k31}ka{\k47}bul{\k46}len{\k31}me{\k31}li{\k47}yiz
+Dialogue: 0,0:02:34.09,0:02:38.85,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k25}Be{\k37}lir{\k25}le{\k50}nen {\k38}yol{\k50}dan {\k12}i{\k37}ler{\k25}le{\k25}me{\k38}yi {\k38}bı{\k25}ra{\k50}kıp
+Dialogue: 0,0:02:39.18,0:02:42.93,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k55}Koş{\k28}ma{\k42}lı{\k69}yız {\k28}ha{\k41}yal{\k28}le{\k28}ri{\k27}mi{\k28}ze
+Dialogue: 0,0:02:43.14,0:02:44.35,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k54}Her {\k27}za{\k40}man
+Dialogue: 0,0:02:44.52,0:02:50.07,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k52}Yü{\k52}rü{\k35}me{\k35}li{\k69}yiz {\k52}bü{\k52}yü{\k69}lü {\k52}yol{\k52}lar{\k35}da
+Dialogue: 0,0:01:30.99,0:01:31.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.97,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.03,0:01:31.57,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(114.45,30.57)\fscx69.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.11,0:01:31.95,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(170.76,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.15,0:01:32.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(227.72,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.20,0:01:32.61,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(287.83,30.57)\fscx73.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.24,0:01:32.91,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(362.2,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.28,0:01:33.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(436.48,30.57)\fscx73.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.36,0:01:33.82,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(506.74,30.57)\fscx66.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.40,0:01:34.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(577.37,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.57,0:01:34.78,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.09,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.62,0:01:34.99,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(102.96,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.70,0:01:35.33,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(131.1,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.74,0:01:35.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(171.5,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.78,0:01:35.83,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(211.9,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.82,0:01:36.12,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(249.59,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.87,0:01:36.66,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(315.34,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.95,0:01:36.99,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(359.49,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.99,0:01:37.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(399.54,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:35.03,0:01:37.66,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(438.2,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:35.07,0:01:38.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(483.85,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.09,0:01:48.30,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(45.54,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.13,0:01:48.50,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(85.11,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.21,0:01:48.67,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(130.52,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.25,0:01:48.80,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(168.87,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.30,0:01:49.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(223.23,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.34,0:01:49.34,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(297.61,30.57)\fscx73.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.38,0:01:49.67,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(352.36,30.57)\fscx35.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.46,0:01:50.21,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(407.6,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.50,0:01:50.38,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(466.8,30.57)\fscx67.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.55,0:01:50.55,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(524.37,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.59,0:01:50.72,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(560.76,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.63,0:01:51.05,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(597.77,30.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:51.22,0:01:51.42,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.33,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:51.26,0:01:51.76,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(119.94,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:52.05,0:01:52.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.09,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:52.09,0:01:52.47,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(92.38,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:52.13,0:01:52.63,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(129.95,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:52.18,0:01:52.80,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(160.7,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:52.22,0:01:52.97,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(203.06,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.63,0:01:53.84,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(48.14,30.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.68,0:01:54.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(91.2,30.57)\fscx49.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.72,0:01:54.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(137.51,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.80,0:01:54.34,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(187.88,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.84,0:01:54.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(226.63,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.89,0:01:54.84,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(298.66,30.57)\fscx76.406\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.93,0:01:55.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(374.1,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.97,0:01:55.72,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(428.3,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:54.05,0:01:55.85,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(457.7,30.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:54.09,0:01:55.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(485.68,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:54.14,0:01:56.10,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(536.25,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:54.18,0:01:56.26,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(583.96,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:54.22,0:01:56.43,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(628.56,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:54.30,0:01:56.60,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(683.34,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.68,0:01:56.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.21,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.76,0:01:57.31,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(103.2,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:57.39,0:01:57.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(51.79,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:57.43,0:01:57.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(91.7,30.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:57.47,0:01:57.97,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(139.98,30.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:57.51,0:01:58.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(195.03,30.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:57.56,0:01:58.68,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(242.8,30.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.39,0:01:59.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.51,30.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.43,0:02:00.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(84.38,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.47,0:02:00.39,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(115.13,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.52,0:02:00.73,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(161.88,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.56,0:02:01.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(220.67,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.64,0:02:01.43,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(258.82,30.57)\fscx25.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.68,0:02:01.77,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(292.98,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.72,0:02:02.44,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(351.48,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.77,0:02:02.77,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(399.35,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.81,0:02:03.10,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(444.49,30.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.89,0:02:03.44,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(492.23,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.93,0:02:03.77,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(541.88,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.97,0:02:04.15,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(587.54,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:00.02,0:02:04.52,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(641.09,30.57)\fscx64.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:04.94,0:02:05.15,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(35.37,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:04.98,0:02:05.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(65.95,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.06,0:02:05.48,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(108.34,30.57)\fscx34.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.10,0:02:05.65,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(160.55,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.15,0:02:05.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(227.74,30.57)\fscx64.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.19,0:02:05.94,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(282.97,30.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.23,0:02:06.15,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(323.3,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.31,0:02:06.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(361.96,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.36,0:02:06.69,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(400.74,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.40,0:02:06.86,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(438.44,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.44,0:02:07.02,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(505.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.48,0:02:07.19,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(546.2,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.56,0:02:07.27,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(568.52,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.61,0:02:07.52,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(606.87,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.65,0:02:07.98,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(645.65,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.69,0:02:08.19,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(675.29,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.73,0:02:08.82,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(736.88,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.81,0:02:09.19,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(785.95,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.86,0:02:09.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(847.05,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.90,0:02:09.69,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(896.52,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.94,0:02:10.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(943.49,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.65,0:02:11.86,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.97,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.69,0:02:12.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(114.45,30.57)\fscx69.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.74,0:02:12.57,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(170.76,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.82,0:02:12.82,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(241.7,30.57)\fscx74.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.86,0:02:13.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(301.61,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.90,0:02:13.40,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(329.77,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.94,0:02:13.57,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(372.38,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.99,0:02:13.91,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(433.97,30.57)\fscx48.688\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:12.07,0:02:14.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(470.99,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:12.11,0:02:14.28,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(515.59,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:12.15,0:02:14.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(552.88,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:12.20,0:02:14.70,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(593.28,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.32,0:02:15.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.03,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.37,0:02:15.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(90.26,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.41,0:02:16.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(137.48,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.45,0:02:16.41,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(192.73,30.57)\fscx40.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.49,0:02:16.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(235.79,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.57,0:02:16.70,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(281.8,30.57)\fscx46.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.62,0:02:16.99,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(329.07,30.57)\fscx48.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.66,0:02:17.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(398.98,30.57)\fscx67.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.70,0:02:17.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(455.63,30.57)\fscx45.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.74,0:02:17.74,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(502.29,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.82,0:02:18.08,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(547.46,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.95,0:02:19.16,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(50.21,30.57)\fscx40.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.04,0:02:19.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(85.96,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.08,0:02:19.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(125.29,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.12,0:02:20.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(171.88,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.16,0:02:20.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(211.95,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.20,0:02:20.91,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(250.6,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.29,0:02:21.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(300.98,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.33,0:02:21.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(339.73,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.37,0:02:21.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(397.74,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.41,0:02:22.08,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(444.71,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.29,0:02:23.50,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.03,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.33,0:02:23.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(90.74,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.41,0:02:23.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(127.62,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.46,0:02:24.08,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(157.18,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.50,0:02:24.21,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(197.74,30.57)\fscx46.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.54,0:02:24.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(238.3,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.58,0:02:24.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(266.45,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.66,0:02:25.08,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(314.59,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.71,0:02:25.29,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(345.34,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.00,0:02:26.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(51.38,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.04,0:02:26.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(107.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.08,0:02:26.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(164.45,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.13,0:02:27.04,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(201.62,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.17,0:02:27.38,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(238.95,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.25,0:02:27.92,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(282.12,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.63,0:02:29.84,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(42.68,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.67,0:02:30.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(79.15,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.75,0:02:30.55,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(124.56,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.80,0:02:30.92,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(178.11,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.84,0:02:31.21,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(231.41,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.88,0:02:31.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(289.41,30.57)\fscx49.172\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.92,0:02:32.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(338.59,30.57)\fscx49.172\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:30.00,0:02:32.42,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(400.82,30.57)\fscx75.297\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:30.05,0:02:32.55,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(473.64,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:30.09,0:02:32.76,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(521.05,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:33.88,0:02:34.09,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(47.27,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:33.97,0:02:34.47,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(96.47,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.01,0:02:34.63,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(152.9,30.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.05,0:02:35.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(199.77,30.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.09,0:02:35.43,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(243.93,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.13,0:02:35.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(301.78,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.18,0:02:36.26,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(347.6,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.26,0:02:36.59,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(381.59,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.30,0:02:36.93,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(418.01,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.34,0:02:37.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(452.98,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.38,0:02:37.39,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(501.18,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.43,0:02:37.76,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(561.54,30.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.51,0:02:38.10,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(599.98,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.01,0:02:39.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(42.6,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.06,0:02:39.39,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(76.99,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.10,0:02:39.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(121.55,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.14,0:02:39.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(161.6,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.18,0:02:40.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(184.24,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.26,0:02:40.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(224.78,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.31,0:02:40.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(279.84,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.35,0:02:41.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(346.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.39,0:02:41.27,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(413.75,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.43,0:02:41.39,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(468.47,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.51,0:02:41.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(503.17,30.57)\fscx23.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.56,0:02:41.72,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(551.3,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.60,0:02:42.02,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(598.27,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:42.93,0:02:43.14,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.06,30.57)\fscx64.125\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:42.98,0:02:44.23,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(115.75,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.31,0:02:44.52,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.33,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.35,0:02:44.73,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(120.09,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.44,0:02:44.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(162.79,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.48,0:02:45.19,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(217.19,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.52,0:02:45.35,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(259.46,30.57)\fscx34.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.56,0:02:45.85,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(311.67,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.60,0:02:46.02,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(359.3,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.69,0:02:46.23,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(394.76,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.73,0:02:46.52,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(422.98,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.77,0:02:46.73,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(449.73,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.81,0:02:47.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(506.28,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.85,0:02:47.40,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(553.45,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:30.99,0:01:31.20,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.06,990.57)\fscx54.125\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.03,0:01:31.53,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(118.88,990.57)\fscx69.516\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.11,0:01:32.03,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(178.05,990.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.15,0:01:32.53,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(238.6,990.57)\fscx48.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.20,0:01:32.86,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(299.61,990.57)\fscx73.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.24,0:01:33.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(354.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.28,0:01:33.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(387.18,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:31.36,0:01:34.16,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(438.01,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.57,0:01:34.78,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.76,990.57)\fscx55.516\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.62,0:01:35.24,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(103.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.70,0:01:35.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(144.65,990.57)\fscx48.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.74,0:01:36.12,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(193.58,990.57)\fscx49.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.78,0:01:37.04,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(235.9,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.82,0:01:37.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(270.13,990.57)\fscx57.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.87,0:01:38.83,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(332.9,990.57)\fscx43.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.95,0:01:39.29,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(376.55,990.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:34.99,0:01:39.75,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(434.35,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.09,0:01:48.30,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(70.27,990.57)\fscx80.531\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.13,0:01:48.55,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(133.08,990.57)\fscx45.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.21,0:01:48.88,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(203.48,990.57)\fscx71.641\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.25,0:01:49.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.7,990.57)\fscx50.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.30,0:01:49.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(308.08,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.34,0:01:49.42,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(341.59,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.38,0:01:49.67,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(392.41,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.46,0:01:50.09,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(464.15,990.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.50,0:01:50.34,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(503.12,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.55,0:01:50.59,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(542.18,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.59,0:01:50.84,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(602.7,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.63,0:01:51.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(675.83,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:52.05,0:01:52.22,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.66,990.57)\fscx41.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:52.09,0:01:52.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(88.89,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:52.13,0:01:52.68,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(131.55,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:52.18,0:01:52.93,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.54,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:52.22,0:01:53.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(245.02,990.57)\fscx85.156\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.63,0:01:53.84,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(46.16,990.57)\fscx32.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.68,0:01:53.93,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(96.72,990.57)\fscx68.781\fscy54.852\bord0\fad(120,0)\t(100,240,\fscy12.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.72,0:01:54.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(160.98,990.57)\fscx59.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.80,0:01:54.55,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(223.19,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.84,0:01:54.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(286.43,990.57)\fscx61.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.89,0:01:55.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(357.66,990.57)\fscx56.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.93,0:01:55.55,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(422.93,990.57)\fscx49.891\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:53.97,0:01:55.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(472.75,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:54.05,0:01:55.89,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(508.36,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:54.09,0:01:56.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(543.56,990.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:54.14,0:01:56.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(573.97,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:54.18,0:01:56.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(627.95,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:57.39,0:01:57.56,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.23,990.57)\fscx40.469\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:57.43,0:01:58.01,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(94.66,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:57.47,0:01:58.22,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(149.32,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:57.51,0:01:58.77,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(214.71,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:57.56,0:01:58.97,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(255.58,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.39,0:01:59.56,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(61.83,990.57)\fscx63.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.43,0:02:00.14,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(108.21,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.47,0:02:00.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(140.86,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.52,0:02:00.93,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(194.24,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.56,0:02:01.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(266.99,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.64,0:02:01.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(327.35,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.68,0:02:02.02,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(381.07,990.57)\fscx61.641\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.72,0:02:02.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(448.27,990.57)\fscx48.688\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.77,0:02:02.69,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(498.06,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.81,0:02:02.94,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(548.97,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.89,0:02:03.27,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(611.62,990.57)\fscx50.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.93,0:02:03.60,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(659.15,990.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.97,0:02:03.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(713.44,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:00.02,0:02:04.06,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(781.05,990.57)\fscx71.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:00.06,0:02:04.52,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(853.66,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:04.94,0:02:05.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(58.2,990.57)\fscx56.391\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:04.98,0:02:05.40,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(111.84,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.06,0:02:05.65,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.9,990.57)\fscx85.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.10,0:02:06.11,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(257.59,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.15,0:02:06.36,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(306.03,990.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.19,0:02:06.61,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(366.94,990.57)\fscx71.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.23,0:02:06.94,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(445.22,990.57)\fscx85.5\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.31,0:02:07.52,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(512.6,990.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.36,0:02:07.65,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(543.34,990.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.40,0:02:08.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(596.58,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.44,0:02:08.36,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(644.15,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.48,0:02:08.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(691.72,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.56,0:02:08.98,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(738.27,990.57)\fscx46.969\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.61,0:02:09.32,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(805.27,990.57)\fscx87.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.65,0:02:09.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(883.47,990.57)\fscx45.313\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.69,0:02:10.03,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(937.68,990.57)\fscx63.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.73,0:02:10.53,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1006.23,990.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.81,0:02:10.78,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1049.41,990.57)\fscx36.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.86,0:02:10.99,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1092.72,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:05.90,0:02:11.24,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1140.2,990.57)\fscx44.781\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.65,0:02:11.86,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(51.55,990.57)\fscx43.109\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.69,0:02:12.07,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(90.67,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.74,0:02:12.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(126.33,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.82,0:02:12.61,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.71,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.86,0:02:13.07,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(260.37,990.57)\fscx66.672\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.90,0:02:13.40,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(306.14,990.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.94,0:02:13.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(336.63,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:11.99,0:02:13.74,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(392.03,990.57)\fscx74.719\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:12.07,0:02:14.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(465.62,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:12.11,0:02:14.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(507.95,990.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:12.15,0:02:14.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(540.65,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.32,0:02:15.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.38,990.57)\fscx78.75\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.37,0:02:15.87,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(133.63,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.41,0:02:16.16,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(176.06,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.45,0:02:16.41,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(229.32,990.57)\fscx71.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.49,0:02:16.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(301.92,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.57,0:02:17.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(344.2,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.62,0:02:17.41,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(377.3,990.57)\fscx55.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.66,0:02:17.83,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(415.77,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.70,0:02:18.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(449.4,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:15.74,0:02:18.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(505.34,990.57)\fscx66.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.95,0:02:19.16,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.84,990.57)\fscx79.672\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.04,0:02:19.58,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(127.72,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.08,0:02:19.87,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(181.05,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.12,0:02:20.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(253.99,990.57)\fscx75.297\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.16,0:02:20.87,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(315.87,990.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.20,0:02:21.04,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(365.93,990.57)\fscx75.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.29,0:02:21.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(428.89,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.33,0:02:21.75,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(481.45,990.57)\fscx54.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.37,0:02:22.46,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(539.05,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:19.41,0:02:22.75,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(575.26,990.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.29,0:02:23.50,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(62.02,990.57)\fscx64.031\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.33,0:02:24.00,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(139.13,990.57)\fscx90.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.41,0:02:24.50,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(214.07,990.57)\fscx35.609\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.46,0:02:24.79,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.2,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.50,0:02:25.04,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(319.59,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.54,0:02:25.29,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(373.12,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.00,0:02:26.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(55.41,990.57)\fscx50.813\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.04,0:02:26.46,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(102.68,990.57)\fscx43.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.08,0:02:26.75,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(149.05,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.13,0:02:27.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(204.02,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.17,0:02:27.88,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.25,0:02:28.29,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(305.87,990.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.29,0:02:28.42,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(335.63,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.63,0:02:29.84,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.66,990.57)\fscx41.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.67,0:02:30.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(88.89,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.75,0:02:30.63,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(143.91,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.80,0:02:30.92,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(194.8,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.84,0:02:31.38,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(256.48,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.88,0:02:31.71,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(311.47,990.57)\fscx61.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:29.92,0:02:32.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(372.6,990.57)\fscx60.672\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:30.00,0:02:32.63,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(434.86,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:30.05,0:02:32.92,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(477.52,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:30.09,0:02:33.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(514.27,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:33.88,0:02:34.09,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.49,990.57)\fscx54.984\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:33.97,0:02:34.34,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(105.89,990.57)\fscx41.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.01,0:02:34.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(144.36,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.05,0:02:34.97,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(199.66,990.57)\fscx75.484\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.09,0:02:35.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(277.7,990.57)\fscx56.531\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.13,0:02:35.84,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(344.02,990.57)\fscx76.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.18,0:02:36.34,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(399.48,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.26,0:02:36.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(432.58,990.57)\fscx55.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.30,0:02:36.84,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(477.88,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.34,0:02:37.10,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(527.36,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.38,0:02:37.35,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(575.11,990.57)\fscx31.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.43,0:02:37.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(621.09,990.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.51,0:02:38.10,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(661.98,990.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:34.55,0:02:38.35,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(714.55,990.57)\fscx59.609\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.01,0:02:39.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.21,990.57)\fscx78.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.06,0:02:39.76,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(140.75,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.10,0:02:40.01,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(183.81,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.14,0:02:40.43,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(220.57,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.18,0:02:41.14,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(284,990.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.26,0:02:41.43,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(337.8,990.57)\fscx56.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.31,0:02:41.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(383.8,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.35,0:02:42.10,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(416.9,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.39,0:02:42.39,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(457.53,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:39.43,0:02:42.64,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(505.02,990.57)\fscx44.781\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.31,0:02:44.52,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.33,990.57)\fscx54.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.35,0:02:45.02,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(107.51,990.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.44,0:02:45.56,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(162.28,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.48,0:02:45.90,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(204.94,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.52,0:02:46.27,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(241.7,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.56,0:02:46.94,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(305.18,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.60,0:02:47.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(353.75,990.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.69,0:02:47.98,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(394.94,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.73,0:02:48.69,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(453.28,990.57)\fscx56.531\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.77,0:02:49.19,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(509.69,990.57)\fscx56.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:44.81,0:02:49.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(563.11,990.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Comment: 0,0:22:44.51,0:24:01.00,ED,,0,0,0,,{ed}
+Dialogue: 0,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bana getirdiğin manga
+Dialogue: 1,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bana getirdiğin manga
+Dialogue: 2,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bana getirdiğin manga
+Dialogue: 0,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}ve adını bile bilmediğim o çiçekler
+Dialogue: 1,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}ve adını bile bilmediğim o çiçekler
+Dialogue: 2,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}ve adını bile bilmediğim o çiçekler
+Dialogue: 0,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bugün geri dönmedi mi hala
+Dialogue: 1,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bugün geri dönmedi mi hala
+Dialogue: 2,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bugün geri dönmedi mi hala
+Dialogue: 0,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,250)}İlk kez tattığım bu duygular bana
+Dialogue: 1,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,250)}İlk kez tattığım bu duygular bana
+Dialogue: 2,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,250)}İlk kez tattığım bu duygular bana
+Dialogue: 0,0:22:56.77,0:22:59.19,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(150,0)}Pencerelerdeki izleri
+Dialogue: 1,0:22:56.77,0:22:59.19,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(150,0)}Pencerelerdeki izleri
+Dialogue: 2,0:22:56.77,0:22:59.19,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(150,0)}Pencerelerdeki izleri
+Dialogue: 0,0:22:59.19,0:23:02.53,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}takip et ve çık evrende bir yolculuğa
+Dialogue: 1,0:22:59.19,0:23:02.53,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}takip et ve çık evrende bir yolculuğa
+Dialogue: 2,0:22:59.19,0:23:02.53,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}takip et ve çık evrende bir yolculuğa
+Dialogue: 0,0:23:02.53,0:23:07.78,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Bu kadarı yeterli olmalıydı ama...
+Dialogue: 1,0:23:02.53,0:23:07.78,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Bu kadarı yeterli olmalıydı ama...
+Dialogue: 2,0:23:02.53,0:23:07.78,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Bu kadarı yeterli olmalıydı ama...
+Dialogue: 0,0:23:08.66,0:23:14.37,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Elini tuttuğum andan itibaren
+Dialogue: 1,0:23:08.66,0:23:14.37,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Elini tuttuğum andan itibaren
+Dialogue: 2,0:23:08.66,0:23:14.37,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Elini tuttuğum andan itibaren
+Dialogue: 0,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
+Dialogue: 1,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
+Dialogue: 2,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
+Dialogue: 0,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
+Dialogue: 1,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
+Dialogue: 2,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
+Dialogue: 0,0:23:31.35,0:23:42.11,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
+Dialogue: 1,0:23:31.35,0:23:42.23,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
+Dialogue: 2,0:23:31.35,0:23:42.23,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
+Dialogue: 0,0:23:42.53,0:23:48.28,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Anlat bana hikayenin devamını söylerken bir şarkı
+Dialogue: 1,0:23:42.53,0:23:48.28,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Anlat bana hikayenin devamını söylerken bir şarkı
+Dialogue: 2,0:23:42.53,0:23:48.28,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Anlat bana hikayenin devamını söylerken bir şarkı
+Dialogue: 0,0:23:48.28,0:23:57.42,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Götür beni adını bile duymadığım dünyalara
+Dialogue: 1,0:23:48.28,0:23:57.42,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Götür beni adını bile duymadığım dünyalara
+Dialogue: 2,0:23:48.28,0:23:57.42,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Götür beni adını bile duymadığım dünyalara
+Comment: 2,0:00:00.02,0:00:00.06,Vuatsigns,,0,0,0,,{yd}
+Dialogue: 2,0:02:59.41,0:02:59.45,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Ç{\alpha&HFF&}ivi çiviyi söker
+Dialogue: 2,0:02:59.45,0:02:59.49,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çi{\alpha&HFF&}vi çiviyi söker
+Dialogue: 2,0:02:59.49,0:02:59.53,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çiv{\alpha&HFF&}i çiviyi söker
+Dialogue: 2,0:02:59.53,0:02:59.58,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi{\alpha&HFF&} çiviyi söker
+Dialogue: 2,0:02:59.58,0:02:59.62,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi ç{\alpha&HFF&}iviyi söker
+Dialogue: 2,0:02:59.62,0:02:59.66,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çi{\alpha&HFF&}viyi söker
+Dialogue: 2,0:02:59.66,0:02:59.70,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çiv{\alpha&HFF&}iyi söker
+Dialogue: 2,0:02:59.70,0:02:59.74,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çivi{\alpha&HFF&}yi söker
+Dialogue: 2,0:02:59.74,0:02:59.78,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çiviy{\alpha&HFF&}i söker
+Dialogue: 2,0:02:59.78,0:02:59.83,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çiviyi{\alpha&HFF&} söker
+Dialogue: 2,0:02:59.83,0:02:59.87,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çiviyi s{\alpha&HFF&}öker
+Dialogue: 2,0:02:59.87,0:02:59.91,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çiviyi sö{\alpha&HFF&}ker
+Dialogue: 2,0:02:59.91,0:02:59.95,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çiviyi sök{\alpha&HFF&}er
+Dialogue: 2,0:02:59.95,0:02:59.99,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çiviyi söke{\alpha&HFF&}r
+Dialogue: 2,0:02:59.99,0:03:00.58,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çiviyi söker
+Dialogue: 2,0:03:00.58,0:03:00.62,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&H6D6FFF&\blur4\pos(1246.73,904.02)\clip(m 1018.04 886.65 l 1032.9 886.65 1032.9 929.54 1018.04 929.54)}Çivi çiviyi söker
+Dialogue: 2,0:03:00.58,0:03:00.62,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\blur4\pos(1246.73,904.02)\iclip(m 1018.04 886.65 l 1032.9 886.65 1032.9 929.54 1018.04 929.54)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 2,0:03:00.62,0:03:00.66,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&H6D6FFF&\blur4\pos(1246.73,904.02)\clip(m 1099.02 884.71 l 1162.54 884.71 1161.46 939.33 1098.37 939.33)}Çivi çiviyi söker
+Dialogue: 2,0:03:00.62,0:03:00.66,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\blur4\pos(1246.73,904.02)\iclip(m 1099.02 884.71 l 1162.54 884.71 1161.46 939.33 1098.37 939.33)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 2,0:03:00.66,0:03:00.70,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur4\pos(1246.73,904.02)\clip(m 1022.79 882.32 l 1033.06 882.32 1033.06 925.75 1022.79 925.75 m 1230.26 882.65 l 1228.76 939.09 1286.85 944.54 1296.29 872.61)}Çivi çiv{\c&H6D6FFF&}iyi söker
+Dialogue: 2,0:03:00.66,0:03:00.70,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\blur4\pos(1246.73,904.02)\iclip(m 1022.79 882.32 l 1033.06 882.32 1033.06 925.75 1022.79 925.75 m 1230.26 882.65 l 1228.76 939.09 1286.85 944.54 1296.29 872.61)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 2,0:03:00.70,0:03:00.74,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur4\pos(1246.73,904.02)\clip(m 1098.73 885.43 l 1097.32 936.37 1160.07 937.78 1165.36 882.96 m 1310.81 876.33 l 1367.63 878.46 1359.21 944.22 1310.49 944.93)}Çivi çiviyi {\c&H6D6FFF&}söker
+Dialogue: 2,0:03:00.70,0:03:00.74,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\blur4\pos(1246.73,904.02)\iclip(m 1098.73 885.43 l 1097.32 936.37 1160.07 937.78 1165.36 882.96 m 1310.81 876.33 l 1367.63 878.46 1359.21 944.22 1310.49 944.93)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 2,0:03:00.74,0:03:00.79,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur4\pos(1246.73,904.02)\clip(m 1228.82 877.87 l 1293.82 877.87 1293.82 937.19 1228.82 937.19 m 1381.01 881.88 l 1380.58 933.4 1437.6 937.52 1436.95 872.36)}Çivi çiviyi sö{\c&H6D6FFF&}ker
+Dialogue: 2,0:03:00.74,0:03:00.79,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\blur4\pos(1246.73,904.02)\iclip(m 1228.82 877.87 l 1293.82 877.87 1293.82 937.19 1228.82 937.19 m 1381.01 881.88 l 1380.58 933.4 1437.6 937.52 1436.95 872.36)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 2,0:03:00.79,0:03:00.83,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur4\pos(1246.73,904.02)\clip(m 1458.01 913.6 l 1457.2 890.48 1466.72 898.37 m 1307.1 880.19 l 1304.65 940.39 1367.47 942.83 1372.09 875.84)}Çivi çiviyi söke{\c&H6D6FFF&}r
+Dialogue: 2,0:03:00.79,0:03:00.83,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\blur4\pos(1246.73,904.02)\iclip(m 1458.01 913.6 l 1457.2 890.48 1466.72 898.37 m 1307.1 880.19 l 1304.65 940.39 1367.47 942.83 1372.09 875.84)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 2,0:03:00.83,0:03:00.87,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur4\pos(1246.73,904.02)\clip(m 1379.27 877.94 l 1438.44 877.94 1438.44 936.34 1379.27 936.34)}Çivi çiviyi söker
+Dialogue: 2,0:03:00.83,0:03:00.87,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\blur4\pos(1246.73,904.02)\iclip(m 1379.27 877.94 l 1438.44 877.94 1438.44 936.34 1379.27 936.34)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 2,0:03:00.87,0:03:00.91,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur4\pos(1246.73,904.02)\clip(m 1457.52 890.39 l 1474.65 890.39 1474.65 908.69 1456.35 908.69)}Çivi çiviyi söker
+Dialogue: 2,0:03:00.87,0:03:00.91,Vuatsigns,,0,0,0,,{\bord3\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)\iclip(m 1457.52 890.39 l 1474.65 890.39 1474.65 908.69 1456.35 908.69)}Çivi çiviyi söker
+Dialogue: 2,0:03:00.91,0:03:03.62,Vuatsigns,,0,0,0,,{\bord3\fad(0,550)\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur4\pos(1246.73,904.02)}Çivi çiviyi söker
+Comment: 0,0:22:24.90,0:22:26.90,Vuatsigns,,0,0,0,,
+Dialogue: 4,0:02:59.41,0:02:59.45,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Ç{\alpha&HFF&}ivi çiviyi söker
+Dialogue: 4,0:02:59.45,0:02:59.49,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çi{\alpha&HFF&}vi çiviyi söker
+Dialogue: 4,0:02:59.49,0:02:59.53,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çiv{\alpha&HFF&}i çiviyi söker
+Dialogue: 4,0:02:59.53,0:02:59.58,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi{\alpha&HFF&} çiviyi söker
+Dialogue: 4,0:02:59.58,0:02:59.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi ç{\alpha&HFF&}iviyi söker
+Dialogue: 4,0:02:59.62,0:02:59.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çi{\alpha&HFF&}viyi söker
+Dialogue: 4,0:02:59.66,0:02:59.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiv{\alpha&HFF&}iyi söker
+Dialogue: 4,0:02:59.70,0:02:59.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çivi{\alpha&HFF&}yi söker
+Dialogue: 4,0:02:59.74,0:02:59.78,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviy{\alpha&HFF&}i söker
+Dialogue: 4,0:02:59.78,0:02:59.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi{\alpha&HFF&} söker
+Dialogue: 4,0:02:59.83,0:02:59.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi s{\alpha&HFF&}öker
+Dialogue: 4,0:02:59.87,0:02:59.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi sö{\alpha&HFF&}ker
+Dialogue: 4,0:02:59.91,0:02:59.95,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi sök{\alpha&HFF&}er
+Dialogue: 4,0:02:59.95,0:02:59.99,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söke{\alpha&HFF&}r
+Dialogue: 4,0:02:59.99,0:03:00.58,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.58,0:03:00.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&H6D6FFF&\blur0.5\pos(1246.73,904.02)\clip(m 1018.04 886.65 l 1032.9 886.65 1032.9 929.54 1018.04 929.54)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.58,0:03:00.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1018.04 886.65 l 1032.9 886.65 1032.9 929.54 1018.04 929.54)\c&HFEFEFF&\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.62,0:03:00.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&H6D6FFF&\blur0.5\pos(1246.73,904.02)\clip(m 1099.02 884.71 l 1162.54 884.71 1161.46 939.33 1098.37 939.33)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.62,0:03:00.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1099.02 884.71 l 1162.54 884.71 1161.46 939.33 1098.37 939.33)\c&HFEFEFF&\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.66,0:03:00.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1022.79 882.32 l 1033.06 882.32 1033.06 925.75 1022.79 925.75 m 1230.26 882.65 l 1228.76 939.09 1286.85 944.54 1296.29 872.61)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiv{\c&H6D6FFF&}iyi söker
+Dialogue: 4,0:03:00.66,0:03:00.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1022.79 882.32 l 1033.06 882.32 1033.06 925.75 1022.79 925.75 m 1230.26 882.65 l 1228.76 939.09 1286.85 944.54 1296.29 872.61)\c&HFEFEFF&\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.70,0:03:00.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1098.73 885.43 l 1097.32 936.37 1160.07 937.78 1165.36 882.96 m 1310.81 876.33 l 1367.63 878.46 1359.21 944.22 1310.49 944.93)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi {\c&H6D6FFF&}söker
+Dialogue: 4,0:03:00.70,0:03:00.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1098.73 885.43 l 1097.32 936.37 1160.07 937.78 1165.36 882.96 m 1310.81 876.33 l 1367.63 878.46 1359.21 944.22 1310.49 944.93)\c&HFEFEFF&\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.74,0:03:00.79,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1228.82 877.87 l 1293.82 877.87 1293.82 937.19 1228.82 937.19 m 1381.01 881.88 l 1380.58 933.4 1437.6 937.52 1436.95 872.36)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi sö{\c&H6D6FFF&}ker
+Dialogue: 4,0:03:00.74,0:03:00.79,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1228.82 877.87 l 1293.82 877.87 1293.82 937.19 1228.82 937.19 m 1381.01 881.88 l 1380.58 933.4 1437.6 937.52 1436.95 872.36)\c&HFEFEFF&\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.79,0:03:00.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1458.01 913.6 l 1457.2 890.48 1466.72 898.37 m 1307.1 880.19 l 1304.65 940.39 1367.47 942.83 1372.09 875.84)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söke{\c&H6D6FFF&}r
+Dialogue: 4,0:03:00.79,0:03:00.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1458.01 913.6 l 1457.2 890.48 1466.72 898.37 m 1307.1 880.19 l 1304.65 940.39 1367.47 942.83 1372.09 875.84)\c&HFEFEFF&\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.83,0:03:00.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1379.27 877.94 l 1438.44 877.94 1438.44 936.34 1379.27 936.34)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.83,0:03:00.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1379.27 877.94 l 1438.44 877.94 1438.44 936.34 1379.27 936.34)\c&HFEFEFF&\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.87,0:03:00.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1457.52 890.39 l 1474.65 890.39 1474.65 908.69 1456.35 908.69)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.87,0:03:00.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\iclip(m 1457.52 890.39 l 1474.65 890.39 1474.65 908.69 1456.35 908.69)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&}Çivi çiviyi söker
+Dialogue: 4,0:03:00.91,0:03:03.62,Vuatsigns,,0,0,0,,{\fad(0,850)\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-0.3\1a&HFE&\fax-0.02\4c&H1A03F1&\t(2260,0,1,\alpha&HFF&)}Çivi çiviyi söker
+Comment: 4,0:22:24.90,0:22:26.90,Vuatsigns,,0,0,0,,
+Dialogue: 3,0:02:59.41,0:02:59.45,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Ç{\alpha&HFF&}ivi çiviyi söker
+Dialogue: 3,0:02:59.45,0:02:59.49,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çi{\alpha&HFF&}vi çiviyi söker
+Dialogue: 3,0:02:59.49,0:02:59.53,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çiv{\alpha&HFF&}i çiviyi söker
+Dialogue: 3,0:02:59.53,0:02:59.58,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi{\alpha&HFF&} çiviyi söker
+Dialogue: 3,0:02:59.58,0:02:59.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi ç{\alpha&HFF&}iviyi söker
+Dialogue: 3,0:02:59.62,0:02:59.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çi{\alpha&HFF&}viyi söker
+Dialogue: 3,0:02:59.66,0:02:59.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiv{\alpha&HFF&}iyi söker
+Dialogue: 3,0:02:59.70,0:02:59.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çivi{\alpha&HFF&}yi söker
+Dialogue: 3,0:02:59.74,0:02:59.78,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviy{\alpha&HFF&}i söker
+Dialogue: 3,0:02:59.78,0:02:59.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi{\alpha&HFF&} söker
+Dialogue: 3,0:02:59.83,0:02:59.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi s{\alpha&HFF&}öker
+Dialogue: 3,0:02:59.87,0:02:59.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi sö{\alpha&HFF&}ker
+Dialogue: 3,0:02:59.91,0:02:59.95,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi sök{\alpha&HFF&}er
+Dialogue: 3,0:02:59.95,0:02:59.99,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söke{\alpha&HFF&}r
+Dialogue: 3,0:02:59.99,0:03:00.58,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.58,0:03:00.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&H6D6FFF&\blur0.5\pos(1246.73,904.02)\clip(m 1018.04 886.65 l 1032.9 886.65 1032.9 929.54 1018.04 929.54)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.58,0:03:00.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1018.04 886.65 l 1032.9 886.65 1032.9 929.54 1018.04 929.54)\c&HFEFEFF&\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.62,0:03:00.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&H6D6FFF&\blur0.5\pos(1246.73,904.02)\clip(m 1099.02 884.71 l 1162.54 884.71 1161.46 939.33 1098.37 939.33)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.62,0:03:00.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1099.02 884.71 l 1162.54 884.71 1161.46 939.33 1098.37 939.33)\c&HFEFEFF&\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.66,0:03:00.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1022.79 882.32 l 1033.06 882.32 1033.06 925.75 1022.79 925.75 m 1230.26 882.65 l 1228.76 939.09 1286.85 944.54 1296.29 872.61)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiv{\c&H6D6FFF&}iyi söker
+Dialogue: 3,0:03:00.66,0:03:00.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1022.79 882.32 l 1033.06 882.32 1033.06 925.75 1022.79 925.75 m 1230.26 882.65 l 1228.76 939.09 1286.85 944.54 1296.29 872.61)\c&HFEFEFF&\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.70,0:03:00.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1098.73 885.43 l 1097.32 936.37 1160.07 937.78 1165.36 882.96 m 1310.81 876.33 l 1367.63 878.46 1359.21 944.22 1310.49 944.93)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi {\c&H6D6FFF&}söker
+Dialogue: 3,0:03:00.70,0:03:00.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1098.73 885.43 l 1097.32 936.37 1160.07 937.78 1165.36 882.96 m 1310.81 876.33 l 1367.63 878.46 1359.21 944.22 1310.49 944.93)\c&HFEFEFF&\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.74,0:03:00.79,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1228.82 877.87 l 1293.82 877.87 1293.82 937.19 1228.82 937.19 m 1381.01 881.88 l 1380.58 933.4 1437.6 937.52 1436.95 872.36)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi sö{\c&H6D6FFF&}ker
+Dialogue: 3,0:03:00.74,0:03:00.79,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1228.82 877.87 l 1293.82 877.87 1293.82 937.19 1228.82 937.19 m 1381.01 881.88 l 1380.58 933.4 1437.6 937.52 1436.95 872.36)\c&HFEFEFF&\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.79,0:03:00.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1458.01 913.6 l 1457.2 890.48 1466.72 898.37 m 1307.1 880.19 l 1304.65 940.39 1367.47 942.83 1372.09 875.84)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söke{\c&H6D6FFF&}r
+Dialogue: 3,0:03:00.79,0:03:00.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1458.01 913.6 l 1457.2 890.48 1466.72 898.37 m 1307.1 880.19 l 1304.65 940.39 1367.47 942.83 1372.09 875.84)\c&HFEFEFF&\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.83,0:03:00.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1379.27 877.94 l 1438.44 877.94 1438.44 936.34 1379.27 936.34)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.83,0:03:00.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1379.27 877.94 l 1438.44 877.94 1438.44 936.34 1379.27 936.34)\c&HFEFEFF&\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.87,0:03:00.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1457.52 890.39 l 1474.65 890.39 1474.65 908.69 1456.35 908.69)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.87,0:03:00.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\iclip(m 1457.52 890.39 l 1474.65 890.39 1474.65 908.69 1456.35 908.69)\xshad-1.6\1a&HFE&\4c&HB641EB&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.91,0:03:03.62,Vuatsigns,,0,0,0,,{\fad(0,850)\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad-1.6\1a&HFE&\4c&HB641EB&\t(2260,0,1,\alpha&HFF&)}Çivi çiviyi söker
+Comment: 0,0:22:24.90,0:22:26.90,Vuatsigns,,0,0,0,,
+Dialogue: 3,0:02:59.41,0:02:59.45,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Ç{\alpha&HFF&}ivi çiviyi söker
+Dialogue: 3,0:02:59.45,0:02:59.49,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çi{\alpha&HFF&}vi çiviyi söker
+Dialogue: 3,0:02:59.49,0:02:59.53,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çiv{\alpha&HFF&}i çiviyi söker
+Dialogue: 3,0:02:59.53,0:02:59.58,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi{\alpha&HFF&} çiviyi söker
+Dialogue: 3,0:02:59.58,0:02:59.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi ç{\alpha&HFF&}iviyi söker
+Dialogue: 3,0:02:59.62,0:02:59.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi çi{\alpha&HFF&}viyi söker
+Dialogue: 3,0:02:59.66,0:02:59.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiv{\alpha&HFF&}iyi söker
+Dialogue: 3,0:02:59.70,0:02:59.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi çivi{\alpha&HFF&}yi söker
+Dialogue: 3,0:02:59.74,0:02:59.78,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviy{\alpha&HFF&}i söker
+Dialogue: 3,0:02:59.78,0:02:59.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi{\alpha&HFF&} söker
+Dialogue: 3,0:02:59.83,0:02:59.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi s{\alpha&HFF&}öker
+Dialogue: 3,0:02:59.87,0:02:59.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi sö{\alpha&HFF&}ker
+Dialogue: 3,0:02:59.91,0:02:59.95,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi sök{\alpha&HFF&}er
+Dialogue: 3,0:02:59.95,0:02:59.99,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söke{\alpha&HFF&}r
+Dialogue: 3,0:02:59.99,0:03:00.58,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.58,0:03:00.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&H6D6FFF&\blur0.5\pos(1246.73,904.02)\clip(m 1018.04 886.65 l 1032.9 886.65 1032.9 929.54 1018.04 929.54)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.58,0:03:00.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1018.04 886.65 l 1032.9 886.65 1032.9 929.54 1018.04 929.54)\c&HFEFEFF&\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.62,0:03:00.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&H6D6FFF&\blur0.5\pos(1246.73,904.02)\clip(m 1099.02 884.71 l 1162.54 884.71 1161.46 939.33 1098.37 939.33)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.62,0:03:00.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1099.02 884.71 l 1162.54 884.71 1161.46 939.33 1098.37 939.33)\c&HFEFEFF&\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.66,0:03:00.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1022.79 882.32 l 1033.06 882.32 1033.06 925.75 1022.79 925.75 m 1230.26 882.65 l 1228.76 939.09 1286.85 944.54 1296.29 872.61)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiv{\c&H6D6FFF&}iyi söker
+Dialogue: 3,0:03:00.66,0:03:00.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1022.79 882.32 l 1033.06 882.32 1033.06 925.75 1022.79 925.75 m 1230.26 882.65 l 1228.76 939.09 1286.85 944.54 1296.29 872.61)\c&HFEFEFF&\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.70,0:03:00.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1098.73 885.43 l 1097.32 936.37 1160.07 937.78 1165.36 882.96 m 1310.81 876.33 l 1367.63 878.46 1359.21 944.22 1310.49 944.93)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi {\c&H6D6FFF&}söker
+Dialogue: 3,0:03:00.70,0:03:00.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1098.73 885.43 l 1097.32 936.37 1160.07 937.78 1165.36 882.96 m 1310.81 876.33 l 1367.63 878.46 1359.21 944.22 1310.49 944.93)\c&HFEFEFF&\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.74,0:03:00.79,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1228.82 877.87 l 1293.82 877.87 1293.82 937.19 1228.82 937.19 m 1381.01 881.88 l 1380.58 933.4 1437.6 937.52 1436.95 872.36)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi sö{\c&H6D6FFF&}ker
+Dialogue: 3,0:03:00.74,0:03:00.79,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1228.82 877.87 l 1293.82 877.87 1293.82 937.19 1228.82 937.19 m 1381.01 881.88 l 1380.58 933.4 1437.6 937.52 1436.95 872.36)\c&HFEFEFF&\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.79,0:03:00.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1458.01 913.6 l 1457.2 890.48 1466.72 898.37 m 1307.1 880.19 l 1304.65 940.39 1367.47 942.83 1372.09 875.84)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söke{\c&H6D6FFF&}r
+Dialogue: 3,0:03:00.79,0:03:00.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1458.01 913.6 l 1457.2 890.48 1466.72 898.37 m 1307.1 880.19 l 1304.65 940.39 1367.47 942.83 1372.09 875.84)\c&HFEFEFF&\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.83,0:03:00.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1379.27 877.94 l 1438.44 877.94 1438.44 936.34 1379.27 936.34)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.83,0:03:00.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1379.27 877.94 l 1438.44 877.94 1438.44 936.34 1379.27 936.34)\c&HFEFEFF&\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.87,0:03:00.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1457.52 890.39 l 1474.65 890.39 1474.65 908.69 1456.35 908.69)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.87,0:03:00.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\iclip(m 1457.52 890.39 l 1474.65 890.39 1474.65 908.69 1456.35 908.69)\xshad1\1a&HFE&\4c&H41E538&}Çivi çiviyi söker
+Dialogue: 3,0:03:00.91,0:03:03.62,Vuatsigns,,0,0,0,,{\fad(0,750)\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\xshad1\1a&HFE&\4c&H41E538&\t(2260,0,1,\alpha&HFF&)}Çivi çiviyi söker
+Comment: 0,0:22:24.90,0:22:26.90,Vuatsigns,,0,0,0,,
+Dialogue: 5,0:02:59.41,0:02:59.45,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Ç{\alpha&HFF&}ivi çiviyi söker
+Dialogue: 5,0:02:59.45,0:02:59.49,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çi{\alpha&HFF&}vi çiviyi söker
+Dialogue: 5,0:02:59.49,0:02:59.53,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çiv{\alpha&HFF&}i çiviyi söker
+Dialogue: 5,0:02:59.53,0:02:59.58,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi{\alpha&HFF&} çiviyi söker
+Dialogue: 5,0:02:59.58,0:02:59.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi ç{\alpha&HFF&}iviyi söker
+Dialogue: 5,0:02:59.62,0:02:59.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çi{\alpha&HFF&}viyi söker
+Dialogue: 5,0:02:59.66,0:02:59.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çiv{\alpha&HFF&}iyi söker
+Dialogue: 5,0:02:59.70,0:02:59.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çivi{\alpha&HFF&}yi söker
+Dialogue: 5,0:02:59.74,0:02:59.78,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çiviy{\alpha&HFF&}i söker
+Dialogue: 5,0:02:59.78,0:02:59.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çiviyi{\alpha&HFF&} söker
+Dialogue: 5,0:02:59.83,0:02:59.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çiviyi s{\alpha&HFF&}öker
+Dialogue: 5,0:02:59.87,0:02:59.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çiviyi sö{\alpha&HFF&}ker
+Dialogue: 5,0:02:59.91,0:02:59.95,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çiviyi sök{\alpha&HFF&}er
+Dialogue: 5,0:02:59.95,0:02:59.99,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çiviyi söke{\alpha&HFF&}r
+Dialogue: 5,0:02:59.99,0:03:00.58,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çiviyi söker
+Dialogue: 5,0:03:00.58,0:03:00.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&H6D6FFF&\blur0.5\pos(1246.73,904.02)\clip(m 1018.04 886.65 l 1032.9 886.65 1032.9 929.54 1018.04 929.54)}Çivi çiviyi söker
+Dialogue: 5,0:03:00.58,0:03:00.62,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1018.04 886.65 l 1032.9 886.65 1032.9 929.54 1018.04 929.54)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 5,0:03:00.62,0:03:00.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&H6D6FFF&\blur0.5\pos(1246.73,904.02)\clip(m 1099.02 884.71 l 1162.54 884.71 1161.46 939.33 1098.37 939.33)}Çivi çiviyi söker
+Dialogue: 5,0:03:00.62,0:03:00.66,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1099.02 884.71 l 1162.54 884.71 1161.46 939.33 1098.37 939.33)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 5,0:03:00.66,0:03:00.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1022.79 882.32 l 1033.06 882.32 1033.06 925.75 1022.79 925.75 m 1230.26 882.65 l 1228.76 939.09 1286.85 944.54 1296.29 872.61)}Çivi çiv{\c&H6D6FFF&}iyi söker
+Dialogue: 5,0:03:00.66,0:03:00.70,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1022.79 882.32 l 1033.06 882.32 1033.06 925.75 1022.79 925.75 m 1230.26 882.65 l 1228.76 939.09 1286.85 944.54 1296.29 872.61)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 5,0:03:00.70,0:03:00.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1098.73 885.43 l 1097.32 936.37 1160.07 937.78 1165.36 882.96 m 1310.81 876.33 l 1367.63 878.46 1359.21 944.22 1310.49 944.93)}Çivi çiviyi {\c&H6D6FFF&}söker
+Dialogue: 5,0:03:00.70,0:03:00.74,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1098.73 885.43 l 1097.32 936.37 1160.07 937.78 1165.36 882.96 m 1310.81 876.33 l 1367.63 878.46 1359.21 944.22 1310.49 944.93)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 5,0:03:00.74,0:03:00.79,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1228.82 877.87 l 1293.82 877.87 1293.82 937.19 1228.82 937.19 m 1381.01 881.88 l 1380.58 933.4 1437.6 937.52 1436.95 872.36)}Çivi çiviyi sö{\c&H6D6FFF&}ker
+Dialogue: 5,0:03:00.74,0:03:00.79,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1228.82 877.87 l 1293.82 877.87 1293.82 937.19 1228.82 937.19 m 1381.01 881.88 l 1380.58 933.4 1437.6 937.52 1436.95 872.36)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 5,0:03:00.79,0:03:00.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1458.01 913.6 l 1457.2 890.48 1466.72 898.37 m 1307.1 880.19 l 1304.65 940.39 1367.47 942.83 1372.09 875.84)}Çivi çiviyi söke{\c&H6D6FFF&}r
+Dialogue: 5,0:03:00.79,0:03:00.83,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1458.01 913.6 l 1457.2 890.48 1466.72 898.37 m 1307.1 880.19 l 1304.65 940.39 1367.47 942.83 1372.09 875.84)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 5,0:03:00.83,0:03:00.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1379.27 877.94 l 1438.44 877.94 1438.44 936.34 1379.27 936.34)}Çivi çiviyi söker
+Dialogue: 5,0:03:00.83,0:03:00.87,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\blur0.5\pos(1246.73,904.02)\iclip(m 1379.27 877.94 l 1438.44 877.94 1438.44 936.34 1379.27 936.34)\c&HFEFEFF&}Çivi çiviyi söker
+Dialogue: 5,0:03:00.87,0:03:00.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HF3FC60&\blur0.5\pos(1246.73,904.02)\clip(m 1457.52 890.39 l 1474.65 890.39 1474.65 908.69 1456.35 908.69)}Çivi çiviyi söker
+Dialogue: 5,0:03:00.87,0:03:00.91,Vuatsigns,,0,0,0,,{\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)\iclip(m 1457.52 890.39 l 1474.65 890.39 1474.65 908.69 1456.35 908.69)}Çivi çiviyi söker
+Dialogue: 5,0:03:00.91,0:03:03.62,Vuatsigns,,0,0,0,,{\fad(0,550)\fnBahnschrift Semibold\fs62\fsp5\c&HFEFEFF&\blur0.5\pos(1246.73,904.02)}Çivi çiviyi söker
+Comment: 0,0:22:24.90,0:22:26.90,Vuatsigns,,0,0,0,,
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur1\fnA-OTF Outai Kaisho Std Light TR\c&H36352E&\fax0.075127\fscx82.85\fscy125.52\frz0.0019\frx-3.6501\fry-0.0082\org(623,204.33)\pos(613.53,210.89)\xshad1.5\1a&HFE\4c&H8DBFBA&}Gökağacı Saldırı Operasyonu
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur1\fnA-OTF Outai Kaisho Std Light TR\c&H36352E&\fax0.075127\fscx82.85\fscy125.52\frz0.0019\frx-3.6501\fry-0.0082\org(623,204.33)\pos(613.53,210.89)\xshad-1.5\1a&HFE\4c&H8E3E3B&}Gökağacı Saldırı Operasyonu
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur1\fnA-OTF Outai Kaisho Std Light TR\c&H36352E&\fax0.075127\fscx82.85\fscy125.52\frz0.0019\frx-3.6501\fry-0.0082\org(623,204.33)\pos(613.53,210.89)\b0}Gökağacı Saldırı Operasyonu
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur1\fnA-OTF Outai Kaisho Std Light TR\c&H36352E&\fax0.075127\fscx82.85\fscy125.52\frz0.0019\frx-3.6501\fry-0.0082\org(623,204.33)\pos(1292,215)\xshad1.5\1a&HFE\4c&H8DBFBA&}Takım Ayrımı
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur1\fnA-OTF Outai Kaisho Std Light TR\c&H36352E&\fax0.075127\fscx82.85\fscy125.52\frz0.0019\frx-3.6501\fry-0.0082\org(623,204.33)\pos(1292,215)\xshad-1.5\1a&HFE\4c&H8E3E3B&}Takım Ayrımı
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur1\fnA-OTF Outai Kaisho Std Light TR\c&H36352E&\fax0.075127\fscx82.85\fscy125.52\frz0.0019\frx-3.6501\fry-0.0082\org(623,204.33)\pos(1292,215)\b0}Takım Ayrımı
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur0.8\fnA-OTF Outai Kaisho Std Light TR\c&H222222&\fax-0.111213\fscx26.12\fscy35.33\frz-0.0102\frx-4.1514\fry-0.0090\org(1224,798)\pos(1224.55,792.79)\xshad1.5\yshad1.5\4c&HC8C68B&\1a&HFE&\4a&H00&}Çisato Nişikigi
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur0.8\fnA-OTF Outai Kaisho Std Light TR\c&H222222&\fax-0.111213\fscx26.12\fscy35.33\frz-0.0102\frx-4.1514\fry-0.0090\org(1224,798)\pos(1224.55,792.79)\xshad-1\yshad-1\4c&H554BA5&\1a&HFE&\4a&H2E&}Çisato Nişikigi
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur0.8\fnA-OTF Outai Kaisho Std Light TR\c&H36352E&\fax-0.111213\fscx26.12\fscy35.33\frz-0.0102\frx-4.1514\fry-0.0090\org(1224,798)\pos(1224.55,792.79)}Çisato Nişikigi
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur0.8\fnA-OTF Outai Kaisho Std Light TR\c&H222222&\fax-0.080427\fscx36.15\fscy35.36\frz-0.0099\frx-4.1510\fry-0.0086\org(1224,798)\xshad1\4c&H8DBFBA&\1a&HFE&\4a&H00&\pos(521.93,583.46)}Takina İnove
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur0.8\fnA-OTF Outai Kaisho Std Light TR\c&H222222&\fax-0.080427\fscx36.15\fscy35.36\frz-0.0099\frx-4.1510\fry-0.0086\org(1224,798)\xshad-1\4c&H8E3E3B&\1a&HFE&\4a&H00&\pos(521.93,583.46)}Takina İnove
+Dialogue: 0,0:00:19.83,0:00:22.29,Vuatsigns,,0,0,0,,{\blur0.8\fnA-OTF Outai Kaisho Std Light TR\c&H4B4A4A&\fax-0.080427\fscx36.15\fscy35.36\frz-0.0099\frx-4.1510\fry-0.0086\org(1224,798)\pos(521.93,583.46)}Takina İnove
+Dialogue: 0,0:00:22.29,0:00:23.75,Vuatsigns,,0,0,0,,{\an7\blur1\fnA-OTF Outai Kaisho Std Light TR\c&H2A231E&\fscx143\fscy136\pos(889.27,361.76)}Çisato Nişikigi
+Dialogue: 0,0:05:17.42,0:05:18.13,Vuatsigns,,0,0,0,,{\c&HD5D4D4&\fnEurostile Round\fsp1\blur0.7\fax0.311820\fscx96.24\fscy82.66\frz-23.1316\frx2.6179\fry6.7155\org(1072,961.33)\pos(1054.55,808.95)}KALKIŞ ASKIYA ALINDI
+Dialogue: 0,0:05:17.42,0:05:18.13,Vuatsigns,,0,0,0,,{\c&HD5D4D4&\fnEurostile Round\fsp1\blur0.7\fax0.311820\fscx96.24\fscy82.66\frz-23.1316\frx2.6179\fry6.7155\org(1072,961.33)\pos(1116.95,984.95)}KALKIŞ ASKIYA ALINDI
+Dialogue: 0,0:05:17.42,0:05:18.13,Vuatsigns,,0,0,0,,{\c&HD5D4D4&\fnEurostile Round\fsp1\blur0.7\fax0.311820\fscx96.24\fscy82.66\frz-23.1316\frx2.6179\fry6.7155\org(1072,961.33)\pos(987.35,634.55)}KALKIŞ ASKIYA ALINDI
+Dialogue: 0,0:05:17.42,0:05:18.13,Vuatsigns,,0,0,0,,{\c&HD5D4D4&\fnEurostile Round\fsp1\blur0.7\fax0.311820\fscx96.24\fscy82.66\frz-23.1316\frx2.6179\fry6.7155\org(1072,961.33)\pos(926.55,461.75)}KALKIŞ ASKIYA ALINDI
+Dialogue: 0,0:05:17.42,0:05:18.13,Vuatsigns,,0,0,0,,{\c&HD5D4D4&\fnEurostile Round\fsp1\blur0.7\fax0.311820\fscx96.24\fscy82.66\frz-23.1316\frx2.6179\fry6.7155\org(1072,961.33)\pos(860.95,287.35)}KALKIŞ ASKIYA ALINDI
+Dialogue: 0,0:05:17.42,0:05:18.13,Vuatsigns,,0,0,0,,{\c&HD5D4D4&\fnEurostile Round\fsp1\blur0.7\fax0.311820\fscx96.24\fscy82.66\frx2.6179\fry6.7155\org(1072,961.33)\frz338.3\pos(825.75,109.75)}KALKIŞ ASKIYA ALINDI
+Dialogue: 0,0:05:17.42,0:05:18.13,Vuatsigns,,0,0,0,,{\c&HD5D4D4&\fnEurostile Round\fsp1\blur0.7\fax0.311820\fscx96.24\fscy82.66\frx2.6179\fry6.7155\org(1072,961.33)\frz338.3\pos(771.75,-64.25)}KALKIŞ ASKIYA ALINDI
+Dialogue: 0,0:05:17.42,0:05:18.13,Vuatsigns,,0,0,0,,{\c&HD5D4D4&\fnEurostile Round\fsp1\blur0.7\fax0.311820\fscx96.24\fscy82.66\frx2.6179\fry6.7155\org(1072,961.33)\frz338.3\pos(718.75,-239.05)}KALKIŞ ASKIYA ALINDI
+Dialogue: 0,0:15:28.28,0:15:31.49,Vuatsigns,,0,0,0,,{\an2\shad0\fs85\bord0\blur0.6\fnNunito\c&H483D30&\pos(969,482.33)}BUGÜN KAPALIYIZ
+Dialogue: 0,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(960,507.57)\p1\c&H3F28EA&\clip(m 107.03 789.99 l 106.86 971.46 1814.77 971.47 1815.48 792.05)}m -959 285 l 961 284 961 504 -960 504
+Dialogue: 9,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.6\fnSerangkaian Pattern\b0\fs40\c&H1A1A1A&\1a&HCD&\fscx76\fscy79\frz270\pos(170.79,806.95)\clip(m 107.03 789.99 l 106.86 971.46 1814.77 971.47 1815.48 792.05)}S\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS
+Dialogue: 9,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.6\fnSerangkaian Pattern\b0\fs40\c&H1A1A1A&\1a&HCD&\fscx76\fscy79\frz270\pos(170.79,837.54)\clip(m 107.03 789.99 l 106.86 971.46 1814.77 971.47 1815.48 792.05)}S\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS
+Dialogue: 9,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.6\fnSerangkaian Pattern\b0\fs40\c&H1A1A1A&\1a&HCD&\fscx76\fscy79\frz270\pos(170.79,868.22)\clip(m 107.03 789.99 l 106.86 971.46 1814.77 971.47 1815.48 792.05)}S\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS
+Dialogue: 9,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.6\fnSerangkaian Pattern\b0\fs40\c&H1A1A1A&\1a&HCD&\fscx76\fscy79\frz270\pos(170.79,898.49)\clip(m 107.03 789.99 l 106.86 971.46 1814.77 971.47 1815.48 792.05)}S\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS
+Dialogue: 9,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.6\fnSerangkaian Pattern\b0\fs40\c&H1A1A1A&\1a&HCD&\fscx76\fscy79\frz270\pos(170.79,928.76)\clip(m 107.03 789.99 l 106.86 971.46 1814.77 971.47 1815.48 792.05)}S\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS
+Dialogue: 9,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.6\fnSerangkaian Pattern\b0\fs40\c&H1A1A1A&\1a&HCD&\fscx76\fscy79\frz270\pos(170.79,958.76)\clip(m 107.03 789.99 l 106.86 971.46 1814.77 971.47 1815.48 792.05)}S\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS\NS
+Dialogue: 8,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur1.2\4c&H6B5EC9&\fs85\xshad1\yshad0.66\fnEncode Sans Condensed\pos(962,883)\c&HEBEAFF&}KULE İÇİNDE SİLAHLI ÇATIŞMA
+Dialogue: 7,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.8\4c&H6B5EC9&\fs85\xshad2\yshad1.33\fnEncode Sans Condensed\pos(962,883)\c&HEBEAFF&\3a&HFF&\1a&HFE&}KULE İÇİNDE SİLAHLI ÇATIŞMA
+Dialogue: 6,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.8\4c&H6B5EC9&\fs85\xshad3\yshad2\fnEncode Sans Condensed\pos(962,883)\c&HEBEAFF&\3a&HFF&\1a&HFE&}KULE İÇİNDE SİLAHLI ÇATIŞMA
+Dialogue: 5,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.8\4c&H6B5EC9&\fs85\xshad4\yshad2.66\fnEncode Sans Condensed\pos(962,883)\c&HEBEAFF&\3a&HFF&\1a&HFE&}KULE İÇİNDE SİLAHLI ÇATIŞMA
+Dialogue: 4,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.8\4c&H6B5EC9&\fs85\xshad5\yshad3.33\fnEncode Sans Condensed\pos(962,883)\c&HEBEAFF&\3a&HFF&\1a&HFE&}KULE İÇİNDE SİLAHLI ÇATIŞMA
+Dialogue: 3,0:19:34.57,0:19:41.66,Vuatsigns,,0,0,0,,{\blur0.8\4c&H6B5EC9&\fs85\xshad6\yshad4\fnEncode Sans Condensed\pos(962,883)\c&HEBEAFF&\3a&HFF&\1a&HFE&}KULE İÇİNDE SİLAHLI ÇATIŞMA
