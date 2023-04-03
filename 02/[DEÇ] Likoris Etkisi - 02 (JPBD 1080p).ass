@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 Title: Dantel Entel
 ScriptType: v4.00+
 ScaledBorderAndShadow: yes
@@ -8,7 +8,7 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
 Style: Default,Amazon Ember,68,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,180,180,50,0
 Style: Vuatsigns,Arial,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
 Style: OP-ROM,Eurostile Round,60,&H00D9DAF8,&H00A79EE9,&H4B6158BE,&H004F59BA,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,28,1
@@ -16,7 +16,7 @@ Style: OP-ROM9,Eurostile Round,60,&H00D9DAF8,&H00B1B481,&H4B809845,&H00809845,0,
 Style: OP-TR,Eurostile Round,60,&H00D9DAF8,&H00D9DAF8,&H4B6158BE,&H004F59BA,0,0,0,0,100,100,0,0,1,2.5,0,1,30,30,32,1
 Style: OP-TR9,Eurostile Round,60,&H00D9DAF8,&H00D9DAF8,&H4B809845,&H00809845,0,0,0,0,100,100,0,0,1,1.5,0,1,30,30,32,1
 Style: ED,Eurostile Round,57,&H007C56D2,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1.5,2,7,28,10,10,1
-
+ 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: MaRCa}{Çeviri Editörü: Einherjar}{Redaksiyon: Vuats}{Yazı Dizimi: Vuats}{Başlangıç Şarkısı: Vuats}{Kapanış Şarkısı: Einherjar}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
@@ -410,13 +410,13 @@ Dialogue: 15,0:22:33.70,0:22:36.58,Default,,0,0,0,,Çık hadi şuradan. Birlikte
 Dialogue: 15,0:22:36.67,0:22:37.63,Default,,0,0,0,,Sen de gel, Takina!
 Dialogue: 15,0:22:37.96,0:22:39.88,Default,,0,0,0,,A-Ah! Acıdı!
 Comment: 0,0:01:07.71,0:01:09.25,Vuatsigns,,0,0,0,,{acil durum}
-Dialogue: 1,0:01:07.71,0:01:07.76,Vuatsigns,,0,0,0,,{\pos(570.93,588.95)\frz50.72\fnFOT-NewRodin Pro Str TR\fs61\c&H646463&\4a&HFF&\blur3}Yeni
-Dialogue: 1,0:01:07.76,0:01:07.80,Vuatsigns,,0,0,0,,{\pos(546.34,590)\frz16\fnFOT-NewRodin Pro Str TR\fs28\c&H646463&\4a&HFF&\blur1.8}Yeni
-Dialogue: 1,0:01:07.80,0:01:07.84,Vuatsigns,,0,0,0,,{\pos(541,594.56)\frz1.265\fnFOT-NewRodin Pro Str TR\fs30\c&H646463&\4a&HFF&\blur0.6}Yeni
-Dialogue: 1,0:01:07.84,0:01:09.25,Vuatsigns,,0,0,0,,{\pos(541,594.56)\fnFOT-NewRodin Pro Str TR\fs31\c&H6F6D71&\4a&HFF&\blur0.5}Yeni
-Dialogue: 1,0:01:07.88,0:01:07.92,Vuatsigns,,0,0,0,,{\pos(952.6,576.6)\fnFOT-NewRodin Pro Str TR\fs65\fsp1\c&H666669&\4a&HFF&\blur0.6}Acil Durum : {\alpha&HF0&}Cev{\alpha&HFF&}iz'den
-Dialogue: 1,0:01:07.92,0:01:07.96,Vuatsigns,,0,0,0,,{\pos(952.6,576.6)\fnFOT-NewRodin Pro Str TR\fs65\fsp1\c&H666669&\4a&HFF&\blur0.6}Acil Durum : Ceviz{\alpha&HF0&}'den
-Dialogue: 1,0:01:07.96,0:01:09.25,Vuatsigns,,0,0,0,,{\pos(952.6,576.6)\fnFOT-NewRodin Pro Str TR\fs65\fsp1\c&H666669&\4a&HFF&\blur0.6}Acil Durum : Ceviz'den
+Dialogue: 1,0:01:07.71,0:01:07.76,Vuatsigns,,0,0,0,,{\pos(570.93,588.95)\frz50.72\fnFOT-NewRodin Pro DB\fs61\c&H646463&\4a&HFF&\blur3}Yeni
+Dialogue: 1,0:01:07.76,0:01:07.80,Vuatsigns,,0,0,0,,{\pos(546.34,590)\frz16\fnFOT-NewRodin Pro DB\fs28\c&H646463&\4a&HFF&\blur1.8}Yeni
+Dialogue: 1,0:01:07.80,0:01:07.84,Vuatsigns,,0,0,0,,{\pos(541,594.56)\frz1.265\fnFOT-NewRodin Pro DB\fs30\c&H646463&\4a&HFF&\blur0.6}Yeni
+Dialogue: 1,0:01:07.84,0:01:09.25,Vuatsigns,,0,0,0,,{\pos(541,594.56)\fnFOT-NewRodin Pro DB\fs31\c&H6F6D71&\4a&HFF&\blur0.5}Yeni
+Dialogue: 1,0:01:07.88,0:01:07.92,Vuatsigns,,0,0,0,,{\pos(952.6,576.6)\fnFOT-NewRodin Pro DB\fs65\fsp1\c&H666669&\4a&HFF&\blur0.6}Acil Durum : {\alpha&HF0&}Cev{\alpha&HFF&}iz'den
+Dialogue: 1,0:01:07.92,0:01:07.96,Vuatsigns,,0,0,0,,{\pos(952.6,576.6)\fnFOT-NewRodin Pro DB\fs65\fsp1\c&H666669&\4a&HFF&\blur0.6}Acil Durum : Ceviz{\alpha&HF0&}'den
+Dialogue: 1,0:01:07.96,0:01:09.25,Vuatsigns,,0,0,0,,{\pos(952.6,576.6)\fnFOT-NewRodin Pro DB\fs65\fsp1\c&H666669&\4a&HFF&\blur0.6}Acil Durum : Ceviz'den
 Comment: 3,0:02:43.52,0:02:43.56,Vuatsigns,,0,0,0,,{title}
 Dialogue: 3,0:02:43.52,0:02:43.56,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}N{\alpha&HFF&}erede çokluk orada neşe
 Dialogue: 3,0:02:43.56,0:02:43.60,Vuatsigns,,0,0,0,,{\pos(1426.67,908.67)\fnBahnschrift Semibold\fsp5\bord1\xshad1.5\2a&HFF&\blur2.5\1a&HFE}Ne{\alpha&HFF&}rede çokluk orada neşe

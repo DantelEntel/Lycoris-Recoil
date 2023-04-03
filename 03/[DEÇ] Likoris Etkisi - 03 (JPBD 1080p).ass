@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 Title: Dantel Entel
 ScriptType: v4.00+
 ScaledBorderAndShadow: yes
@@ -8,7 +8,7 @@ WrapStyle: 0
 YCbCr Matrix: TV.709
 
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding 
 Style: Default,Amazon Ember,68,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,180,180,50,0
 Style: Vuatsigns,Arial,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
 Style: OP-ROM,Eurostile Round,60,&H00D9DAF8,&H00A79EE9,&H4B6158BE,&H004F59BA,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,28,1
@@ -16,7 +16,7 @@ Style: OP-ROM9,Eurostile Round,60,&H00D9DAF8,&H00B1B481,&H4B809845,&H00809845,0,
 Style: OP-TR,Eurostile Round,60,&H00D9DAF8,&H00D9DAF8,&H4B6158BE,&H004F59BA,0,0,0,0,100,100,0,0,1,2.5,0,1,30,30,32,1
 Style: OP-TR9,Eurostile Round,60,&H00D9DAF8,&H00D9DAF8,&H4B809845,&H00809845,0,0,0,0,100,100,0,0,1,1.5,0,1,30,30,32,1
 Style: ED,Eurostile Round,57,&H007C56D2,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,1.5,2,7,28,10,10,1
-
+ 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: MaRCa}{Çeviri Editörü: Einherjar}{Redaksiyon: Vuats}{Yazı Dizimi: Vuats}{Başlangıç Şarkısı: Vuats}{Kapanış Şarkısı: Einherjar}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
@@ -38,8 +38,8 @@ Dialogue: 15,0:02:22.87,0:02:25.96,Default,,0,0,0,,AA İstihbarat Birimi'ne anal
 Dialogue: 15,0:02:25.96,0:02:29.92,Default,,0,0,0,,Yüzünü tam belirleyemesek bile \Nfiziğinden güzel ipuçları elde edebiliriz.
 Dialogue: 15,0:02:32.09,0:02:32.88,Default,,0,0,0,,Ne...
 Dialogue: 15,0:02:33.17,0:02:34.34,Default,,0,0,0,,N-Ne...
-Dialogue: 15,0:02:34.68,0:02:38.35,Default,,0,0,0,,AA'ın elinden gelen bu kadar mıymış yani?
-Dialogue: 15,0:02:38.51,0:02:41.56,Default,,0,0,0,,Mizuki! Bununla AA'ın önüne geçebiliriz!
+Dialogue: 15,0:02:34.68,0:02:38.35,Default,,0,0,0,,AA'nın elinden gelen bu kadar mıymış yani?
+Dialogue: 15,0:02:38.51,0:02:41.56,Default,,0,0,0,,Mizuki! Bununla AA'nın önüne geçebiliriz!
 Dialogue: 15,0:02:41.72,0:02:43.35,Default,,0,0,0,,Dur, n'oldu Mizuki?
 Dialogue: 15,0:02:43.56,0:02:45.02,Default,,0,0,0,,Yok bi' şey!
 Dialogue: 15,0:02:45.40,0:02:47.02,Default,,0,0,0,,Neye sinirlendi ki?
@@ -166,7 +166,7 @@ Dialogue: 15,0:08:37.54,0:08:39.54,Default,,0,0,0,,Uzun zaman oldu, Çisato.
 Dialogue: 15,0:08:40.71,0:08:42.25,Default,,0,0,0,,Selam!
 Dialogue: 15,0:08:42.25,0:08:44.67,Default,,0,0,0,,Bir Likoris olarak görevlerini \Nyerine getirmesen de...
 Dialogue: 15,0:08:44.67,0:08:46.80,Default,,0,0,0,,...lisansın ayrıcalıklarını istiyorsun, öyle mi?
-Dialogue: 15,0:08:47.21,0:08:50.18,Default,,0,0,0,,AA'ın işlerini de arada bi' yapıyoruz ya.
+Dialogue: 15,0:08:47.21,0:08:50.18,Default,,0,0,0,,AA'nın işlerini de arada bi' yapıyoruz ya.
 Dialogue: 15,0:08:50.18,0:08:52.43,Default,,0,0,0,,Çisato, komutanın karşısındasın!
 Dialogue: 15,0:08:52.43,0:08:53.26,Default,,0,0,0,,Takina'yı...
 Dialogue: 15,0:08:53.64,0:08:55.51,Default,,0,0,0,,...neden kovdunuz?
@@ -268,7 +268,7 @@ Dialogue: 15,0:13:29.29,0:13:31.79,Default,,0,0,0,,Ama bu benden alındı!
 Dialogue: 15,0:13:31.79,0:13:33.38,Default,,0,0,0,,Nasıl böyle oldu...
 Dialogue: 15,0:13:37.96,0:13:42.05,Default,,0,0,0,,Şehirde de sana ihtiyacı olan tonla insan var.
 Dialogue: 15,0:13:42.05,0:13:43.47,Default,,0,0,0,,Yalnızca burayı düşünme.
-Dialogue: 15,0:13:43.59,0:13:46.43,Default,,0,0,0,,Tuzun kuru tabii! \NAA'ın sana hala ihtiyacı var!
+Dialogue: 15,0:13:43.59,0:13:46.43,Default,,0,0,0,,Tuzun kuru tabii! \NAA'nın sana hala ihtiyacı var!
 Dialogue: 15,0:13:46.64,0:13:48.06,Default,,0,0,0,,Ama benim...
 Dialogue: 15,0:13:48.97,0:13:50.93,Default,,0,0,0,,Ait olduğum yer...
 Dialogue: 15,0:13:52.27,0:13:54.19,Default,,0,0,0,,...artık burası değil.
@@ -1233,65 +1233,65 @@ Dialogue: 0,0:05:33.90,0:05:36.61,Vuatsigns,,0,0,0,,{=26=64}{\pos(1529.83,612.52
 Dialogue: 0,0:05:33.90,0:05:36.61,Vuatsigns,,0,0,0,,{=37}{\pos(1531.77,641.63)\org(1570.68,663.5)\fscx69.63\fscy106.17\frz0.144\fry8.937\frx-3.316\fax0.004\fnBahnschrift Semibold\fs24\c&H5A5980&\blur0.6}GİRİŞ YASAKTIR
 Dialogue: 0,0:05:36.61,0:05:37.98,Vuatsigns,,0,0,0,,{=17}{\pos(1391.98,833.01)\org(1486.8,811.2)\fscx68.41\fscy133.36\frz-0.668\fry2.876\frx-0.372\fax0.007\fnBahnschrift Semibold\c&H3A3B37&\blur1}DEVLET ARAZİSİDİR
 Dialogue: 0,0:05:36.61,0:05:37.98,Vuatsigns,,0,0,0,,{=63=65}{\pos(1387.66,931.2)\org(1444.8,1049.6)\fscx89.42\fscy164.91\frz0.128\fry1.253\frx0.12\fax-0.006\fnBahnschrift Semibold\c&H454779&\blur1}GİRİŞ YASAKTIR
-Dialogue: 1,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{=57}{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H20&\blur4}Likoris:
-Dialogue: 1,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H20&\blur4}Likoris:
-Dialogue: 2,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\blur0.6}Likoris:
-Dialogue: 1,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H20&\blur4}Çisato Nişikigi
-Dialogue: 1,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H20&\blur4}Çisato Nişikigi
-Dialogue: 2,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.6}Çisato Nişikigi
-Dialogue: 1,0:05:57.13,0:05:57.17,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H80&\blur3}Likoris:
-Dialogue: 2,0:05:57.13,0:05:57.17,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\blur0.6}Likoris:
-Dialogue: 1,0:05:57.13,0:05:57.17,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur3}Çisato Nişikigi
-Dialogue: 2,0:05:57.13,0:05:57.17,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.6}Çisato Nişikigi
-Dialogue: 1,0:05:57.21,0:05:57.25,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H80&\blur3}Likoris:
-Dialogue: 2,0:05:57.21,0:05:57.46,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\blur0.6}Likoris:
-Dialogue: 1,0:05:57.21,0:05:57.25,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur3}Çisato Nişikigi
-Dialogue: 2,0:05:57.21,0:05:57.25,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.6}Çisato Nişikigi
-Dialogue: 1,0:05:57.25,0:05:57.30,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H20&\blur3}Likoris:
-Dialogue: 1,0:05:57.25,0:05:57.30,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H20&\blur3}Çisato Nişikigi
-Dialogue: 1,0:05:57.25,0:05:57.34,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H80&\blur3}Likoris:
-Dialogue: 1,0:05:57.25,0:05:57.34,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur3}Çisato Nişikigi
-Dialogue: 2,0:05:57.25,0:05:57.30,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.6}Çisato Nişikigi
-Dialogue: 2,0:05:57.30,0:05:57.34,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.6}Çisato Nişikigi
-Dialogue: 1,0:05:57.34,0:05:57.38,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H20&\blur3}Likoris:
-Dialogue: 1,0:05:57.34,0:05:57.38,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H20&\blur3}Çisato Nişikigi
-Dialogue: 1,0:05:57.42,0:05:57.55,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H20&\blur3}Likoris:
-Dialogue: 1,0:05:57.42,0:05:57.55,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H20&\blur3}Çisato Nişikigi
-Dialogue: 1,0:05:57.34,0:05:57.46,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H80&\blur3}Likoris:
-Dialogue: 1,0:05:57.34,0:05:57.46,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur3}Çisato Nişikigi
-Dialogue: 2,0:05:57.34,0:05:57.46,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.6}Çisato Nişikigi
-Dialogue: 1,0:05:57.46,0:05:57.50,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H80&\blur3}Likoris:
-Dialogue: 2,0:05:57.46,0:05:57.75,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\blur0.8}Likoris:
-Dialogue: 1,0:05:57.46,0:05:57.50,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur3}Çisato Nişikigi
-Dialogue: 2,0:05:57.46,0:05:57.75,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.8}Çisato Nişikigi
-Dialogue: 1,0:05:57.50,0:05:57.75,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H20&\blur3}Likoris:
-Dialogue: 1,0:05:57.50,0:05:57.75,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H20&\blur3}Çisato Nişikigi
-Dialogue: 1,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H20&\blur3}Likoris:
-Dialogue: 1,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H20&\blur3}Takina İnove
-Dialogue: 1,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H80&\blur3}Likoris:
-Dialogue: 2,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\blur0.6}Likoris:
-Dialogue: 1,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur3}Takina İnove
-Dialogue: 2,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.6}Takina İnove
-Dialogue: 1,0:05:58.59,0:05:58.63,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H80&\blur3}Likoris:
-Dialogue: 2,0:05:58.59,0:05:58.63,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\blur0.6}Likoris:
-Dialogue: 1,0:05:58.59,0:05:58.63,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur3}Takina İnove
-Dialogue: 2,0:05:58.59,0:05:58.63,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.6}Takina İnove
-Dialogue: 1,0:05:58.67,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H80&\blur3}Likoris:
-Dialogue: 2,0:05:58.67,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\blur0.6}Likoris:
-Dialogue: 1,0:05:58.67,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur3}Takina İnove
-Dialogue: 2,0:05:58.67,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.6}Takina İnove
-Dialogue: 1,0:05:58.92,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H80&\blur3}Likoris:
-Dialogue: 1,0:05:58.92,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur3}Takina İnove
-Dialogue: 1,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H20&\blur5}Likoris:
-Dialogue: 1,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur5}Takina İnove
-Dialogue: 1,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H20&\blur5}Likoris:
-Dialogue: 2,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\blur1}Likoris:
-Dialogue: 1,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur5}Takina İnove
-Dialogue: 2,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur1}Takina İnove
-Dialogue: 1,0:05:59.01,0:05:59.21,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\alpha&H80&\blur3}Likoris:
-Dialogue: 2,0:05:59.01,0:05:59.21,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\fsp1\blur0.6}Likoris:
-Dialogue: 1,0:05:59.01,0:05:59.21,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\alpha&H80&\blur3}Takina İnove
-Dialogue: 2,0:05:59.01,0:05:59.21,Vuatsigns,,0,0,0,,{=58}{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro Str TR\fs20\b0\blur0.6}Takina İnove
+Dialogue: 1,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{=57}{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H20&\blur4}Likoris:
+Dialogue: 1,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H20&\blur4}Likoris:
+Dialogue: 2,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\blur0.6}Likoris:
+Dialogue: 1,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H20&\blur4}Çisato Nişikigi
+Dialogue: 1,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H20&\blur4}Çisato Nişikigi
+Dialogue: 2,0:05:57.04,0:05:57.09,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.6}Çisato Nişikigi
+Dialogue: 1,0:05:57.13,0:05:57.17,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H80&\blur3}Likoris:
+Dialogue: 2,0:05:57.13,0:05:57.17,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\blur0.6}Likoris:
+Dialogue: 1,0:05:57.13,0:05:57.17,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur3}Çisato Nişikigi
+Dialogue: 2,0:05:57.13,0:05:57.17,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.6}Çisato Nişikigi
+Dialogue: 1,0:05:57.21,0:05:57.25,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H80&\blur3}Likoris:
+Dialogue: 2,0:05:57.21,0:05:57.46,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\blur0.6}Likoris:
+Dialogue: 1,0:05:57.21,0:05:57.25,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur3}Çisato Nişikigi
+Dialogue: 2,0:05:57.21,0:05:57.25,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.6}Çisato Nişikigi
+Dialogue: 1,0:05:57.25,0:05:57.30,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H20&\blur3}Likoris:
+Dialogue: 1,0:05:57.25,0:05:57.30,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H20&\blur3}Çisato Nişikigi
+Dialogue: 1,0:05:57.25,0:05:57.34,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H80&\blur3}Likoris:
+Dialogue: 1,0:05:57.25,0:05:57.34,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur3}Çisato Nişikigi
+Dialogue: 2,0:05:57.25,0:05:57.30,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.6}Çisato Nişikigi
+Dialogue: 2,0:05:57.30,0:05:57.34,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.6}Çisato Nişikigi
+Dialogue: 1,0:05:57.34,0:05:57.38,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H20&\blur3}Likoris:
+Dialogue: 1,0:05:57.34,0:05:57.38,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H20&\blur3}Çisato Nişikigi
+Dialogue: 1,0:05:57.42,0:05:57.55,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H20&\blur3}Likoris:
+Dialogue: 1,0:05:57.42,0:05:57.55,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H20&\blur3}Çisato Nişikigi
+Dialogue: 1,0:05:57.34,0:05:57.46,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H80&\blur3}Likoris:
+Dialogue: 1,0:05:57.34,0:05:57.46,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur3}Çisato Nişikigi
+Dialogue: 2,0:05:57.34,0:05:57.46,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.6}Çisato Nişikigi
+Dialogue: 1,0:05:57.46,0:05:57.50,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H80&\blur3}Likoris:
+Dialogue: 2,0:05:57.46,0:05:57.75,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\blur0.8}Likoris:
+Dialogue: 1,0:05:57.46,0:05:57.50,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur3}Çisato Nişikigi
+Dialogue: 2,0:05:57.46,0:05:57.75,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.8}Çisato Nişikigi
+Dialogue: 1,0:05:57.50,0:05:57.75,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.93\fry-9.51\frx-1.01\fax0.11\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H20&\blur3}Likoris:
+Dialogue: 1,0:05:57.50,0:05:57.75,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H20&\blur3}Çisato Nişikigi
+Dialogue: 1,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H20&\blur3}Likoris:
+Dialogue: 1,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H20&\blur3}Takina İnove
+Dialogue: 1,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H80&\blur3}Likoris:
+Dialogue: 2,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\blur0.6}Likoris:
+Dialogue: 1,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur3}Takina İnove
+Dialogue: 2,0:05:58.50,0:05:58.55,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.6}Takina İnove
+Dialogue: 1,0:05:58.59,0:05:58.63,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H80&\blur3}Likoris:
+Dialogue: 2,0:05:58.59,0:05:58.63,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\blur0.6}Likoris:
+Dialogue: 1,0:05:58.59,0:05:58.63,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur3}Takina İnove
+Dialogue: 2,0:05:58.59,0:05:58.63,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.6}Takina İnove
+Dialogue: 1,0:05:58.67,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H80&\blur3}Likoris:
+Dialogue: 2,0:05:58.67,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\blur0.6}Likoris:
+Dialogue: 1,0:05:58.67,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur3}Takina İnove
+Dialogue: 2,0:05:58.67,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.6}Takina İnove
+Dialogue: 1,0:05:58.92,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H80&\blur3}Likoris:
+Dialogue: 1,0:05:58.92,0:05:58.96,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur3}Takina İnove
+Dialogue: 1,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H20&\blur5}Likoris:
+Dialogue: 1,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur5}Takina İnove
+Dialogue: 1,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H20&\blur5}Likoris:
+Dialogue: 2,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\blur1}Likoris:
+Dialogue: 1,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur5}Takina İnove
+Dialogue: 2,0:05:58.96,0:05:59.01,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur1}Takina İnove
+Dialogue: 1,0:05:59.01,0:05:59.21,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\alpha&H80&\blur3}Likoris:
+Dialogue: 2,0:05:59.01,0:05:59.21,Vuatsigns,,0,0,0,,{\pos(1575.89,838.53)\frz-7.78\fry-8.63\frx-0.61\fax0.13\fnFOT-NewRodin Pro DB\fs20\fsp1\blur0.6}Likoris:
+Dialogue: 1,0:05:59.01,0:05:59.21,Vuatsigns,,0,0,0,,{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\alpha&H80&\blur3}Takina İnove
+Dialogue: 2,0:05:59.01,0:05:59.21,Vuatsigns,,0,0,0,,{=58}{\pos(1686.14,854.3)\frz-7.84\fry-8.2\frx-0.58\fax0.13\fnFOT-NewRodin Pro DB\fs20\b0\blur0.6}Takina İnove
 Dialogue: 1,0:06:47.01,0:06:47.14,Vuatsigns,,0,0,0,,{=2=143}{\pos(1272.67,596)\frz-0.05\fry-0.19\frx-0.13\fnFOT-Slump Std DB\b0\xshad-2\yshad-2\c&HFEFEFE&\4c&HA2B3BA&\1a&HF0&\4a&HFF&\blur0.8}Soyunma Odası
 Dialogue: 1,0:06:47.13,0:06:47.21,Vuatsigns,,0,0,0,,{=2=142}{\pos(1303.07,588)\frz-0.05\fry-0.19\frx-0.13\fnFOT-Slump Std DB\fs72\b0\xshad-2\yshad-2\c&HFEFEFE&\4c&HA2B3BA&\1a&HF0&\4a&HFF&\blur0.8}Soyunma Odası
 Dialogue: 1,0:06:47.21,0:06:47.26,Vuatsigns,,0,0,0,,{=2=142}{\pos(1303.06,588.01)\frz-0.05\fry-0.19\frx-0.13\fnFOT-Slump Std DB\fs72\b0\xshad-2\yshad-2\c&HFEFEFE&\4c&HA2B3BA&\1a&HF0&\4a&HFF&\blur0.8}Soyunma Odası
