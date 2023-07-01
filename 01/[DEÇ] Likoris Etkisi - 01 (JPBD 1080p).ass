@@ -1,10 +1,9 @@
-[Script Info]
+﻿[Script Info]
 Title: Dantel Entel
 ScriptType: v4.00+
 ScaledBorderAndShadow: yes
 PlayResX: 1920
 PlayResY: 1080
-Timer: 0.0000
 WrapStyle: 0
 YCbCr Matrix: TV.709
 
@@ -16,12 +15,13 @@ Style: ED,Eurostile Round,57,&H007C56D2,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: MaRCa}{Çeviri Editörü: Einherjar}{Redaksiyon: Vuats}{Yazı Dizimi: Vuats}{Bitiş Şarkısı: Einherjar}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
 Dialogue: 15,0:00:01.65,0:00:03.19,Default,,0,0,0,,{\i1}İyi sabahlar dileriz.
-Dialogue: 15,0:00:03.19,0:00:05.90,Default,,0,0,0,,{\i1}Kiraz ağaçlarının Tokyo'yu \Nrenklendirdiği bir günde uyandık.
+Dialogue: 15,0:00:03.19,0:00:05.90,Default,,0,0,0,,{\i1}Kiraz ağaçlarının Tokyo'yu \Nrenklendirdiği bir güne uyandık.
 Dialogue: 15,0:00:06.19,0:00:11.03,Default,,0,0,0,,{\i1}Dün Tokyo'da sıcaklığın 23.7 derece ile\Nbu yılın en yüksek seviyesine ulaşmasıyla...
 Dialogue: 15,0:00:11.03,0:00:12.99,Default,,0,0,0,,{\i1}...Mayıs ayı mevsim normallerine döndü ve...
 Dialogue: 15,0:00:12.99,0:00:15.16,Default,,0,0,0,,{\i1}...Meteoroloji Ajansı dün öğlen saat 2 civarlarında...
-Dialogue: 15,0:00:15.16,0:00:18.03,Default,,0,0,0,,{\i1\move(960,1030,960,134,1315,1480)}...Tokyo'da kiraz çiçeklerinin açmaya başladığını duyurdu.
+Dialogue: 15,0:00:15.16,0:00:18.03,Default,,0,0,0,,{\i1\move(960,1030,960,134,1315,1480)}...Tokyo'da kiraz çiçeklerinin\Naçmaya başladığını duyurdu.
 Dialogue: 15,0:00:16.57,0:00:21.50,Default,,0,0,0,,{\pos(1320,1020)}Bugün hava sanki bi' harika kanki! \NTıpkı {\i1}ben{\i0} gibi!
 Dialogue: 15,0:00:19.24,0:00:20.66,Default,,0,0,0,,{\an8\i1}Sabah haberlerine geçelim.
 Dialogue: 15,0:00:20.66,0:00:22.62,Default,,0,0,0,,{\an8\i1}O acı olayın üzerinden on yıl geçti.
@@ -43,7 +43,7 @@ Dialogue: 15,0:01:11.21,0:01:13.55,Default,,0,0,0,,{\i1}Hatta var olmalarına bi
 Dialogue: 15,0:01:14.84,0:01:17.97,Default,,0,0,0,,{\i1}Kazıya kazıya temizler, güzelleştiririz.
 Dialogue: 15,0:01:18.51,0:01:20.55,Default,,0,0,0,,{\i1}Pirüpak olana kadar!
 Dialogue: 15,0:01:21.51,0:01:25.94,Default,,0,0,0,,{\i1}Barış, biz Japonların doğasında var.
-Dialogue: 15,0:01:26.60,0:01:29.27,Default,,0,0,0,,{\i1}Bu fikre sahip olabilmek en büyük mutluluk kaynağım.
+Dialogue: 15,0:01:26.60,0:01:29.27,Default,,0,0,0,,{\i1}Bu fikre sahip olabilmek\Nen büyük mutluluk kaynağım.
 Dialogue: 15,0:01:29.27,0:01:31.36,Default,,0,0,0,,{\i1}Bu fikrin var olmasını sağlayanlar da...
 Dialogue: 15,0:01:31.36,0:01:34.40,Default,,0,0,0,,{\i1}...biz Likoris'leriz! \NAşağı yukarı yani!
 Dialogue: 15,0:01:38.28,0:01:40.32,Default,,0,0,0,,{\an8}Bravo, Charlie ve Delta tamamlandı.
@@ -91,10 +91,10 @@ Dialogue: 15,0:03:56.75,0:03:59.09,Default,,0,0,0,,Atandığın yeni yerde de bi
 Dialogue: 15,0:03:59.46,0:04:01.22,Default,,0,0,0,,Arsız olsa da en iyi Likorislerden.
 Dialogue: 15,0:04:01.63,0:04:03.59,Default,,0,0,0,,Ondan öğrenebileceğin çok şey var.
 Dialogue: 15,0:04:04.22,0:04:07.51,Default,,0,0,0,,{\an8\i1}Mali sıkıntılar yaşayan Yamada'yı \Nkeşfedip ona destek sağlayan kişi...
-Dialogue: 15,0:04:07.51,0:04:12.10,Default,,0,0,0,,{\an8\i1}...günümüz dahilerine verdiği "anonim desteklerle" tanınan Alan Adams denen gizemli bir figür.
+Dialogue: 15,0:04:07.51,0:04:12.10,Default,,0,0,0,,{\an8\i1}...günümüz dahilerine verdiği "anonim desteklerle"\Ntanınan Alan Adams denen gizemli bir figür.
 Dialogue: 15,0:04:12.10,0:04:16.73,Default,,0,0,0,,{\an8\i1}Yani birinin iyi niyeti sayesinde \Nbu tarihi başarıya ulaştık.
 Dialogue: 15,0:04:17.02,0:04:20.82,Default,,0,0,0,,{\an8\i1}Dediğiniz gibi, yine birilerinin \Niyi niyeti sayesinde tarih yazıldı.
-Dialogue: 15,0:04:20.82,0:04:24.20,Default,,0,0,0,,{\an8\i1}Alan'ın desteğini alanların ortak özelliklerinden biri de bu uğur.
+Dialogue: 15,0:04:20.82,0:04:24.20,Default,,0,0,0,,{\an8\i1}Alan'ın desteğini alanların ortak\Nözelliklerinden biri de bu uğur.
 Dialogue: 15,0:04:25.16,0:04:28.24,Default,,0,0,0,,{\an8\i1}Sadece sporcular değil, \Naraştırmacılar ve sanatçılar da...
 Dialogue: 15,0:04:28.24,0:04:32.37,Default,,0,0,0,,{\an8\i1}...dünya çapında \NAlan'ın desteğini alanlar arasındalar.
 Dialogue: 15,0:04:30.74,0:04:36.71,Default,,0,0,0,,Ah bi' evlenmeden anne olunabilse de, \Ninsanlar dahi gibi dahi bir ana görse!
@@ -150,7 +150,7 @@ Dialogue: 15,0:06:33.91,0:06:34.83,Default,,0,0,0,,Hayır.
 Dialogue: 15,0:06:38.37,0:06:40.46,Default,,0,0,0,,Yumruklamak zorunda değildin!
 Dialogue: 15,0:06:40.46,0:06:41.96,Default,,0,0,0,,Hayal ettiğinden farklı mı?
 Dialogue: 15,0:06:42.29,0:06:44.63,Default,,0,0,0,,Hayır, hiç de...
-Dialogue: 15,0:06:42.29,0:06:47.17,Default,,0,0,0,,{\an8}Doğal olarak mı? Merkez aşağı merkez yukarı! Biraz da kendiniz düşünün be!
+Dialogue: 15,0:06:42.29,0:06:47.17,Default,,0,0,0,,{\an8}Doğal olarak mı? Merkez aşağı merkez yukarı!\NBiraz da kendiniz düşünün be!
 Dialogue: 15,0:06:47.59,0:06:49.01,Default,,0,0,0,,Sus be, aptal!
 Dialogue: 15,0:06:49.34,0:06:51.64,Default,,0,0,0,,Tamamdır, çalışma vakti Takina!
 Dialogue: 15,0:06:51.64,0:06:52.30,Default,,0,0,0,,Tamam!
@@ -192,7 +192,7 @@ Dialogue: 15,0:08:34.82,0:08:38.41,Default,,0,0,0,,Hayır, hepsi öldü. Makinel
 Dialogue: 15,0:08:40.62,0:08:42.16,Default,,0,0,0,,Tekrar arayacağım.
 Dialogue: 15,0:08:42.62,0:08:44.46,Default,,0,0,0,,Hackerın kimliğini bulduk.
 Dialogue: 15,0:08:44.46,0:08:45.71,Default,,0,0,0,,"Ceviz".
-Dialogue: 15,0:08:46.00,0:08:49.92,Default,,0,0,0,,İnternetin icadından beri varlığını sürdüren, Dark Web'in ünlü ağ cambazı.
+Dialogue: 15,0:08:46.00,0:08:49.92,Default,,0,0,0,,İnternetin icadından beri varlığını sürdüren,\NDark Web'in ünlü ağ cambazı.
 Dialogue: 15,0:08:50.63,0:08:51.80,Default,,0,0,0,,Yaşlı bir kurt demek.
 Dialogue: 15,0:08:51.80,0:08:54.88,Default,,0,0,0,,Bulup temizleyin. \NKayıp silahların yerini de öğrenin.
 Dialogue: 15,0:08:55.18,0:08:59.51,Default,,0,0,0,,Üst kademeler, hack olayının \Nşimdilik sır olarak kalmasını emretti.
@@ -244,7 +244,8 @@ Dialogue: 15,0:11:06.68,0:11:09.85,Default,,0,0,0,,Anaokulu, Japonca Dil Okulu, 
 Dialogue: 15,0:11:10.10,0:11:12.15,Default,,0,0,0,,Hiçbir ortak nokta göremiyorum!
 Dialogue: 15,0:11:12.52,0:11:16.19,Default,,0,0,0,,İşimiz zorda olanlara yardım etmek!
 Dialogue: 15,0:11:17.36,0:11:19.15,Default,,0,0,0,,Toplum için çalışan Likoris...
-Dialogue: 15,0:11:22.49,0:11:28.62,Default,,0,0,0,,Aynen. Kahve dağıtımına, dil öğretmenine, anaokuluna \Nyardım etmek... Hepsi insanları mutlu ediyor.
+Dialogue: 15,0:11:22.49,0:11:23.33,Default,,0,0,0,,Aynen.
+Dialogue: 15,0:11:23.64,0:11:28.62,Default,,0,0,0,,Kahve dağıtımına, dil öğretmenine \Nveya anaokuluna yardım etmek onları mutlu ediyor.
 Dialogue: 15,0:11:29.04,0:11:33.58,Default,,0,0,0,,Biz Likorisler ülkeyi koruyan resmi ve \Ngizli bir örgütün ajanları değil miyiz?
 Dialogue: 15,0:11:33.58,0:11:37.59,Default,,0,0,0,,Ooo, sen öyle deyince\N film gibi geldi kulağa. Çok havalı!
 Dialogue: 15,0:11:37.88,0:11:39.59,Default,,0,0,0,,Ama...
@@ -272,7 +273,7 @@ Dialogue: 15,0:12:57.79,0:12:59.04,Default,,0,0,0,,Neyse, buyurun.
 Dialogue: 15,0:12:59.75,0:13:02.21,Default,,0,0,0,,Sizden böyle bir şeyi istemek\N hiç doğru gelmiyor ama...
 Dialogue: 15,0:13:02.21,0:13:05.72,Default,,0,0,0,,...benim davam olmadığından \Nkarışması da epey zor.
 Dialogue: 15,0:13:06.47,0:13:08.18,Default,,0,0,0,,Saori Şinohara.
-Dialogue: 15,0:13:08.51,0:13:12.89,Default,,0,0,0,,Evet. Takip ihbarlarını pek ciddiye almıyorlar burada.
+Dialogue: 15,0:13:08.51,0:13:12.89,Default,,0,0,0,,Evet. Takip ihbarlarını\Npek ciddiye almıyorlar burada.
 Dialogue: 15,0:13:12.89,0:13:15.19,Default,,0,0,0,,Kız kıza konuşmanız\N daha kolay olabilir gibi geldi.
 Dialogue: 15,0:13:15.19,0:13:17.31,Default,,0,0,0,,Gidip bi' derdini dinler misiniz yani?
 Dialogue: 15,0:13:17.31,0:13:19.23,Default,,0,0,0,,Paranız da peşin, ona göre!
@@ -283,11 +284,11 @@ Dialogue: 15,0:13:30.49,0:13:34.41,Default,,0,0,0,,Şey, bu gibi olaylar değerl
 Dialogue: 15,0:13:34.62,0:13:35.75,Default,,0,0,0,,Değerlendirme derken?
 Dialogue: 15,0:13:39.88,0:13:44.26,Default,,0,0,0,,Olumlu sonuçlar alıp en kısa sürede\N AA'ya dönmek istiyorsun demek.
 Dialogue: 15,0:13:44.59,0:13:46.47,Default,,0,0,0,,Geri dönmek...
-Dialogue: 15,0:13:46.47,0:13:49.22,Default,,0,0,0,,Buraya gönderilmemin adil bir karar olduğunu düşünmüyorum.
+Dialogue: 15,0:13:46.47,0:13:49.22,Default,,0,0,0,,Buraya gönderilmemin adil\Nbir karar olduğunu düşünmüyorum.
 Dialogue: 15,0:13:49.43,0:13:51.56,Default,,0,0,0,,O zaman, neden ateş ettin?
 Dialogue: 15,0:13:53.27,0:13:55.81,Default,,0,0,0,,Suçladığım falan yok ama!
-Dialogue: 15,0:13:55.81,0:13:59.23,Default,,0,0,0,,Madem sonuçlara katlanmayacaktın, neden emirlere karşı geldin misal?
-Dialogue: 15,0:14:01.98,0:14:06.07,Default,,0,0,0,,O şartlar altında en mantıklı hareketin o olacağını düşündüm.
+Dialogue: 15,0:13:55.81,0:13:59.23,Default,,0,0,0,,Madem sonuçlara katlanmayacaktın,\Nneden emirlere karşı geldin misal?
+Dialogue: 15,0:14:01.98,0:14:06.07,Default,,0,0,0,,O şartlar altında en mantıklı\Nhareketin o olacağını düşündüm.
 Dialogue: 15,0:14:06.07,0:14:07.61,Default,,0,0,0,,Anlaşılabilir...
 Dialogue: 15,0:14:07.61,0:14:09.32,Default,,0,0,0,,O da kargaşaya dönüştü...
 Dialogue: 15,0:14:09.74,0:14:14.79,Default,,0,0,0,,Anlaşıldı. Ama pek de bir \Nkargaşa olmadı, muhtemelen yani.
@@ -348,7 +349,7 @@ Dialogue: 15,0:16:50.44,0:16:53.11,Default,,0,0,0,,Anladım. Sana yardım edece�
 Dialogue: 15,0:16:53.11,0:16:55.82,Default,,0,0,0,,Pek öyle durmasam da\N oldukça tecrübeliyimdir!
 Dialogue: 15,0:16:55.82,0:16:58.03,Default,,0,0,0,,Peki, sakıncası yoksa...
 Dialogue: 15,0:16:58.41,0:16:59.37,Default,,0,0,0,,Tabii ki!
-Dialogue: 15,0:16:59.37,0:17:02.45,Default,,0,0,0,,Teşekkür ederim. Bensiz devam edebilir misin öyleyse?
+Dialogue: 15,0:16:59.37,0:17:02.45,Default,,0,0,0,,Teşekkür ederim.\NBensiz devam edebilir misin öyleyse?
 Dialogue: 15,0:17:02.94,0:17:04.50,Default,,0,0,0,,{\an8}Hı? Peki.
 Dialogue: 15,0:17:02.45,0:17:04.50,Default,,0,0,0,,Hemen döneceğim.
 Dialogue: 15,0:17:05.00,0:17:08.63,Default,,0,0,0,,Güzel. Yalnız başına. Fırsat bu fırsat.
@@ -371,12 +372,12 @@ Dialogue: 15,0:18:00.43,0:18:02.52,Default,,0,0,0,,Anlaşmayı nereden biliyor b
 Dialogue: 15,0:18:02.52,0:18:05.31,Default,,0,0,0,,Bizimkileri öldüren olmasın?
 Dialogue: 15,0:18:05.31,0:18:06.69,Default,,0,0,0,,N'oluyor be?
 Dialogue: 15,0:18:17.28,0:18:19.16,Default,,0,0,0,,N'apıyorsun sen?
-Dialogue: 15,0:18:19.41,0:18:21.53,Default,,0,0,0,,Takip ediyorlardı, ben de yemledim.
-Dialogue: 15,0:18:21.53,0:18:23.01,Default,,0,0,0,,Silahların yerini biliyor olabilirler. {sıkıntı yok okunuyor}
+Dialogue: 15,0:18:19.41,0:18:21.46,Default,,0,0,0,,Takip ediyorlardı, ben de yemledim.
+Dialogue: 15,0:18:21.46,0:18:23.01,Default,,0,0,0,,Silahların yerini biliyor olabilirler... {sıkıntı yok okunuyor}
 Dialogue: 15,0:18:23.01,0:18:23.66,Default,,0,0,0,,Bekle biraz.
 Dialogue: 15,0:18:23.66,0:18:24.49,Default,,0,0,0,,Saori hanım nerede?
 Dialogue: 15,0:18:24.49,0:18:25.33,Default,,0,0,0,,Arabanın içinde.
-Dialogue: 15,0:18:25.37,0:18:27.16,Default,,0,0,0,,Koruduğun kişiyi yem mi yaptın?
+Dialogue: 15,0:18:25.33,0:18:27.16,Default,,0,0,0,,Koruduğun kişiyi yem mi yaptın?
 Dialogue: 15,0:18:27.16,0:18:29.63,Default,,0,0,0,,Hedefleri telefondaki fotoğraf.
 Dialogue: 15,0:18:29.63,0:18:31.79,Default,,0,0,0,,Saori hanımı öldüreceklerini sanmıyorum.
 Dialogue: 15,0:18:31.79,0:18:33.34,Default,,0,0,0,,Rehine olarak kullanacaklar ama!
@@ -421,7 +422,7 @@ Dialogue: 15,0:20:58.73,0:20:59.98,Default,,0,0,0,,{\i1}Derdim o değil.
 Dialogue: 15,0:20:59.98,0:21:02.24,Default,,0,0,0,,Hmm, nedir peki?
 Dialogue: 15,0:21:02.24,0:21:04.62,Default,,0,0,0,,{\i1}Neden silah anlaşmalarına falan bulaşıyorsun?
 Dialogue: 15,0:21:05.70,0:21:09.83,Default,,0,0,0,,{\i1}Hayırseverlik tanrıçası \NAlan Enstitüsü'nde tabu yok mu?
-Dialogue: 15,0:21:16.75,0:21:21.42,Default,,0,0,0,,Bilgisiz insanlar diğerlerinden daha mutludur, hacker.
+Dialogue: 15,0:21:16.75,0:21:21.42,Default,,0,0,0,,Bilgisiz insanlar diğerlerinden\Ndaha mutludur, hacker.
 Dialogue: 15,0:21:27.47,0:21:32.27,Default,,0,0,0,,Sosyal medyaya böyle yılışık yılışık fotoğraflar\N yüklerseniz başınıza da bunlar gelir.
 Dialogue: 15,0:21:32.81,0:21:33.98,Default,,0,0,0,,Kıskanma.
 Dialogue: 15,0:21:33.98,0:21:35.11,Default,,0,0,0,,Kıskandığım falan yok!
@@ -450,7 +451,6 @@ Dialogue: 15,0:22:28.49,0:22:31.41,Default,,0,0,0,,Sorun yok. Arkamızda bina fa
 Dialogue: 15,0:22:31.74,0:22:33.62,Default,,0,0,0,,Hadi, müşteri geldi! Çalıştığımız gibi!
 Dialogue: 15,0:22:37.08,0:22:38.83,Default,,0,0,0,,Selam, Mika.
 Dialogue: 15,0:22:41.42,0:22:43.17,Default,,0,0,0,,Hoş geldiniz!
-Comment: 1,0:00:00.00,0:00:00.02,Default,,0,0,0,,{Çeviri: MaRCa}{Çeviri Editörü: Einherjar}{Redaksiyon: Vuats}{Yazı Dizimi: Vuats}{Bitiş Şarkısı: Einherjar}{Teknik Kontrol: Fei}{https://github.com/DantelEntel}
 Comment: 3,0:01:38.58,0:01:43.79,Vuatsigns,,0,0,0,,{=197}{title}
 Dialogue: 2,0:01:38.58,0:01:38.62,Vuatsigns,,0,0,0,,{\xbord6\ybord4\blur3\fnBahnschrift Semibold\fsp5\pos(1591.92,911.26)\be0\3a&H65}A{\alpha&HFF&}cele Etmeden
 Dialogue: 2,0:01:38.62,0:01:38.66,Vuatsigns,,0,0,0,,{\xbord6\ybord4\blur3\fnBahnschrift Semibold\fsp5\pos(1591.92,911.26)\be0\3a&H65}Ac{\alpha&HFF&}ele Etmeden
@@ -582,7 +582,7 @@ Dialogue: 4,0:01:39.66,0:01:39.70,Vuatsigns,,0,0,0,,{\blur0.8\fnBahnschrift Semi
 Dialogue: 4,0:01:39.66,0:01:39.70,Vuatsigns,,0,0,0,,{\blur0.8\fnBahnschrift Semibold\fsp5\pos(1592.92,911.26)\clip(m 1715.88 889.54 l 1769.9 889.54 1760.41 940.62 1715.88 945.73)\c&HEFFF5F&\be0}Acele Etmeden
 Dialogue: 4,0:01:39.70,0:01:43.79,Vuatsigns,,0,0,0,,{=198}{\blur0.8\fnBahnschrift Semibold\fsp5\pos(1592.92,911.26)\be0\t(3050,4050,\alpha&HFF)\c&HFEFFFE&}Acele Etmeden
 Comment: 1,0:00:21.95,0:00:30.71,Vuatsigns,,0,0,0,,{=89}{haber yazısı barışın sembolü}
-Dialogue: 1,0:00:21.95,0:00:30.72,Vuatsigns,,0,0,0,,{\an7\blur12\be5\bord0\shad0\pos(946,465.57)\p1\c&HDACAA8&\1a&HC7&\fscx103\fscy117\iclip(m 408 1041.33 l 0 1041.33 1.33 1086.67 489.33 1100)}m -667 208 l -498 509 -958 502 -959 286
+Dialogue: 5,0:00:21.95,0:00:30.72,Vuatsigns,,0,0,0,,{\an7\blur12\be5\bord0\shad0\pos(946,465.57)\p1\c&HDACAA8&\1a&HC7&\fscx103\fscy117\iclip(m 408 1041.33 l 0 1041.33 1.33 1086.67 489.33 1100)}m -667 208 l -498 509 -958 502 -959 286
 Dialogue: 0,0:00:21.95,0:00:30.72,Vuatsigns,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(960,536.57)\p1\c&HCC5C17&}m -959 285 l 961 284 961 504 -960 504
 Dialogue: 2,0:00:21.95,0:00:30.72,Vuatsigns,,0,0,0,,{\fnSerangkaian Pattern\b0\fs40\c&H1A1A1A&\1a&HCD&\fscx76\fscy79\pos(18.6,931.62)\clip(0,817.15,1920.2,1046.11)}LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL\NLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL\NLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL\NLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL\NLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL\NLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL\NLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
 Dialogue: 10,0:00:21.95,0:00:30.72,Vuatsigns,,0,0,0,,{\blur0.8\4c&H6E2111&\xshad1\yshad0.75\fs85\fnEncode Sans Condensed\pos(961,930)}BARIŞIN SEMBOLÜ "GÖKAĞACI" TAMAMLANMAYA YAKIN!
@@ -990,16 +990,16 @@ Dialogue: 1,0:15:50.92,0:15:50.97,Vuatsigns,,0,0,0,,{\pos(806.83,737.46)\fscx105
 Dialogue: 1,0:15:50.97,0:15:51.01,Vuatsigns,,0,0,0,,{\pos(806.88,734.7)\fscx103.56\fscy103.56\frz-33.06\fax-0.17\fnSegoe UI\fs50\1c&HBCAB8D&\blur0.7}Kabul et
 Dialogue: 1,0:15:51.01,0:15:51.05,Vuatsigns,,0,0,0,,{\pos(806.93,731.94)\fscx101.78\fscy101.78\frz-33.06\fax-0.17\fnSegoe UI\fs50\1c&HBCAB8D&\blur0.7}Kabul et
 Dialogue: 1,0:15:51.05,0:15:52.26,Vuatsigns,,0,0,0,,{=228}{\pos(806.98,729.18)\frz-33.06\fax-0.17\fnSegoe UI\fs50\1c&HBCAB8D&\blur0.7}Kabul et
-Comment: 0,0:22:44.51,0:23:58.83,ED,,0,0,0,,{ed}
-Dialogue: 0,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bana getirdiğin manga
-Dialogue: 1,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bana getirdiğin manga
-Dialogue: 2,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bana getirdiğin manga
+Comment: 0,0:22:44.51,0:24:01.00,ED,,0,0,0,,{ed}
+Dialogue: 0,0:22:44.55,0:22:47.43,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bana getirdiğin o manga
+Dialogue: 1,0:22:44.55,0:22:47.43,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bana getirdiğin o manga
+Dialogue: 2,0:22:44.55,0:22:47.43,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bana getirdiğin o manga
 Dialogue: 0,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}ve adını bile bilmediğim o çiçekler
 Dialogue: 1,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}ve adını bile bilmediğim o çiçekler
 Dialogue: 2,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}ve adını bile bilmediğim o çiçekler
-Dialogue: 0,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bugün geri dönmedi mi hala
-Dialogue: 1,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bugün geri dönmedi mi hala
-Dialogue: 2,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bugün geri dönmedi mi hala
+Dialogue: 0,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bugün geri dönmedi hala
+Dialogue: 1,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bugün geri dönmedi hala
+Dialogue: 2,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bugün geri dönmedi hala
 Dialogue: 0,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,250)}İlk kez tattığım bu duygular bana
 Dialogue: 1,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,250)}İlk kez tattığım bu duygular bana
 Dialogue: 2,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,250)}İlk kez tattığım bu duygular bana
@@ -1018,9 +1018,9 @@ Dialogue: 2,0:23:08.66,0:23:14.37,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0
 Dialogue: 0,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
 Dialogue: 1,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
 Dialogue: 2,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
-Dialogue: 0,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
-Dialogue: 1,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
-Dialogue: 2,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
+Dialogue: 0,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Bir daha dönmeye fırsatım olmayacak galiba, değil mi
+Dialogue: 1,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Bir daha dönmeye fırsatım olmayacak galiba, değil mi
+Dialogue: 2,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Bir daha dönmeye fırsatım olmayacak galiba, değil mi
 Dialogue: 0,0:23:31.35,0:23:42.11,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
 Dialogue: 1,0:23:31.35,0:23:42.23,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
 Dialogue: 2,0:23:31.35,0:23:42.23,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor

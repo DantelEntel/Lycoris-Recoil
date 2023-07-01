@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 Title: Dantel Entel
 ScriptType: v4.00+
 ScaledBorderAndShadow: yes
@@ -67,14 +67,14 @@ Dialogue: 15,0:03:59.88,0:04:00.42,Default,,0,0,0,,Makas!
 Dialogue: 15,0:04:00.59,0:04:01.05,Default,,0,0,0,,Makas!
 Dialogue: 15,0:04:01.30,0:04:01.59,Default,,0,0,0,,Makas!
 Dialogue: 15,0:04:01.92,0:04:03.51,Default,,0,0,0,,Makas!
-Dialogue: 15,0:04:16.02,0:04:18.52,Default,,0,0,0,,Sırf ucuz diye biraz aşırıya\N kaçmamış mısın sanki?
+Dialogue: 15,0:04:16.02,0:04:18.52,Default,,0,0,0,,Sırf ucuz diye aşırıya kaçmışsınız sanki.
 Dialogue: 15,0:04:18.98,0:04:22.07,Default,,0,0,0,,Sularını çıkarırız, olur biter.\NModaymış bu sıralar.
 Dialogue: 15,0:04:24.07,0:04:26.20,Default,,0,0,0,,N'apıyorsun sen? İş yap iş.
 Dialogue: 15,0:04:26.49,0:04:28.74,Default,,0,0,0,,Benim uzmanlığım siber savaşlar.
 Dialogue: 15,0:04:29.58,0:04:32.20,Default,,0,0,0,,Sabah akşam oyun oynuyo'n ama!\NVer şu karpuzu bana!
 Dialogue: 15,0:04:32.20,0:04:33.64,Default,,0,0,0,,{\an8}Daha bir sürü var ya!
-Dialogue: 15,0:04:33.64,0:04:35.50,Default,,0,0,0,,{\an8}Tüm kestiklerimi yedin be!
 Dialogue: 15,0:04:32.71,0:04:35.50,Default,,0,0,0,,Kurumi, az yardım et bakayım bana.
+Dialogue: 15,0:04:33.64,0:04:35.50,Default,,0,0,0,,{\an8}Tüm kestiklerimi yedin be!
 Dialogue: 15,0:04:35.92,0:04:37.13,Default,,0,0,0,,Diyorum ya...
 Dialogue: 15,0:04:37.46,0:04:39.59,Default,,0,0,0,,Siber savaştan bahsediyorum tabii.
 Dialogue: 15,0:04:43.51,0:04:45.84,Default,,0,0,0,,Günaydın, emekçiler!
@@ -127,7 +127,7 @@ Dialogue: 15,0:07:17.66,0:07:18.70,Default,,0,0,0,,Hay ben...
 Dialogue: 15,0:07:19.21,0:07:23.42,Default,,0,0,0,,Devlet kullanımında olan bir baz istasyonu \Nbuldum ama kendi işletim sistemiyle çalışıyor.
 Dialogue: 15,0:07:23.42,0:07:24.92,Default,,0,0,0,,Bu konuda bilgi talep ediyorum.
 Dialogue: 15,0:07:27.71,0:07:30.59,Default,,0,0,0,,Aynen öyle! Arka kapıyı \Nkimin kurduğunu öğrenmek istiyorum!
-Dialogue: 15,0:07:30.59,0:07:32.30,Default,,0,0,0,,Birileri... Birileri...
+Dialogue: 15,0:07:30.59,0:07:32.30,Default,,0,0,0,,Kim olabilir ki?..
 Dialogue: 15,0:07:33.47,0:07:34.55,Default,,0,0,0,,Kim?
 Dialogue: 15,0:07:39.64,0:07:41.35,Default,,0,0,0,,Hay ben sizin ta!
 Dialogue: 15,0:07:41.77,0:07:43.60,Default,,0,0,0,,Ceviz öldü artık!
@@ -171,7 +171,7 @@ Dialogue: 15,0:09:56.82,0:10:00.82,Default,,0,0,0,,Taş kağıt makasta istatist
 Dialogue: 15,0:10:11.46,0:10:13.92,Default,,0,0,0,,Afacanlar... Yine gelmişler.
 Dialogue: 15,0:10:14.42,0:10:15.76,Default,,0,0,0,,Lan burada değil bu!
 Dialogue: 15,0:10:15.76,0:10:18.26,Default,,0,0,0,,Ama az önce buraya girmiş olması lazım!
-Dialogue: 15,0:10:18.34,0:10:19.76,Default,,0,0,0,,Nerede bu amına koyayım?
+Dialogue: 15,0:10:18.26,0:10:19.76,Default,,0,0,0,,Nerede bu amına koyayım?
 Dialogue: 15,0:10:31.15,0:10:33.15,Default,,0,0,0,,Kafayı mı yemiş lan bu!?
 Dialogue: 15,0:10:35.48,0:10:37.03,Default,,0,0,0,,{\an8}Yardım edin!
 Dialogue: 15,0:10:35.48,0:10:37.03,Default,,0,0,0,,Kaç hemen!
@@ -183,8 +183,8 @@ Dialogue: 15,0:10:48.75,0:10:49.96,Default,,0,0,0,,Lilibell mi?
 Dialogue: 15,0:10:50.29,0:10:52.84,Default,,0,0,0,,Likorisler'in erkek\Nversiyonu gibi bi' şey işte.
 Dialogue: 15,0:10:52.84,0:10:54.34,Default,,0,0,0,,Çok korkunçlar he.
 Dialogue: 15,0:10:54.34,0:10:57.30,Default,,0,0,0,,Onların görevi ne ki?
-Dialogue: 15,0:10:57.42,0:10:59.47,Default,,0,0,0,,Ne bileyim... Pek bir fikrim yok.
-Dialogue: 15,0:10:59.59,0:11:02.05,Default,,0,0,0,,N'oldu? Erkek diyerek ilgini mi çektim?
+Dialogue: 15,0:10:57.30,0:10:59.47,Default,,0,0,0,,Ne bileyim... Pek bir fikrim yok.
+Dialogue: 15,0:10:59.47,0:11:02.05,Default,,0,0,0,,N'oldu? Erkek diyerek ilgini mi çektim?
 Dialogue: 15,0:11:02.05,0:11:03.51,Default,,0,0,0,,Alakası yok.
 Dialogue: 15,0:11:04.64,0:11:06.27,Default,,0,0,0,,Bu da ne böyle?
 Dialogue: 15,0:11:09.19,0:11:12.35,Default,,0,0,0,,Bunu Majima'ya göstersem,\Nilgisini çeker mi acaba?
@@ -192,7 +192,7 @@ Dialogue: 15,0:11:13.52,0:11:14.57,Default,,0,0,0,,Kapı!
 Dialogue: 15,0:11:14.98,0:11:17.03,Default,,0,0,0,,Üç gün oldu.
 Dialogue: 15,0:11:17.40,0:11:18.99,Default,,0,0,0,,Bu-Burayı nasıl buldun?
 Dialogue: 15,0:11:19.90,0:11:20.82,Default,,0,0,0,,Eee?
-Dialogue: 15,0:11:20.99,0:11:22.41,Default,,0,0,0,,Şey...
+Dialogue: 15,0:11:20.83,0:11:22.41,Default,,0,0,0,,Şey...
 Dialogue: 15,0:11:22.66,0:11:23.74,Default,,0,0,0,,Sonuç ne?
 Dialogue: 15,0:11:23.74,0:11:25.70,Default,,0,0,0,,D-Dur, bir dakika bekle!
 Dialogue: 15,0:11:25.70,0:11:27.33,Default,,0,0,0,,Hayır! N'apıyorsunuz? Durun!
@@ -238,7 +238,7 @@ Dialogue: 15,0:13:44.30,0:13:48.39,Default,,0,0,0,,...beraberlikle başlarsan\Ny
 Dialogue: 15,0:13:49.43,0:13:52.68,Default,,0,0,0,,Patrona teslimata gideceğim!
 Dialogue: 15,0:13:53.56,0:13:54.56,Default,,0,0,0,,Ne oldu?
 Dialogue: 15,0:13:54.56,0:13:56.02,Default,,0,0,0,,Hiç.
-Dialogue: 15,0:13:56.10,0:13:57.94,Default,,0,0,0,,Hı? N'oldu be?
+Dialogue: 15,0:13:56.02,0:13:57.94,Default,,0,0,0,,Hı? N'oldu be?
 Dialogue: 15,0:13:57.94,0:14:00.44,Default,,0,0,0,,Boş ver de git şu teslimatını yap gel.
 Dialogue: 15,0:14:00.44,0:14:01.61,Default,,0,0,0,,Hemen hazırlanayım.
 Dialogue: 15,0:14:02.47,0:14:03.48,Default,,0,0,0,,Sorun değil.
@@ -266,8 +266,8 @@ Dialogue: 15,0:15:02.42,0:15:04.80,Default,,0,0,0,,Biri istedi ben de hackledim.
 Dialogue: 15,0:15:04.80,0:15:07.80,Default,,0,0,0,,O müşteriye yaklaşmak için\N başka bir seçeneğim yoktu.
 Dialogue: 15,0:15:08.17,0:15:12.05,Default,,0,0,0,,Bekle. Teröristlere silah veren de sen misin?!
 Dialogue: 15,0:15:12.18,0:15:16.10,Default,,0,0,0,,Değilim! Sadece belirtilen \Nzamanda AA'ya saldırdım!
-Dialogue: 15,0:15:16.18,0:15:17.46,Default,,0,0,0,,Öyle mi?
-Dialogue: 15,0:15:17.60,0:15:21.61,Default,,0,0,0,,Sayende kim oldukları bilinmeyen bir\Nterörist grubunun eline yığınla silah geçti...
+Dialogue: 15,0:15:16.18,0:15:17.52,Default,,0,0,0,,Öyle mi?
+Dialogue: 15,0:15:17.52,0:15:21.61,Default,,0,0,0,,Sayende kim oldukları bilinmeyen bir\Nterörist grubunun eline yığınla silah geçti...
 Dialogue: 15,0:15:21.61,0:15:23.39,Default,,0,0,0,,...ve Takina pozisyonundan oldu.
 Dialogue: 15,0:15:22.94,0:15:25.02,Default,,0,0,0,,{\an8}Yeter artık! Kes şunu, Mizuki.
 Dialogue: 15,0:15:25.02,0:15:26.44,Default,,0,0,0,,Görüntülerin hepsi bu mu?
@@ -303,8 +303,9 @@ Dialogue: 15,0:17:31.23,0:17:33.19,Default,,0,0,0,,Ne yapıyorsunuz be?
 Dialogue: 15,0:17:36.61,0:17:38.45,Default,,0,0,0,,Çisato'nun pançosu ve telefonu...
 Dialogue: 15,0:17:38.45,0:17:40.70,Default,,0,0,0,,{\i1}Tüm şehrin kameralarını hackleyeceğim.
 Dialogue: 15,0:17:43.12,0:17:45.92,Default,,0,0,0,,AA, suçlunun \Nkimliğini hala bilmiyor mu?
-Dialogue: 15,0:17:46.29,0:17:47.17,Default,,0,0,0,,{\i1}Hayır.
-Dialogue: 15,0:17:47.17,0:17:51.75,Default,,0,0,0,,{\i1}Onları çekmek için Likorisler'i yem olarak \Nkullandılar, ama görünüşe göre tuzağa düşmüşler.
+Dialogue: 15,0:17:46.29,0:17:47.12,Default,,0,0,0,,{\i1}Hayır.
+Dialogue: 15,0:17:47.12,0:17:49.57,Default,,0,0,0,,{\i1}Onları çekmek için\N Likorisler'i yem olarak kullandılar...
+Dialogue: 15,0:17:49.57,0:17:51.75,Default,,0,0,0,,{\i1}...ama görünüşe göre tuzağa düşmüşler.
 Dialogue: 15,0:17:51.92,0:17:54.89,Default,,0,0,0,,Likorisler'i yem yapmak mı? \NNe aptalca bir fikir.
 Dialogue: 15,0:17:57.05,0:17:59.60,Default,,0,0,0,,Şu saldırgan sen misin?
 Dialogue: 15,0:18:01.64,0:18:03.39,Default,,0,0,0,,Çok fenasın.
@@ -369,7 +370,7 @@ Dialogue: 15,0:22:32.03,0:22:34.70,Default,,0,0,0,,Güzel, başlayalım! \NÜç,
 Dialogue: 15,0:22:34.70,0:22:35.50,Default,,0,0,0,,Taş, kağıt...
 Dialogue: 15,0:22:36.46,0:22:37.37,Default,,0,0,0,,...makas!
 Dialogue: 15,0:22:39.88,0:22:43.13,Default,,0,0,0,,Oley! Oley! Oley!
-Comment: 0,0:01:22.98,0:02:53.03,OP-TR,Turkish,0,0,0,,{op}
+Comment: 0,0:01:22.98,0:02:53.03,OP-TR,,0,0,0,,{op}
 Dialogue: 0,0:01:25.19,0:01:28.65,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k37}ne{\k37}gat{\k25}ta {\k42}yu{\k32}kan {\k33}na {\k55}sen{\k28}tak {\k57}no
 Dialogue: 0,0:01:28.78,0:01:34.41,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k21}mi{\k31}ra{\k19}i {\k31}vo {\k32}i{\k53}ma {\k32}te{\k26}ra{\k41}şi{\k116}te{\k161}ku
 Dialogue: 0,0:01:42.29,0:01:45.42,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k20}ri{\k16}ko{\k16}te{\k20}ki {\k32}na {\k35}kan{\k54}jo {\k15}bu{\k19}tsu{\k16}ke{\k34}a{\k34}ça

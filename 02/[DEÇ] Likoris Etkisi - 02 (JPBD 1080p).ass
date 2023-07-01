@@ -57,7 +57,7 @@ Dialogue: 15,0:01:00.16,0:01:03.08,Default,,0,0,0,,Bu ülkenin en iyi hackerın�
 Dialogue: 15,0:01:03.33,0:01:06.25,Default,,0,0,0,,Elveda de bakalım moruk!
 Dialogue: 15,0:01:11.17,0:01:12.96,Default,,0,0,0,,Ceviz mi?
 Dialogue: 15,0:03:12.21,0:03:14.17,Default,,0,0,0,,Hastır, geç kaldım!
-Dialogue: 15,0:03:17.63,0:03:19.17,Default,,0,0,0,,Bu... bi' de bu!
+Dialogue: 15,0:03:17.63,0:03:19.17,Default,,0,0,0,,Bu... Bi' de bu!
 Dialogue: 15,0:03:24.14,0:03:26.35,Default,,0,0,0,,Beklettim! Çisato'nuz geldi!
 Dialogue: 15,0:03:26.97,0:03:28.43,Default,,0,0,0,,Ooo, Bay Yoşi gelmişler!
 Dialogue: 15,0:03:28.68,0:03:30.64,Default,,0,0,0,,Bir aydır ortalıkta yoktunuz.
@@ -77,7 +77,7 @@ Dialogue: 15,0:04:07.89,0:04:10.18,Default,,0,0,0,,Müsaadenizi isteyeyim o hald
 Dialogue: 15,0:04:14.27,0:04:16.52,Default,,0,0,0,,Hediye için teşekkürler!
 Dialogue: 15,0:04:19.40,0:04:20.19,Default,,0,0,0,,Çisato.
 Dialogue: 15,0:04:20.65,0:04:22.15,Default,,0,0,0,,Eee? Ne kadar acil?
-Dialogue: 15,0:04:22.15,0:04:24.74,Default,,0,0,0,,Şu anda bir grup silahlı\N saldırgan, hedefi kovalıyor.
+Dialogue: 15,0:04:22.15,0:04:24.74,Default,,0,0,0,,Şu anda bir grup silahlı\N saldırgan hedefi kovalıyor.
 Dialogue: 15,0:04:24.86,0:04:26.53,Default,,0,0,0,,Sıkıntı.
 Dialogue: 15,0:04:26.53,0:04:28.74,Default,,0,0,0,,Takina, detayları duydun mu?
 Dialogue: 15,0:04:28.74,0:04:30.08,Default,,0,0,0,,Evet, kabaca.
@@ -115,7 +115,7 @@ Dialogue: 15,0:05:45.03,0:05:47.32,Default,,0,0,0,,Müvekkilimizle buluşmaya gi
 Dialogue: 15,0:05:47.53,0:05:49.99,Default,,0,0,0,,Aynen! Buluşmadan önce de\N düzgün bir şeyler yememiz lazım.
 Dialogue: 15,0:05:50.37,0:05:51.66,Default,,0,0,0,,Şu an yiyorum ya.
 Dialogue: 15,0:05:51.66,0:05:53.41,Default,,0,0,0,,Ne? Düzgün dediğin o mu?
-Dialogue: 15,0:05:53.41,0:05:55.70,Default,,0,0,0,,Hazır istasyona gelmişken kendime bi' yolluk aldıydım.
+Dialogue: 15,0:05:53.41,0:05:55.70,Default,,0,0,0,,Hazır istasyona gelmişken \Nkendime bi' yolluk aldıydım.
 Dialogue: 15,0:05:56.58,0:05:57.83,Default,,0,0,0,,Azıcık ister misin?
 Dialogue: 15,0:05:57.92,0:05:59.00,Default,,0,0,0,,Hayır, teşekkürler.
 Dialogue: 15,0:05:59.71,0:06:02.92,Default,,0,0,0,,Aaa, deme öyle! Haşlanmış yumurta çok güzel.
@@ -177,7 +177,7 @@ Dialogue: 15,0:08:06.25,0:08:09.09,Default,,0,0,0,,Ha? Şey, durun bi'! Süpermo
 Dialogue: 15,0:08:09.26,0:08:12.55,Default,,0,0,0,,Ben süper olanı istiyo'm ya!
 Dialogue: 15,0:08:15.18,0:08:18.81,Default,,0,0,0,,Korumamız gereken kişi \Nniye arabayla cesurca ortaya çıkıyor?
 Dialogue: 15,0:08:18.81,0:08:20.56,Default,,0,0,0,,Tam tersi olması gerekmiyor mu?
-Dialogue: 15,0:08:20.56,0:08:22.69,Default,,0,0,0,,Ah, süpermobil...
+Dialogue: 15,0:08:20.56,0:08:22.69,Default,,0,0,0,,Ah, süpermobil gitti...
 Dialogue: 15,0:08:22.69,0:08:25.40,Default,,0,0,0,,Bu dikkat çekmediği için daha iyi.
 Dialogue: 15,0:08:25.65,0:08:29.02,Default,,0,0,0,,İşler plana uygun ilerlemediği\Niçin üzgünüm. Ben Ceviz.
 Dialogue: 15,0:08:29.32,0:08:31.36,Default,,0,0,0,,Tabii, tabii. Ben de Çisato.
@@ -209,7 +209,7 @@ Dialogue: 15,0:09:41.39,0:09:44.43,Default,,0,0,0,,Takip eden kimse yok gibi. \N
 Dialogue: 15,0:09:44.43,0:09:47.10,Default,,0,0,0,,Hayır. Arabaları değiştirin dediler.
 Dialogue: 15,0:09:47.60,0:09:50.31,Default,,0,0,0,,Ceviz, buraya gidelim lütfen.
 Dialogue: 15,0:09:50.69,0:09:51.82,Default,,0,0,0,,Anlaşıldı.
-Dialogue: 15,0:09:52.15,0:09:53.45,Default,,0,0,0,,Boş ver şimdi onu.
+Dialogue: 15,0:09:52.15,0:09:53.55,Default,,0,0,0,,Boş ver şimdi onu.
 Dialogue: 15,0:09:53.55,0:09:56.57,Default,,0,0,0,,Arabada iki hatun var.\NYoluna çıkanı öldürebilirsin.
 Dialogue: 15,0:09:56.86,0:09:59.53,Default,,0,0,0,,Kusura bakma. \NPark çevresinde izlerini kaybettik.
 Dialogue: 15,0:10:00.32,0:10:03.37,Default,,0,0,0,,Ne işe yaramaz heriflersiniz.\N Aldığınız parayı hak edin bari.
@@ -224,7 +224,7 @@ Dialogue: 15,0:10:28.77,0:10:30.35,Default,,0,0,0,,Nereye gidiyoruz?
 Dialogue: 15,0:10:30.35,0:10:31.36,Default,,0,0,0,,Hızlanıyoruz.
 Dialogue: 15,0:10:33.36,0:10:35.28,Default,,0,0,0,,Bizi okyanusa atmayı planlıyor gibi.
 Dialogue: 15,0:10:35.69,0:10:36.86,Default,,0,0,0,,Bağlantılarını kessek?
-Dialogue: 15,0:10:37.24,0:10:41.16,Default,,0,0,0,,Yetmez. Araçla olan bağlantısını kestiğimiz gibi yeniden bağlanır.
+Dialogue: 15,0:10:37.24,0:10:41.16,Default,,0,0,0,,Yetmez. Araçla olan bağlantısını\Nkestiğimiz gibi yeniden bağlanır.
 Dialogue: 15,0:10:41.87,0:10:43.78,Default,,0,0,0,,Aynen öyle, Ceviz!
 Dialogue: 15,0:10:44.08,0:10:46.00,Default,,0,0,0,,Ne? O zaman ne yapacağız?
 Dialogue: 15,0:10:46.37,0:10:50.50,Default,,0,0,0,,Ama araçla bağlantısını \Nkestiğimiz gibi interneti kapatırsak...
@@ -289,7 +289,7 @@ Dialogue: 15,0:15:33.99,0:15:35.20,Default,,0,0,0,,Plastik mermiler demek.
 Dialogue: 15,0:15:36.29,0:15:37.16,Default,,0,0,0,,Bu kadar yeter.
 Dialogue: 15,0:15:37.54,0:15:38.95,Default,,0,0,0,,Git artık.
 Dialogue: 15,0:15:40.58,0:15:41.63,Default,,0,0,0,,Tamamdır.
-Dialogue: 15,0:15:41.96,0:15:43.67,Default,,0,0,0,,Demir yönünden zengin bir şeyler yiyin.
+Dialogue: 15,0:15:41.96,0:15:43.67,Default,,0,0,0,,Demir içeren bi' şeyler yiyin.
 Dialogue: 15,0:15:44.04,0:15:45.42,Default,,0,0,0,,O taraftan gitme.
 Dialogue: 15,0:15:47.25,0:15:50.22,Default,,0,0,0,,Bizim hacker dronla izliyor.
 Dialogue: 15,0:15:50.51,0:15:52.09,Default,,0,0,0,,Sizi bekliyor.
@@ -302,7 +302,7 @@ Dialogue: 15,0:16:23.33,0:16:24.75,Default,,0,0,0,,Gerek yok.
 Dialogue: 15,0:16:26.00,0:16:28.67,Default,,0,0,0,,Gidip bir şeyler yiyelim.
 Dialogue: 15,0:16:29.46,0:16:32.38,Default,,0,0,0,,Başaramadık. Müvekkil öldürüldü.
 Dialogue: 15,0:16:32.38,0:16:34.39,Default,,0,0,0,,{\i1}Birazdan acil durum aracı gelecek.
-Dialogue: 15,0:16:34.39,0:16:37.35,Default,,0,0,0,,{\i1}Cesedi ve bavulu toplayıp olay mahallinden uzaklaşın.
+Dialogue: 15,0:16:34.39,0:16:37.35,Default,,0,0,0,,{\i1}Cesedi ve bavulu toplayıp\Nolay mahallinden uzaklaşın.
 Dialogue: 15,0:16:37.35,0:16:38.10,Default,,0,0,0,,Anlaşıldı.
 Dialogue: 15,0:16:51.65,0:16:54.45,Default,,0,0,0,,Yanındakiler korumaları mı?
 Dialogue: 15,0:16:54.45,0:16:56.41,Default,,0,0,0,,Onları da mı öldürseydik?
@@ -369,7 +369,7 @@ Dialogue: 15,0:20:28.70,0:20:29.95,Default,,0,0,0,,Takina.
 Dialogue: 15,0:20:30.79,0:20:33.17,Default,,0,0,0,,Minderleri yerleştirebilir misin?
 Dialogue: 15,0:20:33.17,0:20:34.08,Default,,0,0,0,,Tamam.
 Dialogue: 15,0:20:34.67,0:20:37.92,Default,,0,0,0,,Her zamanki gibi konu değiştirmekte üstüne yok.
-Dialogue: 15,0:20:44.26,0:20:46.39,Default,,0,0,0,,Kız bir şey var burada!
+Dialogue: 15,0:20:44.26,0:20:46.39,Default,,0,0,0,,Kız bi' şey var burada!
 Dialogue: 15,0:20:49.31,0:20:52.02,Default,,0,0,0,,Bi' süreliğine burada saklanmak istedi.
 Dialogue: 15,0:20:52.02,0:20:54.10,Default,,0,0,0,,Ortalığı çok dağıtmayın!
 Dialogue: 15,0:20:54.10,0:20:55.56,Default,,0,0,0,,Hı? Neden ama?
@@ -380,7 +380,7 @@ Dialogue: 15,0:21:02.15,0:21:04.28,Default,,0,0,0,,Son zamanlarda sık geliyorsu
 Dialogue: 15,0:21:04.28,0:21:06.28,Default,,0,0,0,,Ohagilerin çok güzel çünkü.
 Dialogue: 15,0:21:06.82,0:21:10.20,Default,,0,0,0,,Doğru düzgün kahve yapamadığın \Ndönemleri hatırlıyorum.
 Dialogue: 15,0:21:10.20,0:21:12.25,Default,,0,0,0,,On yılı geride bıraktık.
-Dialogue: 15,0:21:12.75,0:21:14.25,Default,,0,0,0,,Meşgul değil misin?
+Dialogue: 15,0:21:12.75,0:21:14.25,Default,,0,0,0,,Yoğun değilsin herhalde?
 Dialogue: 15,0:21:14.71,0:21:18.21,Default,,0,0,0,,Sonunda işlerimden biri halloldu.
 Dialogue: 15,0:21:18.38,0:21:20.50,Default,,0,0,0,,Temizlikte biraz zorlandım da.
 Dialogue: 15,0:21:20.50,0:21:23.63,Default,,0,0,0,,Sincap gibi çevik biriyle uğraşıyordum.
@@ -630,16 +630,16 @@ Dialogue: 0,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.0
 Dialogue: 3,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.04\fry-1.4\frx1.32\fax-0.2\fnOswald SemiBold\fsp9\1a&H72&\blur8}ARAMADA
 Dialogue: 3,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.04\fry-1.4\frx1.32\fax-0.2\fnOswald SemiBold\fsp9\alpha&HA0&\blur10}ARAMADA
 Dialogue: 4,0:09:51.82,0:09:53.61,Vuatsigns,,0,0,0,,{\pos(669.34,578.52)\frz59.04\fry-1.4\frx1.32\fax-0.2\fnOswald SemiBold\fsp9\blur0.7}ARAMADA
-Comment: 0,0:22:44.51,0:23:58.83,ED,,0,0,0,,{ed}
-Dialogue: 0,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bana getirdiğin manga
-Dialogue: 1,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bana getirdiğin manga
-Dialogue: 2,0:22:44.55,0:22:47.35,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bana getirdiğin manga
+Comment: 0,0:22:44.51,0:24:01.00,ED,,0,0,0,,{ed}
+Dialogue: 0,0:22:44.55,0:22:47.43,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bana getirdiğin o manga
+Dialogue: 1,0:22:44.55,0:22:47.43,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bana getirdiğin o manga
+Dialogue: 2,0:22:44.55,0:22:47.43,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bana getirdiğin o manga
 Dialogue: 0,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}ve adını bile bilmediğim o çiçekler
 Dialogue: 1,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}ve adını bile bilmediğim o çiçekler
 Dialogue: 2,0:22:47.43,0:22:50.47,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}ve adını bile bilmediğim o çiçekler
-Dialogue: 0,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bugün geri dönmedi mi hala
-Dialogue: 1,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bugün geri dönmedi mi hala
-Dialogue: 2,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bugün geri dönmedi mi hala
+Dialogue: 0,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\alpha&H40&\blur4}Bugün geri dönmedi hala
+Dialogue: 1,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6}Bugün geri dönmedi hala
+Dialogue: 2,0:22:50.77,0:22:53.14,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Bugün geri dönmedi hala
 Dialogue: 0,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,250)}İlk kez tattığım bu duygular bana
 Dialogue: 1,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,250)}İlk kez tattığım bu duygular bana
 Dialogue: 2,0:22:53.14,0:22:56.77,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,250)}İlk kez tattığım bu duygular bana
@@ -658,9 +658,9 @@ Dialogue: 2,0:23:08.66,0:23:14.37,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0
 Dialogue: 0,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
 Dialogue: 1,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
 Dialogue: 2,0:23:14.37,0:23:20.13,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Yalnızlığı bilmeyen bu kasabaya
-Dialogue: 0,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
-Dialogue: 1,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
-Dialogue: 2,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Bir daha dönemeyeceğim galiba, değil mi
+Dialogue: 0,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,222)}Bir daha dönmeye fırsatım olmayacak galiba, değil mi
+Dialogue: 1,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,222)}Bir daha dönmeye fırsatım olmayacak galiba, değil mi
+Dialogue: 2,0:23:20.38,0:23:31.06,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,222)}Bir daha dönmeye fırsatım olmayacak galiba, değil mi
 Dialogue: 0,0:23:31.35,0:23:42.11,ED,,0,0,0,,{\shad0\alpha&H40&\blur4\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
 Dialogue: 1,0:23:31.35,0:23:42.23,ED,,0,0,0,,{\shad0\c&HFFFFFF&\blur0.6\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
 Dialogue: 2,0:23:31.35,0:23:42.23,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6\fad(0,150)}Sen elini uzattığında, ışıltılar gölge doğuruyor
@@ -673,413 +673,414 @@ Dialogue: 2,0:23:48.28,0:23:57.42,ED,,0,0,0,,{\bord0\shad0\4a&HFF&\blur0.6}Göt�
 Comment: 0,0:01:12.97,0:02:43.02,OP-TR,Turkish,0,0,0,,{op}
 Dialogue: 0,0:01:15.18,0:01:18.64,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k37}ne{\k37}gat{\k25}ta {\k42}yu{\k32}kan {\k33}na {\k55}sen{\k28}tak {\k57}no
 Dialogue: 0,0:01:18.77,0:01:24.40,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k21}mi{\k31}ra{\k19}i {\k31}vo {\k32}i{\k53}ma {\k32}te{\k26}ra{\k41}şi{\k116}te{\k161}ku
-Dialogue: 0,0:01:32.28,0:01:35.39,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k20}ri{\k16}ko{\k16}te{\k20}ki {\k32}na {\k35}kan{\k54}jo {\k15}bu{\k19}tsu{\k16}ke{\k34}a{\k34}ça
-Dialogue: 0,0:01:35.40,0:01:35.95,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}ma{\k19}da
-Dialogue: 0,0:01:36.22,0:01:37.49,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}mi{\k16}e{\k19}na{\k16}i {\k54}ne
-Dialogue: 0,0:01:37.82,0:01:40.71,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k18}ni{\k16}ge{\k15}te {\k20}ki{\k33}ta {\k36}bun {\k51}no {\k10}ki{\k6}o{\k19}ri {\k18}vo {\k17}u{\k17}me{\k13}ru
-Dialogue: 0,0:01:40.88,0:01:41.41,OP-ROM9,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k40}ho{\k13}ra
-Dialogue: 0,0:01:41.56,0:01:43.17,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k25}ta{\k16}bi {\k52}ni {\k16}de{\k52}yo
-Dialogue: 0,0:01:43.56,0:01:48.71,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k47}sa{\k33}i{\k35}ha{\k32}te {\k37}na{\k34}n{\k68}te {\k32}mi{\k35}ra{\k33}re{\k33}na{\k36}ku{\k38}te{\k22}mo
+Dialogue: 0,0:01:32.28,0:01:35.41,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k20}ri{\k16}ko{\k16}te{\k20}ki {\k32}na {\k35}kan{\k54}jo {\k15}bu{\k19}tsu{\k16}ke{\k34}a{\k34}ça
+Dialogue: 0,0:01:35.41,0:01:35.95,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}ma{\k19}da
+Dialogue: 0,0:01:36.20,0:01:37.49,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}mi{\k16}e{\k19}na{\k16}i {\k54}ne
+Dialogue: 0,0:01:37.83,0:01:40.71,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k18}ni{\k16}ge{\k15}te {\k20}ki{\k33}ta {\k36}bun {\k51}no {\k10}ki{\k6}o{\k19}ri {\k18}vo {\k17}u{\k17}me{\k13}ru
+Dialogue: 0,0:01:40.87,0:01:41.41,OP-ROM9,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k40}ho{\k13}ra
+Dialogue: 0,0:01:41.54,0:01:43.17,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k25}ta{\k16}bi {\k52}ni {\k16}de{\k52}yo
+Dialogue: 0,0:01:43.54,0:01:48.71,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k47}sa{\k33}i{\k35}ha{\k32}te {\k37}na{\k34}n{\k68}te {\k32}mi{\k35}ra{\k33}re{\k33}na{\k36}ku{\k38}te{\k22}mo
 Dialogue: 0,0:01:49.13,0:01:55.47,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k20}i{\k13}no{\k17}çi {\k18}vo {\k13}mo{\k18}ya{\k20}şi{\k34}te {\k17}i{\k17}ma {\k16}vo {\k11}i{\k23}ki{\k46}te {\k20}i{\k66}ku {\k36}da{\k17}ke {\k34}da{\k31}ka{\k147}ra
-Dialogue: 0,0:01:55.84,0:01:59.14,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}ne{\k34}gat{\k26}ta {\k39}son{\k18}za{\k18}i {\k32}no {\k14}şo{\k26}u{\k26}me{\k16}i {\k45}vo
-Dialogue: 0,0:01:59.49,0:02:02.69,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k37}ko{\k21}e {\k31}vo {\k15}fu{\k17}ru{\k28}va{\k19}se {\k20}tsu{\k35}zu{\k33}ke{\k64}te
-Dialogue: 0,0:02:03.15,0:02:07.02,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}fu{\k36}ri{\k34}ke{\k30}za{\k38}şi{\k46}te {\k36}ki{\k16}ta {\k20}ka{\k95}ra
+Dialogue: 0,0:01:55.85,0:01:59.14,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}ne{\k34}gat{\k26}ta {\k39}son{\k18}za{\k18}i {\k32}no {\k14}şo{\k26}u{\k26}me{\k16}i {\k45}vo
+Dialogue: 0,0:01:59.47,0:02:02.69,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k37}ko{\k21}e {\k31}vo {\k15}fu{\k17}ru{\k28}va{\k19}se {\k20}tsu{\k35}zu{\k33}ke{\k64}te
+Dialogue: 0,0:02:03.14,0:02:07.02,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k36}fu{\k36}ri{\k34}ke{\k30}za{\k38}şi{\k46}te {\k36}ki{\k16}ta {\k20}ka{\k95}ra
 Dialogue: 0,0:02:07.48,0:02:09.78,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}ko{\k17}u{\k20}ka{\k13}i {\k34}va {\k17}i{\k34}ra{\k23}na{\k50}i
-Dialogue: 0,0:02:10.17,0:02:12.70,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,0)\k37}te {\k16}vo {\k34}to{\k32}ri{\k53}at{\k81}te
+Dialogue: 0,0:02:10.15,0:02:12.70,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,0)\k37}te {\k16}vo {\k34}to{\k32}ri{\k53}at{\k81}te
 Dialogue: 0,0:02:12.70,0:02:13.74,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(0,50)}te vo toriatte
 Dialogue: 0,0:02:11.49,0:02:13.74,OP-ROM9,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k38}ku{\k16}ra{\k33}i {\k18}ka{\k16}ko {\k52}dat{\k52}te
 Dialogue: 0,0:02:13.82,0:02:17.70,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k35}u{\k36}ke{\k36}to{\k31}me{\k31}te {\k47}su{\k42}su{\k13}nde {\k22}yu{\k95}ku
 Dialogue: 0,0:02:18.08,0:02:22.83,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k39}şi{\k16}me{\k37}sa{\k42}re{\k46}ta {\k35}ko{\k35}ta{\k32}e {\k32}e{\k17}ra{\k36}bu {\k31}yo{\k77}ri
-Dialogue: 0,0:02:23.18,0:02:26.92,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k19}a{\k17}ta{\k25}ra{\k25}şi{\k49}i {\k36}yu{\k14}me {\k21}vo {\k14}me{\k18}za{\k16}s {\k30}ka{\k90}ra
+Dialogue: 0,0:02:23.16,0:02:26.92,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k19}a{\k17}ta{\k25}ra{\k25}şi{\k49}i {\k36}yu{\k14}me {\k21}vo {\k14}me{\k18}za{\k16}s {\k30}ka{\k90}ra
 Dialogue: 0,0:02:27.13,0:02:28.34,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k107}zut{\k14}to
 Dialogue: 0,0:02:28.50,0:02:34.05,OP-ROM,Romaji,0,0,0,,{\shad0.5\blur6\fad(50,50)\k21}ma{\k8}bu{\k40}şi {\k15}mi{\k51}çi {\k16}vo {\k19}a{\k32}ru{\k20}i{\k31}te {\k34}yu{\k268}ko
 Dialogue: 0,0:01:15.18,0:01:18.64,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k33}Ce{\k49}sur{\k50}ca {\k33}se{\k66}çim{\k33}le{\k33}ri{\k49}miz
 Dialogue: 0,0:01:18.77,0:01:24.40,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k45}Ge{\k45}le{\k45}ce{\k90}ğe {\k45}ı{\k135}şık {\k45}tu{\k45}ta{\k68}cak
-Dialogue: 0,0:01:32.28,0:01:35.39,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k24}Ben{\k33}cil {\k25}duy{\k16}gu{\k16}la{\k25}rı{\k41}mız {\k24}ça{\k25}tı{\k24}şa{\k33}cak {\k25}mı
-Dialogue: 0,0:01:35.40,0:01:35.95,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k18}He{\k37}nüz
-Dialogue: 0,0:01:36.22,0:01:37.49,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k23}Bi{\k23}le{\k23}mi{\k23}yo{\k35}rum
-Dialogue: 0,0:01:37.82,0:01:40.71,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k9}U{\k27}zak{\k36}laş{\k18}ma{\k45}nın {\k36}bir {\k18}be{\k18}de{\k28}li {\k9}o{\k18}la{\k27}cak
-Dialogue: 0,0:01:40.88,0:01:41.41,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k26}Hadi
-Dialogue: 0,0:01:41.56,0:01:43.17,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k43}Çı{\k21}ka{\k54}lım {\k21}yo{\k22}la
-Dialogue: 0,0:01:43.56,0:01:48.71,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k56}Çık{\k33}tı{\k45}ğı{\k56}mız {\k34}bu {\k22}yo{\k45}lun {\k22}so{\k22}nu{\k34}nu {\k34}gö{\k22}re{\k23}me{\k45}sek {\k22}de
+Dialogue: 0,0:01:32.28,0:01:35.41,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k24}Ben{\k33}cil {\k25}duy{\k16}gu{\k16}la{\k25}rı{\k41}mız {\k24}ça{\k25}tı{\k24}şa{\k33}cak {\k25}mı
+Dialogue: 0,0:01:35.41,0:01:35.95,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k18}He{\k37}nüz
+Dialogue: 0,0:01:36.20,0:01:37.49,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k23}Bi{\k23}le{\k23}mi{\k23}yo{\k35}rum
+Dialogue: 0,0:01:37.83,0:01:40.71,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k9}U{\k27}zak{\k36}laş{\k18}ma{\k45}nın {\k36}bir {\k18}be{\k18}de{\k28}li {\k9}o{\k18}la{\k27}cak
+Dialogue: 0,0:01:40.87,0:01:41.41,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k26}Hadi
+Dialogue: 0,0:01:41.54,0:01:43.17,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k43}Çı{\k21}ka{\k54}lım {\k21}yo{\k22}la
+Dialogue: 0,0:01:43.54,0:01:48.71,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k56}Çık{\k33}tı{\k45}ğı{\k56}mız {\k34}bu {\k22}yo{\k45}lun {\k22}so{\k22}nu{\k34}nu {\k34}gö{\k22}re{\k23}me{\k45}sek {\k22}de
 Dialogue: 0,0:01:49.13,0:01:55.47,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k24}Ru{\k24}hu{\k48}muz {\k24}ya{\k24}na{\k36}dur{\k59}sun, {\k12}a{\k48}nı {\k24}ya{\k36}şa{\k24}ya{\k36}bil{\k47}mek {\k24}ye{\k48}ter {\k24}he{\k24}pi{\k24}mi{\k24}ze
-Dialogue: 0,0:01:55.84,0:01:59.14,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}Di{\k22}le{\k33}ği{\k44}miz {\k33}var{\k11}o{\k22}lu{\k55}şun {\k22}ka{\k33}nı{\k33}tı
-Dialogue: 0,0:01:59.49,0:02:02.69,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k38}Sen{\k26}de{\k26}le{\k51}sek {\k38}de {\k13}i{\k38}ler{\k26}li{\k26}yo{\k38}ruz
-Dialogue: 0,0:02:03.15,0:02:07.02,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k43}Ken{\k29}di{\k43}miz{\k57}den {\k14}e{\k43}min{\k29}mi{\k72}şiz {\k28}gi{\k29}bi
+Dialogue: 0,0:01:55.85,0:01:59.14,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k22}Di{\k22}le{\k33}ği{\k44}miz {\k33}var{\k11}o{\k22}lu{\k55}şun {\k22}ka{\k33}nı{\k33}tı
+Dialogue: 0,0:01:59.47,0:02:02.69,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k38}Sen{\k26}de{\k26}le{\k51}sek {\k38}de {\k13}i{\k38}ler{\k26}li{\k26}yo{\k38}ruz
+Dialogue: 0,0:02:03.14,0:02:07.02,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k43}Ken{\k29}di{\k43}miz{\k57}den {\k14}e{\k43}min{\k29}mi{\k72}şiz {\k28}gi{\k29}bi
 Dialogue: 0,0:02:07.48,0:02:09.78,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k51}Piş{\k51}man {\k26}ol{\k25}ma{\k26}ya{\k51}lım
-Dialogue: 0,0:02:10.17,0:02:12.70,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,0)\k28}Tu{\k28}tu{\k42}şa{\k71}lım {\k42}el {\k14}e{\k28}le
+Dialogue: 0,0:02:10.15,0:02:12.70,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,0)\k28}Tu{\k28}tu{\k42}şa{\k71}lım {\k42}el {\k14}e{\k28}le
 Dialogue: 0,0:02:12.70,0:02:13.74,OP-TR,Romaji,0,0,0,,{\shad0.5\blur6\fad(0,50)}Tutuşalım el ele
 Dialogue: 0,0:02:11.49,0:02:13.74,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k41}Geç{\k20}mi{\k31}şi{\k41}miz {\k20}ka{\k31}ra {\k20}ol{\k21}sa
 Dialogue: 0,0:02:13.82,0:02:17.70,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k31}Bi{\k47}le {\k31}bu{\k46}nu {\k31}ka{\k47}bul{\k46}len{\k31}me{\k31}li{\k47}yiz
 Dialogue: 0,0:02:18.08,0:02:22.83,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k25}Be{\k37}lir{\k25}le{\k50}nen {\k38}yol{\k50}dan {\k12}i{\k37}ler{\k25}le{\k25}me{\k38}yi {\k38}bı{\k25}ra{\k50}kıp
-Dialogue: 0,0:02:23.18,0:02:26.92,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k55}Koş{\k28}ma{\k42}lı{\k69}yız {\k28}ha{\k41}yal{\k28}le{\k28}ri{\k27}mi{\k28}ze
+Dialogue: 0,0:02:23.16,0:02:26.92,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k55}Koş{\k28}ma{\k42}lı{\k69}yız {\k28}ha{\k41}yal{\k28}le{\k28}ri{\k27}mi{\k28}ze
 Dialogue: 0,0:02:27.13,0:02:28.34,OP-TR9,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k54}Her {\k27}za{\k40}man
 Dialogue: 0,0:02:28.50,0:02:34.05,OP-TR,Turkish,0,0,0,,{\shad0.5\blur6\fad(50,50)\k52}Yü{\k52}rü{\k35}me{\k35}li{\k69}yiz {\k52}bü{\k52}yü{\k69}lü {\k52}yol{\k52}lar{\k35}da
-Dialogue: 0,0:01:14.98,0:01:15.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.97,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.03,0:01:15.55,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(114.45,30.57)\fscx69.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.08,0:01:15.92,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(170.76,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.13,0:01:16.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(227.72,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.18,0:01:16.59,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(287.83,30.57)\fscx73.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.23,0:01:16.91,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(362.2,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.28,0:01:17.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(436.48,30.57)\fscx73.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.33,0:01:17.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(506.74,30.57)\fscx66.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.38,0:01:18.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(577.37,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.57,0:01:18.77,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.09,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.62,0:01:18.98,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(102.96,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.67,0:01:19.29,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(131.1,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.72,0:01:19.48,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(171.5,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.77,0:01:19.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(211.9,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.82,0:01:20.11,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(249.59,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.87,0:01:20.64,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(315.34,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.92,0:01:20.96,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(359.49,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.97,0:01:21.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(399.54,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:19.02,0:01:21.63,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(438.2,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:19.07,0:01:22.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(483.85,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.08,0:01:32.28,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(45.54,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.13,0:01:32.48,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(85.11,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.18,0:01:32.64,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(130.52,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.23,0:01:32.80,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(168.87,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.28,0:01:33.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(223.23,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.33,0:01:33.32,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(297.61,30.57)\fscx73.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.38,0:01:33.67,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(352.36,30.57)\fscx35.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.43,0:01:34.21,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(407.6,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.48,0:01:34.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(466.8,30.57)\fscx67.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.53,0:01:34.55,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(524.37,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.58,0:01:34.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(560.76,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.63,0:01:35.05,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(597.77,30.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:35.20,0:01:35.40,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.33,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:35.25,0:01:35.76,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(119.94,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:36.02,0:01:36.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.09,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:36.07,0:01:36.44,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(92.38,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:36.12,0:01:36.60,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(129.95,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:36.17,0:01:36.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(160.7,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:36.22,0:01:36.95,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(203.06,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.62,0:01:37.82,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(48.14,30.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.67,0:01:38.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(91.2,30.57)\fscx49.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.72,0:01:38.16,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(137.51,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.77,0:01:38.31,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(187.88,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.82,0:01:38.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(226.63,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.87,0:01:38.84,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(298.66,30.57)\fscx76.406\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.92,0:01:39.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(374.1,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.97,0:01:39.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(428.3,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:38.02,0:01:39.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(457.7,30.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:38.07,0:01:39.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(485.68,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:38.12,0:01:40.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(536.25,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:38.17,0:01:40.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(583.96,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:38.22,0:01:40.41,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(628.56,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:38.27,0:01:40.58,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(683.34,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:40.68,0:01:40.88,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.21,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:40.73,0:01:41.28,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(103.2,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:41.36,0:01:41.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(51.79,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:41.41,0:01:41.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(91.7,30.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:41.46,0:01:41.97,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(139.98,30.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:41.51,0:01:42.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(195.03,30.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:41.56,0:01:42.65,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(242.8,30.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.36,0:01:43.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.51,30.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.41,0:01:44.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(84.38,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.46,0:01:44.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(115.13,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.51,0:01:44.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(161.88,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.56,0:01:45.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(220.67,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.61,0:01:45.40,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(258.82,30.57)\fscx25.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.66,0:01:45.74,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(292.98,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:14.97,0:01:15.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.97,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.01,0:01:15.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(114.45,30.57)\fscx69.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.10,0:01:15.93,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(170.76,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.14,0:01:16.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(227.72,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.18,0:01:16.60,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(287.83,30.57)\fscx73.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.22,0:01:16.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(362.2,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.26,0:01:17.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(436.48,30.57)\fscx73.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.35,0:01:17.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(506.74,30.57)\fscx66.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.39,0:01:18.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(577.37,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.56,0:01:18.77,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.09,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.60,0:01:18.98,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(102.96,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.68,0:01:19.31,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(131.1,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.73,0:01:19.48,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(171.5,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.77,0:01:19.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(211.9,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.81,0:01:20.10,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(249.59,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.85,0:01:20.64,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(315.34,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.93,0:01:20.98,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(359.49,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.98,0:01:21.23,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(399.54,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:19.02,0:01:21.64,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(438.2,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:19.06,0:01:22.77,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(483.85,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.07,0:01:32.28,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(45.54,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.11,0:01:32.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(85.11,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.20,0:01:32.66,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(130.52,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.24,0:01:32.78,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(168.87,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.28,0:01:32.99,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(223.23,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.32,0:01:33.32,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(297.61,30.57)\fscx73.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.36,0:01:33.66,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(352.36,30.57)\fscx35.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.45,0:01:34.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(407.6,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.49,0:01:34.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(466.8,30.57)\fscx67.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.53,0:01:34.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(524.37,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.57,0:01:34.70,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(560.76,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.61,0:01:35.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(597.77,30.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:35.20,0:01:35.41,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.33,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:35.24,0:01:35.74,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(119.94,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.03,0:01:36.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.09,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.08,0:01:36.45,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(92.38,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.12,0:01:36.62,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(129.95,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.16,0:01:36.78,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(160.7,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.20,0:01:36.95,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(203.06,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.62,0:01:37.83,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(48.14,30.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.66,0:01:37.99,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(91.2,30.57)\fscx49.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.70,0:01:38.16,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(137.51,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.79,0:01:38.33,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(187.88,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.83,0:01:38.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(226.63,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.87,0:01:38.83,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(298.66,30.57)\fscx76.406\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.91,0:01:39.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(374.1,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.95,0:01:39.70,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(428.3,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.04,0:01:39.83,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(457.7,30.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.08,0:01:39.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(485.68,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.12,0:01:40.08,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(536.25,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.16,0:01:40.25,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(583.96,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.20,0:01:40.41,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(628.56,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.29,0:01:40.58,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(683.34,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:40.66,0:01:40.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(55.21,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:40.75,0:01:41.29,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(103.2,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.37,0:01:41.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(51.79,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.41,0:01:41.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(91.7,30.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.46,0:01:41.96,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(139.98,30.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.50,0:01:42.50,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(195.03,30.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.54,0:01:42.67,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(242.8,30.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.37,0:01:43.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.51,30.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.42,0:01:44.04,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(84.38,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.46,0:01:44.38,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(115.13,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.50,0:01:44.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(161.88,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.54,0:01:45.04,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(220.67,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.62,0:01:45.42,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(258.82,30.57)\fscx25.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.67,0:01:45.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(292.98,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:01:43.71,0:01:46.42,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(351.48,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.76,0:01:46.74,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(399.35,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.81,0:01:47.09,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(444.49,30.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.86,0:01:47.42,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(492.23,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.91,0:01:47.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(541.88,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.96,0:01:48.11,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(587.54,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:44.01,0:01:48.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(641.09,30.57)\fscx64.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:48.93,0:01:49.13,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(35.37,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:48.98,0:01:49.33,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(65.95,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.03,0:01:49.46,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(108.34,30.57)\fscx34.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.08,0:01:49.63,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(160.55,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.13,0:01:49.81,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(227.74,30.57)\fscx64.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.18,0:01:49.94,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(282.97,30.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.23,0:01:50.12,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(323.3,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.28,0:01:50.32,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(361.96,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.33,0:01:50.66,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(400.74,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.38,0:01:50.83,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(438.44,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.43,0:01:51.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(505.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.48,0:01:51.16,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(546.2,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.53,0:01:51.27,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(568.52,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.58,0:01:51.50,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(606.87,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.63,0:01:51.96,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(645.65,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.68,0:01:52.16,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(675.29,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.73,0:01:52.82,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(736.88,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.78,0:01:53.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(785.95,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.83,0:01:53.35,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(847.05,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.88,0:01:53.69,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(896.52,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.93,0:01:54.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(943.49,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.64,0:01:55.84,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.97,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.69,0:01:56.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(114.45,30.57)\fscx69.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.74,0:01:56.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(170.76,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.79,0:01:56.80,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(241.7,30.57)\fscx74.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.84,0:01:57.19,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(301.61,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.89,0:01:57.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(329.77,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.94,0:01:57.55,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(372.38,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.99,0:01:57.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(433.97,30.57)\fscx48.688\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:56.04,0:01:58.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(470.99,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:56.09,0:01:58.27,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(515.59,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:56.14,0:01:58.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(552.88,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:56.19,0:01:58.69,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(593.28,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.29,0:01:59.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.03,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.34,0:01:59.86,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(90.26,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.39,0:02:00.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(137.48,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.44,0:02:00.38,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(192.73,30.57)\fscx40.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.49,0:02:00.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(235.79,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.54,0:02:00.70,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(281.8,30.57)\fscx46.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.59,0:02:00.98,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(329.07,30.57)\fscx48.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.64,0:02:01.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(398.98,30.57)\fscx67.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.69,0:02:01.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(455.63,30.57)\fscx45.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.74,0:02:01.72,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(502.29,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.79,0:02:02.05,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(547.46,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:02.95,0:02:03.15,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(50.21,30.57)\fscx40.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.00,0:02:03.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(85.96,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.05,0:02:03.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(125.29,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.10,0:02:04.21,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(171.88,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.15,0:02:04.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(211.95,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.20,0:02:04.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(250.6,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.25,0:02:05.35,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(300.98,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.30,0:02:05.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(339.73,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.35,0:02:05.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(397.74,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.40,0:02:06.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(444.71,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.28,0:02:07.48,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.03,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.33,0:02:07.70,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(90.74,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.38,0:02:07.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(127.62,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.43,0:02:08.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(157.18,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.48,0:02:08.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(197.74,30.57)\fscx46.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.53,0:02:08.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(238.3,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.58,0:02:08.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(266.45,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.63,0:02:09.05,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(314.59,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.68,0:02:09.28,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(345.34,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:09.97,0:02:10.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(51.38,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.02,0:02:10.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(107.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.07,0:02:10.70,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(164.45,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.12,0:02:11.04,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(201.62,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.17,0:02:11.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(238.95,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.22,0:02:11.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(282.12,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.62,0:02:13.82,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(42.68,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.67,0:02:14.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(79.15,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.72,0:02:14.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(124.56,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.77,0:02:14.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(178.11,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.75,0:01:46.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(399.35,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.79,0:01:47.09,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(444.49,30.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.88,0:01:47.42,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(492.23,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.92,0:01:47.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(541.88,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.96,0:01:48.13,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(587.54,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:44.00,0:01:48.50,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(641.09,30.57)\fscx64.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.92,0:01:49.13,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(35.37,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.96,0:01:49.34,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(65.95,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.05,0:01:49.46,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(108.34,30.57)\fscx34.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.09,0:01:49.63,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(160.55,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.13,0:01:49.80,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(227.74,30.57)\fscx64.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.17,0:01:49.92,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(282.97,30.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.21,0:01:50.13,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(323.3,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.30,0:01:50.34,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(361.96,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.34,0:01:50.67,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(400.74,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.38,0:01:50.84,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(438.44,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.42,0:01:51.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(505.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.46,0:01:51.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(546.2,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.55,0:01:51.26,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(568.52,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.59,0:01:51.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(606.87,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.63,0:01:51.97,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(645.65,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.67,0:01:52.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(675.29,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.71,0:01:52.80,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(736.88,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.80,0:01:53.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(785.95,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.84,0:01:53.34,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(847.05,30.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.88,0:01:53.68,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(896.52,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.92,0:01:54.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(943.49,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.64,0:01:55.85,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.97,30.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.68,0:01:56.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(114.45,30.57)\fscx69.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.72,0:01:56.55,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(170.76,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.80,0:01:56.80,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(241.7,30.57)\fscx74.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.85,0:01:57.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(301.61,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.89,0:01:57.39,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(329.77,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.93,0:01:57.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(372.38,30.57)\fscx50.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.97,0:01:57.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(433.97,30.57)\fscx48.688\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.05,0:01:58.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(470.99,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.10,0:01:58.26,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(515.59,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.14,0:01:58.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(552.88,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.18,0:01:58.68,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(593.28,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.31,0:01:59.47,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.03,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.35,0:01:59.85,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(90.26,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.39,0:02:00.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(137.48,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.43,0:02:00.39,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(192.73,30.57)\fscx40.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.47,0:02:00.52,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(235.79,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.56,0:02:00.68,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(281.8,30.57)\fscx46.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.60,0:02:00.98,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(329.07,30.57)\fscx48.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.64,0:02:01.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(398.98,30.57)\fscx67.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.68,0:02:01.35,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(455.63,30.57)\fscx45.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.72,0:02:01.73,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(502.29,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.81,0:02:02.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(547.46,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:02.94,0:02:03.14,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(50.21,30.57)\fscx40.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.02,0:02:03.52,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(85.96,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.06,0:02:03.85,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(125.29,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.10,0:02:04.23,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(171.88,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.14,0:02:04.52,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(211.95,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.19,0:02:04.90,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(250.6,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.27,0:02:05.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(300.98,30.57)\fscx33.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.31,0:02:05.73,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(339.73,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.35,0:02:05.86,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(397.74,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.39,0:02:06.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(444.71,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.27,0:02:07.48,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(54.03,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.32,0:02:07.69,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(90.74,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.40,0:02:07.86,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(127.62,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.44,0:02:08.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(157.18,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.48,0:02:08.19,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(197.74,30.57)\fscx46.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.52,0:02:08.52,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(238.3,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.57,0:02:08.69,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(266.45,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.65,0:02:09.07,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(314.59,30.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.69,0:02:09.28,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(345.34,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:09.98,0:02:10.15,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(51.38,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.03,0:02:10.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(107.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.07,0:02:10.69,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(164.45,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.11,0:02:11.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(201.62,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.15,0:02:11.36,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(238.95,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.23,0:02:11.90,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(282.12,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.61,0:02:13.82,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(42.68,30.57)\fscx25.359\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.65,0:02:14.16,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(79.15,30.57)\fscx47.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.74,0:02:14.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(124.56,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.78,0:02:14.91,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(178.11,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:02:13.82,0:02:15.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(231.41,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.87,0:02:15.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(289.41,30.57)\fscx49.172\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.92,0:02:15.98,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(338.59,30.57)\fscx49.172\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.97,0:02:16.40,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(400.82,30.57)\fscx75.297\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:14.02,0:02:16.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(473.64,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:14.07,0:02:16.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(521.05,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:17.88,0:02:18.08,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(47.27,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:17.93,0:02:18.47,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(96.47,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:17.98,0:02:18.63,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(152.9,30.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.03,0:02:19.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(199.77,30.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.08,0:02:19.42,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(243.93,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.13,0:02:19.88,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(301.78,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.18,0:02:20.23,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(347.6,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.23,0:02:20.58,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(381.59,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.28,0:02:20.90,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(418.01,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.33,0:02:21.22,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(452.98,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.38,0:02:21.39,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(501.18,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.43,0:02:21.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(561.54,30.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.48,0:02:22.06,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(599.98,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:22.98,0:02:23.18,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(42.6,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.03,0:02:23.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(76.99,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.86,0:02:15.49,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(289.41,30.57)\fscx49.172\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.91,0:02:15.99,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(338.59,30.57)\fscx49.172\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.99,0:02:16.41,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(400.82,30.57)\fscx75.297\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:14.03,0:02:16.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(473.64,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:14.07,0:02:16.74,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(521.05,30.57)\fscx48.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.87,0:02:18.08,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(47.27,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.95,0:02:18.45,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(96.47,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.99,0:02:18.62,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(152.9,30.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.03,0:02:18.99,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(199.77,30.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.08,0:02:19.41,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(243.93,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.12,0:02:19.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(301.78,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.16,0:02:20.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(347.6,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.24,0:02:20.58,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(381.59,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.28,0:02:20.91,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(418.01,30.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.33,0:02:21.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(452.98,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.37,0:02:21.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(501.18,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.41,0:02:21.75,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(561.54,30.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.49,0:02:22.08,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(599.98,30.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.00,0:02:23.16,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(42.6,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.04,0:02:23.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(76.99,30.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:02:23.08,0:02:23.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(121.55,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.13,0:02:23.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(161.6,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.18,0:02:24.04,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(184.24,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.23,0:02:24.53,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(224.78,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.28,0:02:24.89,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(279.84,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.33,0:02:25.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(346.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.38,0:02:25.24,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(413.75,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.43,0:02:25.38,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(468.47,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.48,0:02:25.56,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(503.17,30.57)\fscx23.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.53,0:02:25.72,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(551.3,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.58,0:02:26.02,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(598.27,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:26.93,0:02:27.13,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.06,30.57)\fscx64.125\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:26.98,0:02:28.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(115.75,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.30,0:02:28.50,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.33,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.35,0:02:28.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(120.09,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.40,0:02:28.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(162.79,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.45,0:02:29.19,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(217.19,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.12,0:02:23.79,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(161.6,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.16,0:02:24.04,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(184.24,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.25,0:02:24.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(224.78,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.29,0:02:24.87,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(279.84,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.33,0:02:25.04,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(346.8,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.37,0:02:25.25,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(413.75,30.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.41,0:02:25.38,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(468.47,30.57)\fscx45.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.50,0:02:25.54,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(503.17,30.57)\fscx23.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.54,0:02:25.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(551.3,30.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.58,0:02:26.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(598.27,30.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.92,0:02:27.13,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.06,30.57)\fscx64.125\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:26.96,0:02:28.21,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(115.75,30.57)\fscx43.25\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.29,0:02:28.50,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(62.33,30.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.34,0:02:28.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(120.09,30.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.42,0:02:28.80,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(162.79,30.57)\fscx34.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.46,0:02:29.17,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(217.19,30.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:02:28.50,0:02:29.34,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(259.46,30.57)\fscx34.359\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.55,0:02:29.85,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(311.67,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.60,0:02:30.01,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(359.3,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.65,0:02:30.20,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(394.76,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.70,0:02:30.52,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(422.98,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.75,0:02:30.72,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(449.73,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.80,0:02:31.03,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(506.28,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.85,0:02:31.37,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(553.45,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:14.98,0:01:15.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.06,990.57)\fscx54.125\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.03,0:01:15.51,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(118.88,990.57)\fscx69.516\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.08,0:01:16.00,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(178.05,990.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.13,0:01:16.50,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(238.6,990.57)\fscx48.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.18,0:01:16.83,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(299.61,990.57)\fscx73.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.23,0:01:17.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(354.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.28,0:01:17.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(387.18,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:15.33,0:01:18.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(438.01,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.57,0:01:18.77,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.76,990.57)\fscx55.516\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.62,0:01:19.22,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(103.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.67,0:01:19.67,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(144.65,990.57)\fscx48.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.72,0:01:20.12,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(193.58,990.57)\fscx49.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.54,0:02:29.84,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(311.67,30.57)\fscx46\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.59,0:02:30.00,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(359.3,30.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.67,0:02:30.21,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(394.76,30.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.71,0:02:30.51,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(422.98,30.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.75,0:02:30.71,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(449.73,30.57)\fscx42.766\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.80,0:02:31.05,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(506.28,30.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.84,0:02:31.38,OP-ROM,lead-in,0,0,0,Effector [fx],{\an8\pos(553.45,30.57)\fscx48.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:14.97,0:01:15.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.06,990.57)\fscx54.125\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.01,0:01:15.51,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(118.88,990.57)\fscx69.516\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.10,0:01:16.01,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(178.05,990.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.14,0:01:16.51,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(238.6,990.57)\fscx48.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.18,0:01:16.85,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(299.61,990.57)\fscx73.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.22,0:01:17.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(354.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.26,0:01:17.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(387.18,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:15.35,0:01:18.14,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(438.01,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.56,0:01:18.77,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.76,990.57)\fscx55.516\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.60,0:01:19.23,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(103.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.68,0:01:19.68,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(144.65,990.57)\fscx48.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.73,0:01:20.10,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(193.58,990.57)\fscx49.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:01:18.77,0:01:21.02,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(235.9,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.82,0:01:21.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(270.13,990.57)\fscx57.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.87,0:01:22.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(332.9,990.57)\fscx43.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.92,0:01:23.27,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(376.55,990.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:18.97,0:01:23.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(434.35,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.08,0:01:32.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(70.27,990.57)\fscx80.531\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.13,0:01:32.52,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(133.08,990.57)\fscx45.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.18,0:01:32.85,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(203.48,990.57)\fscx71.641\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.23,0:01:33.10,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.7,990.57)\fscx50.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.28,0:01:33.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(308.08,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.33,0:01:33.42,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(341.59,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.38,0:01:33.67,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(392.41,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.43,0:01:34.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(464.15,990.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.48,0:01:34.32,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(503.12,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.81,0:01:21.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(270.13,990.57)\fscx57.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.85,0:01:22.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(332.9,990.57)\fscx43.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.93,0:01:23.27,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(376.55,990.57)\fscx43.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:18.98,0:01:23.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(434.35,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.07,0:01:32.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(70.27,990.57)\fscx80.531\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.11,0:01:32.53,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(133.08,990.57)\fscx45.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.20,0:01:32.86,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(203.48,990.57)\fscx71.641\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.24,0:01:33.11,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.7,990.57)\fscx50.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.28,0:01:33.24,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(308.08,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.32,0:01:33.41,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(341.59,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.36,0:01:33.66,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(392.41,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.45,0:01:34.07,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(464.15,990.57)\fscx48.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.49,0:01:34.32,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(503.12,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:01:32.53,0:01:34.57,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(542.18,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.58,0:01:34.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(602.7,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:32.63,0:01:35.14,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(675.83,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:36.02,0:01:36.22,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.66,990.57)\fscx41.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:36.07,0:01:36.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(88.89,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:36.12,0:01:36.68,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(131.55,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:36.17,0:01:36.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.54,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:36.22,0:01:37.14,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(245.02,990.57)\fscx85.156\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.62,0:01:37.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(46.16,990.57)\fscx32.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.67,0:01:37.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(96.72,990.57)\fscx68.781\fscy54.852\bord0\fad(120,0)\t(100,240,\fscy12.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.72,0:01:38.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(160.98,990.57)\fscx59.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.77,0:01:38.54,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(223.19,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.82,0:01:38.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(286.43,990.57)\fscx61.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.87,0:01:39.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(357.66,990.57)\fscx56.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.92,0:01:39.53,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(422.93,990.57)\fscx49.891\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:37.97,0:01:39.71,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(472.75,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:38.02,0:01:39.89,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(508.36,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:38.07,0:01:40.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(543.56,990.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:38.12,0:01:40.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(573.97,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:38.17,0:01:40.44,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(627.95,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:41.36,0:01:41.56,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.23,990.57)\fscx40.469\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:41.41,0:01:41.99,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(94.66,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:41.46,0:01:42.20,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(149.32,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:41.51,0:01:42.74,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(214.71,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:41.56,0:01:42.95,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(255.58,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.36,0:01:43.56,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(61.83,990.57)\fscx63.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.41,0:01:44.12,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(108.21,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.46,0:01:44.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(140.86,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.51,0:01:44.90,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(194.24,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.56,0:01:45.46,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(266.99,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.61,0:01:45.80,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(327.35,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.66,0:01:46.02,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(381.07,990.57)\fscx61.641\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.71,0:01:46.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(448.27,990.57)\fscx48.688\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.76,0:01:46.69,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(498.06,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.81,0:01:46.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(548.97,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.86,0:01:47.25,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(611.62,990.57)\fscx50.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.91,0:01:47.59,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(659.15,990.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:43.96,0:01:47.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(713.44,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:44.01,0:01:48.04,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(781.05,990.57)\fscx71.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:44.06,0:01:48.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(853.66,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:48.93,0:01:49.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(58.2,990.57)\fscx56.391\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:48.98,0:01:49.37,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(111.84,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.03,0:01:49.61,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.9,990.57)\fscx85.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.08,0:01:50.09,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(257.59,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.13,0:01:50.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(306.03,990.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.18,0:01:50.57,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(366.94,990.57)\fscx71.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.23,0:01:50.93,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(445.22,990.57)\fscx85.5\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.28,0:01:51.52,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(512.6,990.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.33,0:01:51.64,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(543.34,990.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.38,0:01:52.12,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(596.58,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.43,0:01:52.36,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(644.15,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.48,0:01:52.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(691.72,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.53,0:01:52.96,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(738.27,990.57)\fscx46.969\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.58,0:01:53.32,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(805.27,990.57)\fscx87.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.63,0:01:53.79,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(883.47,990.57)\fscx45.313\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.68,0:01:54.03,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(937.68,990.57)\fscx63.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.73,0:01:54.51,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1006.23,990.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.78,0:01:54.75,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1049.41,990.57)\fscx36.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.83,0:01:54.99,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1092.72,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:49.88,0:01:55.23,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1140.2,990.57)\fscx44.781\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.64,0:01:55.84,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(51.55,990.57)\fscx43.109\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.69,0:01:56.06,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(90.67,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.74,0:01:56.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(126.33,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.79,0:01:56.61,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.71,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.84,0:01:57.05,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(260.37,990.57)\fscx66.672\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.89,0:01:57.38,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(306.14,990.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.94,0:01:57.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(336.63,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:55.99,0:01:57.71,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(392.03,990.57)\fscx74.719\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:56.04,0:01:58.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(465.62,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:56.09,0:01:58.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(507.95,990.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.57,0:01:34.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(602.7,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:32.61,0:01:35.16,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(675.83,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.03,0:01:36.20,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.66,990.57)\fscx41.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.08,0:01:36.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(88.89,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.12,0:01:36.66,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(131.55,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.16,0:01:36.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.54,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:36.20,0:01:37.16,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(245.02,990.57)\fscx85.156\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.62,0:01:37.83,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(46.16,990.57)\fscx32.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.66,0:01:37.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(96.72,990.57)\fscx68.781\fscy54.852\bord0\fad(120,0)\t(100,240,\fscy12.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.70,0:01:38.16,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(160.98,990.57)\fscx59.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.79,0:01:38.54,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(223.19,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.83,0:01:38.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(286.43,990.57)\fscx61.828\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.87,0:01:39.16,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(357.66,990.57)\fscx56.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.91,0:01:39.54,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(422.93,990.57)\fscx49.891\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:37.95,0:01:39.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(472.75,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.04,0:01:39.87,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(508.36,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.08,0:01:40.16,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(543.56,990.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.12,0:01:40.25,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(573.97,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:38.16,0:01:40.46,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(627.95,990.57)\fscx72.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.37,0:01:41.54,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.23,990.57)\fscx40.469\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.41,0:01:42.00,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(94.66,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.46,0:01:42.21,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(149.32,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.50,0:01:42.75,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(214.71,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:41.54,0:01:42.96,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(255.58,990.57)\fscx35.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.37,0:01:43.54,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(61.83,990.57)\fscx63.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.42,0:01:44.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(108.21,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.46,0:01:44.46,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(140.86,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.50,0:01:44.92,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(194.24,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.54,0:01:45.46,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(266.99,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.62,0:01:45.79,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(327.35,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.67,0:01:46.00,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(381.07,990.57)\fscx61.641\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.71,0:01:46.46,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(448.27,990.57)\fscx48.688\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.75,0:01:46.67,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(498.06,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.79,0:01:46.92,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(548.97,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.88,0:01:47.25,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(611.62,990.57)\fscx50.328\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.92,0:01:47.59,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(659.15,990.57)\fscx44.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:43.96,0:01:47.80,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(713.44,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:44.00,0:01:48.05,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(781.05,990.57)\fscx71.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:44.04,0:01:48.50,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(853.66,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.92,0:01:49.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(58.2,990.57)\fscx56.391\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:48.96,0:01:49.38,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(111.84,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.05,0:01:49.63,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.9,990.57)\fscx85.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.09,0:01:50.09,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(257.59,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.13,0:01:50.34,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(306.03,990.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.17,0:01:50.59,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(366.94,990.57)\fscx71.063\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.21,0:01:50.92,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(445.22,990.57)\fscx85.5\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.30,0:01:51.51,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(512.6,990.57)\fscx25.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.34,0:01:51.63,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(543.34,990.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.38,0:01:52.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(596.58,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.42,0:01:52.34,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(644.15,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.46,0:01:52.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(691.72,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.55,0:01:52.97,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(738.27,990.57)\fscx46.969\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.59,0:01:53.30,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(805.27,990.57)\fscx87.031\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.63,0:01:53.80,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(883.47,990.57)\fscx45.313\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.67,0:01:54.01,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(937.68,990.57)\fscx63.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.71,0:01:54.51,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1006.23,990.57)\fscx49.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.80,0:01:54.76,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1049.41,990.57)\fscx36.422\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.84,0:01:54.97,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1092.72,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:49.88,0:01:55.22,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(1140.2,990.57)\fscx44.781\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.64,0:01:55.85,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(51.55,990.57)\fscx43.109\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.68,0:01:56.05,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(90.67,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.72,0:01:56.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(126.33,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.80,0:01:56.60,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(179.71,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.85,0:01:57.06,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(260.37,990.57)\fscx66.672\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.89,0:01:57.39,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(306.14,990.57)\fscx24.875\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.93,0:01:57.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(336.63,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:55.97,0:01:57.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(392.03,990.57)\fscx74.719\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.05,0:01:58.26,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(465.62,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:56.10,0:01:58.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(507.95,990.57)\fscx36.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:01:56.14,0:01:58.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(540.65,990.57)\fscx29.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.29,0:01:59.49,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.38,990.57)\fscx78.75\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.34,0:01:59.87,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(133.63,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.39,0:02:00.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(176.06,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.44,0:02:00.39,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(229.32,990.57)\fscx71.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.49,0:02:00.90,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(301.92,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.54,0:02:01.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(344.2,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.59,0:02:01.41,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(377.3,990.57)\fscx55.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.64,0:02:01.79,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(415.77,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.69,0:02:02.05,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(449.4,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:01:59.74,0:02:02.31,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(505.34,990.57)\fscx66.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:02.95,0:02:03.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.84,990.57)\fscx79.672\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.00,0:02:03.58,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(127.72,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.05,0:02:03.87,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(181.05,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.10,0:02:04.30,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(253.99,990.57)\fscx75.297\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.15,0:02:04.87,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(315.87,990.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.20,0:02:05.01,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(365.93,990.57)\fscx75.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.25,0:02:05.44,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(428.89,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.30,0:02:05.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(481.45,990.57)\fscx54.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.35,0:02:06.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(539.05,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:03.40,0:02:06.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(575.26,990.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.28,0:02:07.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(62.02,990.57)\fscx64.031\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.33,0:02:07.99,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(139.13,990.57)\fscx90.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.38,0:02:08.50,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(214.07,990.57)\fscx35.609\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.43,0:02:08.76,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.2,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.48,0:02:09.01,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(319.59,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:07.53,0:02:09.27,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(373.12,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:09.97,0:02:10.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(55.41,990.57)\fscx50.813\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.02,0:02:10.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(102.68,990.57)\fscx43.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.07,0:02:10.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(149.05,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.12,0:02:11.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(204.02,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.17,0:02:11.86,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.22,0:02:12.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(305.87,990.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:10.27,0:02:12.42,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(335.63,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.62,0:02:13.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.66,990.57)\fscx41.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.67,0:02:14.13,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(88.89,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.72,0:02:14.60,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(143.91,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.77,0:02:14.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(194.8,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.31,0:01:59.47,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.38,990.57)\fscx78.75\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.35,0:01:59.85,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(133.63,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.39,0:02:00.14,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(176.06,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.43,0:02:00.39,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(229.32,990.57)\fscx71.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.47,0:02:00.89,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(301.92,990.57)\fscx49.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.56,0:02:01.27,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(344.2,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.60,0:02:01.39,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(377.3,990.57)\fscx55.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.64,0:02:01.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(415.77,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.68,0:02:02.06,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(449.4,990.57)\fscx45.797\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:01:59.72,0:02:02.31,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(505.34,990.57)\fscx66.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:02.94,0:02:03.14,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.84,990.57)\fscx79.672\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.02,0:02:03.56,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(127.72,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.06,0:02:03.85,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(181.05,990.57)\fscx70.578\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.10,0:02:04.31,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(253.99,990.57)\fscx75.297\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.14,0:02:04.85,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(315.87,990.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.19,0:02:05.02,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(365.93,990.57)\fscx75.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.27,0:02:05.44,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(428.89,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.31,0:02:05.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(481.45,990.57)\fscx54.938\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.35,0:02:06.44,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(539.05,990.57)\fscx36.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:03.39,0:02:06.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(575.26,990.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.27,0:02:07.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(62.02,990.57)\fscx64.031\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.32,0:02:07.98,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(139.13,990.57)\fscx90.203\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.40,0:02:08.48,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(214.07,990.57)\fscx35.609\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.44,0:02:08.78,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.2,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.48,0:02:09.03,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(319.59,990.57)\fscx46.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:07.52,0:02:09.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(373.12,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:09.98,0:02:10.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(55.41,990.57)\fscx50.813\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.03,0:02:10.44,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(102.68,990.57)\fscx43.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.07,0:02:10.74,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(149.05,990.57)\fscx49.016\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.11,0:02:11.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(204.02,990.57)\fscx60.922\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.15,0:02:11.86,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(264.08,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.23,0:02:12.28,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(305.87,990.57)\fscx24.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:10.28,0:02:12.40,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(335.63,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.61,0:02:13.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(50.66,990.57)\fscx41.328\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.65,0:02:14.11,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(88.89,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.74,0:02:14.61,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(143.91,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.78,0:02:14.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(194.8,990.57)\fscx50.906\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:02:13.82,0:02:15.37,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(256.48,990.57)\fscx48.391\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.87,0:02:15.68,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(311.47,990.57)\fscx61.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.92,0:02:16.15,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(372.6,990.57)\fscx60.672\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:13.97,0:02:16.61,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(434.86,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:14.02,0:02:16.92,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(477.52,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:14.07,0:02:17.23,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(514.27,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:17.88,0:02:18.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.49,990.57)\fscx54.984\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:17.93,0:02:18.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(105.89,990.57)\fscx41.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:17.98,0:02:18.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(144.36,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.86,0:02:15.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(311.47,990.57)\fscx61.594\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.91,0:02:16.16,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(372.6,990.57)\fscx60.672\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:13.99,0:02:16.62,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(434.86,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:14.03,0:02:16.91,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(477.52,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:14.07,0:02:17.24,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(514.27,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.87,0:02:18.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.49,990.57)\fscx54.984\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.95,0:02:18.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(105.89,990.57)\fscx41.813\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:17.99,0:02:18.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(144.36,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:02:18.03,0:02:18.95,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(199.66,990.57)\fscx75.484\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:02:18.08,0:02:19.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(277.7,990.57)\fscx56.531\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.13,0:02:19.83,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(344.02,990.57)\fscx76.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.18,0:02:20.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(399.48,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.23,0:02:20.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(432.58,990.57)\fscx55.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.28,0:02:20.82,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(477.88,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.33,0:02:21.07,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(527.36,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.38,0:02:21.32,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(575.11,990.57)\fscx31.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.43,0:02:21.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(621.09,990.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:18.48,0:02:22.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(661.98,990.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.12,0:02:19.83,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(344.02,990.57)\fscx76.109\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.16,0:02:20.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(399.48,990.57)\fscx10.734\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.24,0:02:20.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(432.58,990.57)\fscx55.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.28,0:02:20.83,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(477.88,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.33,0:02:21.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(527.36,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.37,0:02:21.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(575.11,990.57)\fscx31.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.41,0:02:21.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(621.09,990.57)\fscx36.234\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:18.49,0:02:22.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(661.98,990.57)\fscx45.547\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
 Dialogue: 0,0:02:18.53,0:02:22.33,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(714.55,990.57)\fscx59.609\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:22.98,0:02:23.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.21,990.57)\fscx78.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.03,0:02:23.73,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(140.75,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.08,0:02:24.01,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(183.81,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.13,0:02:24.43,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(220.57,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.18,0:02:25.12,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(284,990.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.23,0:02:25.40,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(337.8,990.57)\fscx56.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.28,0:02:25.81,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(383.8,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.33,0:02:26.09,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(416.9,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.38,0:02:26.37,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(457.53,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:23.43,0:02:26.64,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(505.02,990.57)\fscx44.781\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.30,0:02:28.50,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.33,990.57)\fscx54.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.35,0:02:29.02,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(107.51,990.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.40,0:02:29.54,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(162.28,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.45,0:02:29.89,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(204.94,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.50,0:02:30.24,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(241.7,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.55,0:02:30.93,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(305.18,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.60,0:02:31.45,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(353.75,990.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.65,0:02:31.97,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(394.94,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.70,0:02:32.66,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(453.28,990.57)\fscx56.531\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.75,0:02:33.18,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(509.69,990.57)\fscx56.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
-Dialogue: 0,0:02:28.80,0:02:33.70,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(563.11,990.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.00,0:02:23.16,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(69.21,990.57)\fscx78.422\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.04,0:02:23.75,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(140.75,990.57)\fscx64.656\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.08,0:02:24.00,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(183.81,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.12,0:02:24.42,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(220.57,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.16,0:02:25.12,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(284,990.57)\fscx50.75\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.25,0:02:25.42,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(337.8,990.57)\fscx56.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.29,0:02:25.79,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(383.8,990.57)\fscx35.125\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.33,0:02:26.08,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(416.9,990.57)\fscx31.078\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.37,0:02:26.38,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(457.53,990.57)\fscx50.188\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:23.41,0:02:26.63,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(505.02,990.57)\fscx44.781\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.29,0:02:28.50,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(57.33,990.57)\fscx54.656\fscy54.852\bord0\fad(120,0)\t(100,200,\fscy37.5)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.34,0:02:29.00,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(107.51,990.57)\fscx45.703\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.42,0:02:29.55,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(162.28,990.57)\fscx63.844\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.46,0:02:29.88,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(204.94,990.57)\fscx21.469\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.50,0:02:30.25,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(241.7,990.57)\fscx52.047\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.54,0:02:30.92,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(305.18,990.57)\fscx50.859\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.59,0:02:31.46,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(353.75,990.57)\fscx46.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.67,0:02:31.96,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(394.94,990.57)\fscx36.094\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.71,0:02:32.67,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(453.28,990.57)\fscx56.531\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.75,0:02:33.17,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(509.69,990.57)\fscx56.281\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:28.80,0:02:33.72,OP-TR,lead-in,0,0,0,Effector [fx],{\an8\pos(563.11,990.57)\fscx50.563\fscy54.852\bord0\fad(120,0)\t(100,260,\fscy0)\p1}m 0 0 l 0 100 100 100 100 0 0 0
+Dialogue: 0,0:02:43.02,0:02:46.02,OP-TR,,0,0,0,,

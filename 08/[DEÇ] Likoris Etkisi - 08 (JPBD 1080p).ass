@@ -206,12 +206,12 @@ Dialogue: 15,0:11:03.80,0:11:05.76,Default,,0,0,0,,Goto bey, hoş geldiniz!
 Dialogue: 15,0:11:06.35,0:11:08.18,Default,,0,0,0,,Çisato bugün yok mu?
 Dialogue: 15,0:11:08.18,0:11:09.77,Default,,0,0,0,,Bugün geç gelecek.
 Dialogue: 15,0:11:10.44,0:11:13.11,Default,,0,0,0,,Yahoo! Siparişinizi alayım.
-Dialogue: 15,0:11:13.86,0:11:15.69,Default,##,0,0,0,,İyi olacağına emin misiniz?
-Dialogue: 15,0:11:15.90,0:11:17.57,Default,,0,0,0,,Çisato'nun kıyafeti.
+Dialogue: 15,0:11:13.86,0:11:15.69,Default,,0,0,0,,Sorun çıkmayacağına emin misiniz?
+Dialogue: 15,0:11:15.90,0:11:17.57,Default,,0,0,0,,Çisato'nun elbisesi.
 Dialogue: 15,0:11:36.42,0:11:38.38,Default,,0,0,0,,Takina! Parfe hazır!
-Dialogue: 15,0:11:39.17,0:11:41.47,Default,,0,0,0,,O parfeyi bırakalım artık.
+Dialogue: 15,0:11:39.17,0:11:41.47,Default,,0,0,0,,Bu parfeyi menüden çıkaralım.
 Dialogue: 15,0:11:42.38,0:11:43.93,Default,,0,0,0,,Fark ettin demek!
-Dialogue: 15,0:11:43.93,0:11:46.31,Default,,0,0,0,,Aman canım! Çok tuttu, boş ver.
+Dialogue: 15,0:11:43.93,0:11:46.31,Default,,0,0,0,,Ne olacak be! Baya sevildi zaten!
 Dialogue: 15,0:11:46.31,0:11:48.68,Default,,0,0,0,,Neyse, RoboLiko! Bulaşıklar sende.
 Dialogue: 15,0:11:48.68,0:11:50.10,Default,,0,0,0,,Anlaşıldı. Yıkıyorum.
 Dialogue: 15,0:11:51.35,0:11:53.06,Default,,0,0,0,,Hayır! Öyle değil mal!
@@ -237,7 +237,7 @@ Dialogue: 15,0:13:17.23,0:13:19.32,Default,,0,0,0,,Kalbinin sırrı gibi mi?
 Dialogue: 15,0:13:19.48,0:13:22.01,Default,,0,0,0,,Onu nereden öğrendin, serseri?
 Dialogue: 15,0:13:23.53,0:13:24.90,Default,,0,0,0,,Sır.
 Dialogue: 15,0:13:26.78,0:13:29.37,Default,,0,0,0,,"Zor Bölüm" değil mi bu? Sever misin?
-Dialogue: 15,0:13:29.53,0:13:31.08,Default,,0,0,0,,Hı? Evet.
+Dialogue: 15,0:13:29.53,0:13:31.08,Default,,0,0,0,,Hı? Aynen.
 Dialogue: 15,0:13:31.29,0:13:32.41,Default,,0,0,0,,Favorin kim?
 Dialogue: 15,0:13:32.41,0:13:33.04,Default,,0,0,0,,Powell.
 Dialogue: 15,0:13:33.04,0:13:37.25,Default,,0,0,0,,Polis olan. McClane'le tanışmamalarına\Nrağmen kurdukları bağa bayılmıştım.
@@ -1000,6 +1000,6 @@ Dialogue: 0,0:10:41.16,0:10:41.20,Vuatsigns,,0,0,0,,{=14}{\pos(1270.34,711.32)\f
 Dialogue: 0,0:10:41.20,0:10:41.24,Vuatsigns,,0,0,0,,{=14}{\pos(1270.34,711.33)\fscx72.74\fscy79.71\frz348.17\fry-0.89\frx0.78\fnBahnschrift Condensed\fs48\c&HEFEFF1&\blur0.8}Dr. Yamagişi
 Dialogue: 0,0:10:41.24,0:10:41.32,Vuatsigns,,0,0,0,,{=14}{\pos(1265.87,709.5)\fscx72.74\fscy79.71\frz348.37\fry-0.89\frx0.78\fnBahnschrift Condensed\fs48\c&HEFEFF1&\blur0.8}Dr. Yamagişi
 Dialogue: 0,0:10:41.32,0:10:41.41,Vuatsigns,,0,0,0,,{=14}{\pos(1352.89,129.43)\fscx72.74\fscy79.71\frz351.48\fry-0.89\frx0.78\fnBahnschrift Condensed\fs48\c&HEFEFF1&\blur0.8}Dr. Yamagişi
-Dialogue: 0,0:11:26.00,0:11:26.96,Vuatsigns,,0,0,0,,{\an7\pos(484,974)\fnEncode Sans\fs34\b0\c&H3E3B32&\blur1.5}Gülerek bok tutuyor gibi duruyor olabilir, ama tadı harika!
-Dialogue: 0,0:11:26.96,0:11:28.21,Vuatsigns,,0,0,0,,{\pos(1156.4,780.8)\fnEncode Sans\b0\c&H655D48&\blur1}Gülerek bok tutuyor gibi duruyor olabilir, ama tadı harika!
+Dialogue: 0,0:11:26.00,0:11:26.96,Vuatsigns,,0,0,0,,{\an7\pos(484,974)\fnEncode Sans\fs34\b0\c&H3E3B32&\blur1.5}Görüntü itibarıyla boku andırsa da tadı harika!
+Dialogue: 0,0:11:26.96,0:11:28.21,Vuatsigns,,0,0,0,,{\fnEncode Sans\b0\c&H655D48&\blur1\pos(1022,780.8)}Görüntü itibarıyla boku andırsa da tadı harika!
 Dialogue: 0,0:12:37.99,0:12:39.95,Vuatsigns,,0,0,0,,{\pos(996.16,568.46)\fscy91\frz-7.43\fry-1.01\frx7.63\fax-0.45\fnBahnschrift Condensed\c&HEFEFF1&\blur0.8}TAKİNA
